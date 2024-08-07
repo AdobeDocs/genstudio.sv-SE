@@ -4,9 +4,9 @@ breadcrumb-title: Användarhandbok
 user-guide-description: Lär dig att snabbt hitta och generera varumärkesbaserat material, skapa variationer och optimera upplevelser baserat på insikter om innehållsprestanda i realtid.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 9a591802a4cda9724afbcb28a0a02c2327b0afb4
+source-git-commit: 6a0b8371ac48c4861c1264b50fc2766f2d1f6beb
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '111'
 ht-degree: 3%
 
 ---
@@ -43,6 +43,8 @@ ht-degree: 3%
    + Mallar {#templates}
       + [Arbeta med mallar](content/use-templates.md)
       + [Anpassa mallar](content/customize-template.md)
+      + [Förbered en e-postmall](content/email-template.md)
+      + [Förbered en mall för meta-annonser](content/meta-template.md)
 + Kampanjer {#campaigns}
    + [Kampanjöversikt](campaigns/overview.md)
 + Aktivering {#activation}
