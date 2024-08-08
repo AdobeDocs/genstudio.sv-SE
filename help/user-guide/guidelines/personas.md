@@ -2,9 +2,9 @@
 title: GenStudio [!DNL Personas]
 description: GenStudio [!DNL Personas] är en sann representation av era kundsegment och fångar upp deras intressen, smärtor, preferenser och beteenden.
 feature: Personas Service, Guidelines
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 21d0c7c6aab6f4d81fc4376251e85eb2d4be3f25
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,9 @@ Riktlinjerna beskriver varje stödlinjekategori och tillhörande exempel. Exempl
 
 I följande tabell visas varje kategori med [!DNL Personas] riktlinjer och associerade exempel.
 
-| Stödlinjekategori | Riktlinjeexempel |
-| ------------------| :---------- |
-| Beskrivning | `Brand Uno's Curious Jobseekers are curious about finding a job within their immediate area and need assistance with learning how to find applicable positions, interviewing successfully, and researching transportation options. This prep work will prepare the Curious Jobseeker to take the next step in applying to fitting job opportunities and entering the interview process with confidence.` |
-| Inställningar för meddelanden | `Curious Jobseekers respond to communications and marketing messaging when they feel the Empower Outreach program's capabilities are affordable and successful in helping them obtain the job they desire. They enjoy visuals/graphics and short punchy headlines crafted to get their attention.` |
+| Stödlinjekategori | Riktlinjeexempel | God praxis |
+| ------------------| :---------- |-------------|
+| Personens namn | Representerar ett specifikt målgruppssegment för vilket det genererade marknadsföringsmaterialet är skräddarsytt | Lägg till ett tydligt och koncist personnamn.<br><br>_Exempel_: &quot;marknadschefer för detaljhandel&quot;, &quot;presumtiva vårdstuderande&quot;, &quot;nya sparkonton&quot; |
+| Beskrivning | Kort sammanfattning som definierar viktiga egenskaper, behov och beteenden | Använd ett konsekvent språk för att tydligt beskriva individer och unik målgruppssegmentering (1-2 meningar).<br><br>Fokusera på vad som driver det här målgruppssegmentet (behov, kärnegenskaper osv.)<br><br>Behåll kort och kort beskrivning och undvik djupa demografiska data eller extra information. |
+| Inställningar för meddelanden | Tydlig sammanfattning av de kommunikationsformat du föredrar som gensvar med en viss person | Definiera unika meddelandekrav och motiv för persona, med fokus på hur persona föredrar att ta emot och interagera med kommunikationen.<br><br>Ange specifika meddelandeinställningar i listan (varje listpost 1-2 meningar).<br><br>Begränsa listan till totalt 10 meningar eller färre och se till att den viktigaste informationen markeras.<br><br>_Exempel_:&quot;Meddelandeinställningar för teknikkunnig professionell:<li>Prioriterar kortfattad, jargongfri kommunikation.</li><li>ger positiva svar på datadrivna insikter och åtgärdbar rådgivning.</li><li>Använd bilder som infografik och diagram för att snabbt förstå komplex information.<li><li>Värdar transparens med en ärlig, enkel metod.</li>&quot; |
+| Ytterligare information | Hämta viktig information som är viktig för generering av personaliserat innehåll | Tillhandahåll ytterligare detaljer (1-3 meningar) som är viktiga för innehållspersonalisering och se till att information direkt bidrar till innehållets effektivitet.<br><br>Fokusera på tydlighet och korthet. |

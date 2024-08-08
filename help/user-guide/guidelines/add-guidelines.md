@@ -4,9 +4,9 @@ description: Lär dig hur du lägger till riktlinjer -[!DNL Brands], [!DNL Produ
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: 121a567a6a45f6d17caa621e323cdc3a4aa3dcb4
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '880'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,6 @@ Du kan lägga till varumärkesinformation manuellt, i stället för att överfö
 
    Du kan också klicka på **[!UICONTROL Add category]** om du vill lägga till en anpassad stödlinjekategori, till exempel Foton eller Illustrationer.
 
-1. Lägg till logotyper i avsnittet _Logos_.
 1. Klicka på rubriken _Nytt varumärke_ och ange ett beskrivande varumärkesnamn.
 
 Om du vill visa din skapade [!DNL Brands] klickar du på bakåtpilen i den övre delen av panelen _Varumärke_ och går tillbaka till startsidan för _[!DNL Brands]_.
@@ -105,6 +104,7 @@ Se [[!DNL Products]](products.md).
 1. Klicka på **[!UICONTROL Untitled]** och ange ett namn för [!DNL Product].
 1. Klicka på _Beskrivning_ och ange en beskrivning av [!DNL Product].
 1. Klicka på _Värdeerbjudande_ och ange information om produktens värde.
+1. Klicka på _Ytterligare information_ och ange information som är viktig för att skapa anpassat innehåll.
 1. Om du vill redigera miniatyrbilden håller du pekaren över miniatyrbilden och väljer **[!UICONTROL Edit thumbnail]** på menyn Miniatyrbildsåtgärder.
    1. Överför en ny bild eller ta bort den befintliga överförda bilden på fliken _Överför_.
    1. Välj en bild i galleriet på fliken _Galleri_.
@@ -131,6 +131,7 @@ Se [[!DNL Personas]](personas.md).
 1. Klicka på **[!UICONTROL Untitled]** och ange ett namn för [!DNL Persona].
 1. Klicka på _Beskrivning_ och ange en beskrivning av [!DNL Persona].
 1. Klicka på _Meddelandeinställningar_ och ange meddelandeinformation för [!DNL Persona].
+1. Klicka på _Ytterligare information_ och ange information som är viktig för att skapa anpassat innehåll.
 1. Om du vill redigera miniatyrbilden håller du pekaren över miniatyrbilden och väljer **[!UICONTROL Edit thumbnail]** på menyn _Miniatyrbildsåtgärder_ .
    1. Överför en ny bild eller ta bort den befintliga överförda bilden på fliken _Överför_.
    1. Välj en bild i galleriet på fliken _Galleri_.

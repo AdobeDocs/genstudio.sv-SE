@@ -2,9 +2,9 @@
 title: GenStudio [!DNL Brands]
 description: GenStudio [!DNL Brands] är en omfattande samling varumärkesresurser - marknadsföringskopia, bilder, upplevelser med mera - som kan användas för att skapa varumärkesanpassat innehåll i GenStudio.
 feature: Brands Service, Guidelines
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: c90cec72bd4cad505b7374e0ae81bafc383102e9
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '770'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 Ett varumärke skiljer en organisation, produkt, tjänst eller koncept från andra. Vissa delar av ett varumärke är objektiva, till exempel en logotyp, medan andra är subjektiva, till exempel en viss ton.
 
 GenStudio använder den stora mängden varumärkesinformation från ert varumärke, samarbetar med [!DNL Product]- och [!DNL Persona]-information och bygger ut en heltäckande varumärkesidentitet. Varumärkesidentiteten används för att skapa varumärkesanpassat innehåll med hjälp av Adobe generative AI-teknik.
-
-![[!DNL Brands] - översikt i GenStudio](/help/assets/brand-overview-home.png){width="650" zoomable="yes"}
 
 **Så här visar eller ändrar du ett varumärke**:
 
@@ -36,16 +34,12 @@ I följande avsnitt av riktlinjerna beskrivs varje kategori, riktlinjer för exe
 
 I följande tabell visas varje kategori av varumärkesstöd och riktlinjer.
 
-| Stödlinjekategori | Riktlinjeexempel |
-| ------------------| :---------- |
-| Ton | `Speak like a human, Avoid jargon, Speak with confidence` |
-| Varumärkesvärden | `Be the leader, Show authenticity` |
-| Unikt attribut | `Driven by empathy for others, Celebrate diverse ideas, Be a cheerleader for change` |
-| Vanliga nyckelord | `impact, progressive, inclusive, motivation, perseverance` |
-| Riktlinjer för meddelanden | `Use inclusive terms, Avoid using the word "utilize", Incorporate simple phrasing, Make CTAs clear and concise` |
-| Begränsningar för meddelanden | `Avoid repeating adjectives or adverbs, Avoid colloquialisms` |
-
-![Riktlinjer för varumärkesröst i GenStudio](/help/assets/brand-voice-guidelines.png){width="650" zoomable="yes"}
+| Stödlinjekategori | Beskrivning | God praxis |
+| ------------------| :---------- | :---------- |
+| Ton | Varumärkets personlighet uttryckt genom skriftlig kommunikation | Använd beskrivande ord för att tydligt förmedla varumärkets känslor och ton. <br>_Exempel_: &quot;äkta&quot;, &quot;lekfull&quot;<br><br>Var kortfattad (3-6 riktlinjer) och fokusera på viktiga varumärkesattribut.<br><br>Välj ord/fraser som är konsekventa över alla kommunikationskanaler för att skapa en sammanhängande varumärkesidentitet. |
+| Varumärkesvärden | Principer som driver varumärkeskultur, kundupplevelser och affärsstrategier | Använd beskrivande ord för att förmedla varumärkets uppdrag, vision och målgruppens behov. <br>_Exempel_:&quot;autenticitet&quot;,&quot;inspiration&quot;,&quot;progressiv&quot;<br><br>Var kortfattad (3-6 riktlinjer) och fokusera på kärnvärden/kärnteman. |
+| Redaktionella riktlinjer | Kommunikationsriktlinjer som definierar de bästa metoderna för att skapa varumärkesbudskap | Använd positiva fraser (5-10 riktlinjer) för att skapa en stark grund.<br>_Exempel_: &quot;Använd enkelt, tillgängligt språk&quot; i stället för &quot;Undvik att använda jargon&quot;<br><br>Tillhandahåll tydlig och åtgärdbar vägledning. <br>_Exempel_: &quot;Behåll meningar under 20 ord&quot; i stället för &quot;Var kortfattad&quot;<br><br>Återspeglar ditt varumärkes stil, t.ex. genom att använda specifika syntaxinställningar. <br>_Exempel_:&quot;Använd ett långt tankstreck i stället för ett kolon&quot;,&quot;Använd skiftläge för mening&quot;<br><br>Skapa precisa riktlinjer som bibehåller en konsekvent layout för alla utdata. |
+| Redigeringsbegränsningar | Kommunikationsriktlinjer som definierar vad som ska undvikas i varumärkesmeddelanden | Använd direkt negativ fras (5-10 riktlinjer) för att specificera vad som ska undvikas. <br>_Exempel_:&quot;Undvik att använda..&quot;<br><br>Ange tydlig och användbar vägledning. <br>_Exempel_:&quot;Undvik hetoriska frågor&quot; |
 
 ### Kanalriktlinjer
 
@@ -53,16 +47,14 @@ Varje kanal har vissa inbyggda riktlinjer som påverkar sammansättningen av kan
 
 I följande tabell visas varje kanalfragment, kanaler som det är tillgängligt för, beskrivning av fragmentet, riktlinjer och exempelresultat.
 
-| Fragment | Kanaler | Beskrivning | Riktlinjeexempel | Resultatexempel |
-| ------------------| --------- | --------- | -------- | :---------- |
-| Allmänt | e-post | En andra ämnesrad eller e-postförhandsvisningstext | `Engage quickly, Friendly but serious tone` | — |
-| Ämne | e-post | En intressant och intressant titel som sammanfattar innehållet i ett e-postmeddelande | `Between 20 and 40 characters, using short punchy phrasing` | &quot;Var den inspiration du behövde. Mentor a tonåringar.&quot; |
-| Förrubrik | e-post | En andra ämnesrad eller e-postförhandsvisningstext | `Between 45 and 70 characters, communicating value add detail` | &quot;Din värld kommer att öppnas när du bestämmer dig för att mentorera lokal ungdom.&quot; |
-| Headline | e-post, sociala annonser, webbannonser | En titel eller fras som fångar läsarens uppmärksamhet | `Mimic the vibe of the subject, Continue the story` | &quot;Ta en tonåring under vingen och se dem flyga!&quot; |
-| Brödtext | e-post, sociala annonser, webbannonser | Marknadsföringsmaterial som innehåller meddelanden, länkar och bilder | `Limit to 2 to 4 sentences, Mix sentence length and phrasing to keep attention, Avoid slang, Maintain smart and respectful tone` | &quot;Att styra en tonåring genom livets upp- och nedgraderingar förändrar dem ... och du. Lägg ned lite tid på att hjälpa er community och se hur er trädgård växer.&quot; |
-| CTA | e-post, sociala annonser, webbannonser | (Call to Action) En instruktion som ges läsaren som inspirerar till ett svar. Vanligtvis ett eller två ord, till exempel `Get started` | `Use 1-3 words, Use clear verbiage` | &quot;Mentor today&quot; |
-
-![Kanalriktlinjer i GenStudio](/help/assets/channel-guidelines.png){width="650" zoomable="yes"}
+| Fragment | Kanaler | Beskrivning | God praxis |
+| ------------------| --------- | --------- | -------- |
+| Allmänt | e-post, sociala annonser | En andra ämnesrad eller e-postförhandsvisningstext | Definiera övergripande ton/känslor för att vara enhetliga i hela e-postmeddelandet (2-5 riktlinjer).<br>_Exempel_: &quot;Bibehåll en användarvänlig och lättåtkomlig ton&quot;, &quot;Undvik överformellt språk&quot;<br><br> |
+| Ämne | e-post | En intressant och intressant titel som sammanfattar innehållet i ett e-postmeddelande | Ge särskild vägledning (2-5 riktlinjer) om ton, längd osv. Lägg till tidigare framgångsrika ämnesrader i avsnittet _Exempel_ för bättre kvalitet.<br>_Exempel_: &quot;Justera motivet med e-postbrödtext&quot; |
+| Förrubrik | e-post | En andra ämnesrad eller e-postförhandsvisningstext | Ge specifik vägledning (2-5 riktlinjer) om ton, idealisk längd osv. Lägg till tidigare framgångsrika prehuvuden i avsnittet _Exempel_ för bättre kvalitet.<br>_Exempel_: &quot;Begränsa till 60-80 tecken&quot; |
+| Headline | e-post, sociala annonser, webbannonser | En titel eller fras som fångar läsarens uppmärksamhet | Ge specifik vägledning (2-5 riktlinjer) om ton, idealisk längd osv. Lägg till tidigare framgångsrika rubriker i avsnittet _Exempel_ för bättre kvalitet.<br>_Exempel_: &quot;Använd punktliga satser för att få uppmärksamhet&quot; |
+| Brödtext | e-post, sociala annonser, webbannonser | Marknadsföringsmaterial som innehåller meddelanden, länkar och bilder | Ge specifik vägledning (2-5 riktlinjer) om ton, idealisk längd osv. Lägg till en tidigare kopia i avsnittet _Exempel_ för bättre kvalitet.<br>_Exempel_: &quot;Begränsa till 80-100 tecken&quot;, &quot;Undvik för stora akronymer&quot; |
+| CTA | e-post, sociala annonser, webbannonser | (Call to Action) En instruktion som ges läsaren som inspirerar till ett svar. Vanligtvis ett eller två ord, till exempel `Get started` | Ge specifik vägledning (2-5 riktlinjer) om ton, idealisk längd osv. Lägg till en tidigare kopia i avsnittet _Exempel_ för bättre kvalitet.<br>_Exempel_: &quot;Använd inte slutinterpunktion&quot; |
 
 <!-- Not in M2.1 // ### Image guidelines
 
@@ -80,13 +72,13 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} -->
+![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
 
-### Logotyper
+### Logos
 
-Lägg till logotyper till ditt varumärke på fliken **[!UICONTROL Logos]**.
+Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![Riktlinjer för logotyp i GenStudio](/help/assets/logos.png){width="650" zoomable="yes"}
+![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
 ## Varumärkesvalidering
 
