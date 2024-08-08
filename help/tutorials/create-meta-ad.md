@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
 workflow-type: tm+mt
-source-wordcount: '934'
+source-wordcount: '869'
 ht-degree: 0%
 
 ---
@@ -35,39 +35,34 @@ Om du vill börja generera en ny annonsupplevelse med Meta använder du en tillg
 
 ## Lägg till parametrar
 
-Genom att lägga till parametrar för riktlinjer förbättras innehållsgenereringsprocessen och det är ett viktigt steg när det gäller att förbereda sig för att generera en Meta-annons.
+Om du lägger till [riktlinjer](/help/user-guide/guidelines/overview.md) och resurser i _Parametrar_ i promptområdet förbättras innehållsgenereringsprocessen och det är ett viktigt steg när det gäller att förbereda sig för att generera en Meta-annons.
 
 **Så här lägger du till parametrar och resurser**:
 
-1. Klicka på ikonen _Parametrar_ för att utöka parameteralternativen och lägga till referensparametrar och resurser.
+1. Klicka på ikonen _Parametrar_ för att utöka promptområdet.
 1. I avsnittet _Parametrar_ väljer du riktlinjer -[!DNL Brands], [!DNL Personas] och [!DNL Products] - för att informera om hur du skapar innehåll.
 
    Om det inte finns några varumärken, profiler eller produkter tillgängliga från dessa menyer [lägger du till riktlinjer i din GenStudio](/help/user-guide/guidelines/add-guidelines.md).
 
-1. I avsnittet _Innehåll_ lägger du till innehåll som ska användas i upplevelsen *och* för att påverka innehållsgenereringen. Det finns tre sätt att lägga till resurser:
-   * Klicka på **[!UICONTROL Select from content]** för att välja resurser (bilder eller video) som redan har publicerats till [!DNL Content]. Använd filtren för att begränsa sökresultaten ytterligare.
+1. Klicka på **[!UICONTROL Select content]** för att lägga till innehåll som ska användas i upplevelsen *och* för att påverka innehållsgenereringen.
+   * Klicka på **[!UICONTROL Select from content]** för att välja resurser (bilder) som redan har publicerats till [!DNL Content]. Använd filtren för att begränsa sökresultaten ytterligare.
    * Klicka på **[!UICONTROL Upload]** för att bläddra bland dina filer och välja resurser som ska användas. Du kan även importera från Microsoft OneDrive eller Dropbox.
-   * Dra och släpp bildfiler i avsnittet _Innehåll_.
+   * Dra och släpp resurser i avsnittet _Innehåll_.
 
-   När du väljer resurser från GenStudio-innehåll väljer du bland resurser som redan har sparats i [[!DNL Content]](/help/user-guide/content/overview.md). Du kan filtrera efter kanal, produkt, språk med mera för att snabbt hitta de resurser du behöver.
+När du är klar med att lägga till parametrar kan du komprimera frågeområdet genom att klicka på ikonen _Parametrar_ igen.
 
-När du är klar med att lägga till parametrar kan du komprimera avsnitten *Parametrar* och *Innehåll* genom att klicka på ikonen _Parametrar_ igen.
-
-## Använda en uppmaning
+## Ange en uppmaning
 
 När riktlinjer har valts kan du snabbt skapa innehåll för din nya Meta-annonsupplevelse med hjälp av det naturliga språket.
 
 Läs [Skriv effektiva uppmaningar](/help/user-guide/effective-prompts.md) om du vill veta mer om hur du skriver uppmaningar.
 
-**Så här använder du en fråga**:
+**Så här skriver du en fråga**:
 
 1. Ange en uppmaning i rutan _&quot;Beskriv de upplevelser du vill generera&quot;_ .
-   <!-- If the prompt box is not visible, click **[!UICONTROL Open to prompt]** to expand it. -->
-
-<!-- 1. Optionally, click one of the prompt suggestions visible just above the prompt text box. Clicking a suggestion auto-fills the suggested prompt in the prompt box. -->
 1. Klicka på **[!UICONTROL Generate]**.
 
-Som standard visas fyra genererade variationer - som alla följs av uppmaningen, riktlinjer och innehåll som du har lagt till - på arbetsytan.
+Som standard genereras och visas fyra genererade variationer - som alla följs av uppmaningen, riktlinjer och innehåll som du har lagt till - på arbetsytan.
 
 ## Välj kanal för Meta-annonser
 
@@ -92,15 +87,13 @@ Innan du väljer vad som ska skickas för godkännande eller publicering till [!
 
 Om du vill optimera de annonser som skapas och säkerställa strikt överensstämmelse med varumärkesidentiteten kan du utnyttja kraften i kontrollen [_Varumärkesriktlinjer_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - som ger en sammanfattning av varumärkesjusteringen för en variant - och [_Varumärkesvalideringspanelen_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - och som visar omfattande information om varumärkesvalidering och upplysta förbättringsområden.
 
-Du kan redigera enskilda annonsfragment manuellt eller [generera förfinade varianter](/help/user-guide/create/generate-variants.md) av det ursprungliga resultatet för att få en anpassning till ditt varumärke.
-
 **Så här verifierar du varumärkesjustering**:
 
 1. Klicka på ikonen [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) för en variant och se en sammanfattning av hur varianten fungerar när den kontrolleras mot ditt varumärke.
 1. Klicka **[!UICONTROL Review]** _eller_ på ikonen för validering av varumärke i den övre menyraden för att visa information om de fragment och riktlinjer som behöver förbättras, så att [_panelen för validering av varumärke_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) visas.
 
 1. Växla mellan annonserna för att se hur ni kan förbättra det genererade innehållet för att bli mer varumärkesanpassade.
-1. [Granska e-postmeddelanden ](#revise-generated-emails) manuellt eller [generera varianter](/help/user-guide/create/generate-variants.md) för att vara säker på att era annonser är i linje med ert varumärke.
+1. [Granska e-postmeddelanden manuellt](#revise-generated-emails) för att säkerställa att era annonser är i linje med ert varumärke.
 
 Se [Varumärkesvalidering](/help/user-guide/guidelines/brand-validation.md).
 

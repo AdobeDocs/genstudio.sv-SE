@@ -4,7 +4,7 @@ description: Lär dig hur du lägger till riktlinjer -[!DNL Brands], [!DNL Produ
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: 121a567a6a45f6d17caa621e323cdc3a4aa3dcb4
+source-git-commit: 3693d7dc3b9ee5c4b6c22bdc373f3c78bded4bef
 workflow-type: tm+mt
 source-wordcount: '880'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Att lägga till riktlinjer i GenStudio är ett viktigt steg i skapandet. Riktlin
 
 ## Lägg till [!DNL Brands]
 
-Om du vill lägga till ett varumärke i GenStudio kan du [överföra en varumärkesguide](#upload-brand-guidelines) eller [skapa ett varumärke manuellt](#manually-add-brand) genom att välja riktlinjer och ange din varumärkesinformation. [Publish är ett varumärke](#publish-brand) till [!DNL Content] som gör det tillgängligt för att generera varianter.
+Om du vill lägga till ett varumärke i GenStudio kan du [överföra en varumärkesguide](#upload-brand-guidelines) eller [skapa ett varumärke manuellt](#manually-add-brand) genom att välja riktlinjer och ange din varumärkesinformation. [Publish är ett varumärke](#publish-brand) till [!DNL Content] som gör det tillgängligt för framtida innehållsgenerering.
 
 Klicka på **[!DNL Brands]** i det vänstra navigeringsområdet. Välj **Lägg till varumärke** på panelen _[!DNL Brands]_.
 
@@ -82,7 +82,7 @@ Innan du publicerar ditt varumärke kan du klicka dig igenom avsnitten _Riktlinj
 
 När varumärket publiceras visas en banderoll som bekräftar att ditt varumärke är klart att användas: *Varumärke publicerat och tillgängligt att använda*.
 
-Det publicerade varumärket kan nu användas för att generera varianter i _[!DNL Create]_eller_[!DNL Content]_.
+Det publicerade varumärket kan nu användas i _[!DNL Create]_eller_[!DNL Content]_.
 
 ### Hantera [!DNL Brands]
 

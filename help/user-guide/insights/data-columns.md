@@ -3,9 +3,9 @@ title: Datakolumner för  [!DNL Insights]
 description: Förstå vad varje kolumn i ett  [!DNL Insights] rutnät representerar.
 feature: Attributes, Insights
 recommendations: noDisplay
-source-git-commit: 52a37b83b6f13b16a2234e50827c8d08b9a86680
+source-git-commit: 4d5de6fc053297c823be9005c628dafcecc3f7a7
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,3 @@ Tillgängliga kolumner är:
 | Impressions | Antalet gånger kampanjannonser har visats för tittarna via registrerade visningar. |
 | Syfte | Målet för en kampanj eller ett projekt. Ange målet när du skapar kampanjen eller projektet.<br>Måltyper är: `Awareness`, `Traffic`, `Engagement`, `Leads`, `App promotion`, `Sales` |
 | Utgift | Det totala belopp som spenderats i USD för alla annonser i en kampanj. |
-| Videouppspelning | Antalet gånger som en video börjar spelas upp. Videon kan spelas upp när en video börjar spelas upp automatiskt eller när någon klickar för att spela upp den. |

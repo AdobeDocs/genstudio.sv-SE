@@ -2,9 +2,9 @@
 title: Varumärkesvalidering i GenStudio
 description: Läs om hur det inbyggda varumärkesvalideringssystemet fungerar i GenStudio.
 feature: Brands Service, Guidelines
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '593'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ På _varumärkesvalideringspanelen_ kan du filtrera de riktlinjer som visas. Kli
 
 ## Förbättra varumärkesanpassningen
 
-Använd kontrollen _Varumärkesriktlinjer_ och panelen _Varumärkesvalidering_ om du vill maximera effekten av genererat innehåll och behålla en konsekvent varumärkesidentitet. Du kan ändra specifika fragment manuellt eller [generera förfinade varianter](/help/user-guide/create/generate-variants.md) för att anpassa dem efter [varumärkesriktlinjerna](brands.md).
+Använd kontrollen _Varumärkesriktlinjer_ och panelen _Varumärkesvalidering_ om du vill maximera effekten av genererat innehåll och behålla en konsekvent varumärkesidentitet. Du kan ändra specifika fragment manuellt för att anpassa dem efter [varumärkesriktlinjerna](brands.md).
 
 **Så här förbättrar du varumärkesjusteringen för genererade innehållsvarianter**:
 

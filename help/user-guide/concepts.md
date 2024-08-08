@@ -2,9 +2,9 @@
 title: GenStudio concepts
 description: Lär dig Adobe GenStudions koncept och terminologi.
 feature: Workflow, Generative AI
-source-git-commit: 9a591802a4cda9724afbcb28a0a02c2327b0afb4
+source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,8 @@ GenStudio är en fristående företagsprodukt som ger möjlighet att effektivise
 Med GenStudio kan du
 
 - Skapa varumärkesanpassat innehåll med naturliga språktips
-- Generera varianter för att personalisera över olika kanaler eller uppdatera en pågående kampanj
+- Samarbeta med intressenter för att granska och godkänna genererat innehåll
+- Spara genererat och godkänt innehåll för framtida marknadsföringskampanjer
 - Utvärdera innehållsprestanda med insikter om kampanjer och innehållsattribut
 
 ## Generativ AI-teknik

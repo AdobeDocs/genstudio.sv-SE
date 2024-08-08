@@ -3,9 +3,9 @@ title: Anpassa mallar
 description: Lär dig hur du skapar en anpassad mall för GenStudio.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 1b5b12615c52823aa2f1c10ad704e3fc0dabb1e9
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '809'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,12 @@ GenStudio fyller automatiskt i vissa fält i mallar, så du behöver inte ta med
 >[!WARNING]
 >
 >För Instagram-annonser visas den genererade rubriken inte i den slutliga versionen.
+
+#### Fältnamn för märkeslogotyp
+
+Om du vill lägga till en logotyp för ett varumärke i mallen använder du följande kod för att återge standardlogotypen:
+
+```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
 
 #### Manuella fältnamn
 

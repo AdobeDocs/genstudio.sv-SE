@@ -3,9 +3,9 @@ title: Förbered en mall för Meta-annonser för GenStudio
 description: Lär dig hur du skapar en anpassad mall för Meta-annonser för GenStudio.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Innan du förbereder en mall för Meta-annonser måste du se till att du har lag
 
 **Exempel**: Om du vill att innehållet i en Meta ad-mall inte ska vara längre än 500 tecken lägger du till det kravet i [kanalriktlinjerna](/help/user-guide/guidelines/brands.md#channel-guidelines) för fältet &quot;body&quot;.
 
-Om inga riktlinjer läggs till i GenStudio används standardinställningarna.
+Om inga riktlinjer läggs till i GenStudio används standardvärden.
 
 ## Utforma en mall
 

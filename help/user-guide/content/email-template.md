@@ -3,9 +3,9 @@ title: Förbered en e-postmall för GenStudio
 description: Lär dig hur du skapar en anpassad e-postmall för GenStudio.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ Se [Anatomi för en mall](/help/user-guide/content/use-templates.md#anatomy-of-a
 
 Innan du förbereder en mall för Meta-annonser måste du se till att du har lagt till [riktlinjer](/help/user-guide/guidelines/overview.md) i din GenStudio och fyllt i dem med omfattande information om relevanta varumärken. [varumärkesriktlinjerna](/help/user-guide/guidelines/brands.md) påverkar det genererade innehållet direkt.
 
-> **Exempel**: Om du vill att brödtexten i en e-postmall inte ska vara längre än 500 tecken lägger du till det kravet i [kanalriktlinjerna](/help/user-guide/guidelines/brands.md#channel-guidelines) för fältet&quot;brödtext&quot;.
+**Exempel**: Om du vill att brödtexten i en e-postmall inte ska vara längre än 500 tecken lägger du till det kravet i [kanalriktlinjerna](/help/user-guide/guidelines/brands.md#channel-guidelines) för fältet&quot;brödtext&quot;.
+
+Om inga riktlinjer läggs till i GenStudio används standardvärden.
 
 ## Koda en e-postmall
 
