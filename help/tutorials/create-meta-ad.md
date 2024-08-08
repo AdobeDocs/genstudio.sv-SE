@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '868'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ Om du vill börja generera en ny annonsupplevelse med Meta använder du en tillg
 **Så här väljer du en mall för Meta-annons**:
 
 1. I _[!DNL Create]_klickar du på&#x200B;**[!UICONTROL Meta ads]**i_&quot;Vad vill du skapa idag?&quot;avsnittet _.
-1. I vyn _Välj mall_ växlar du filtret _Kanaler_ till **[!UICONTROL Meta ads]**.
 1. Använd sökalternativet bredvid _Filter_ för att hitta en specifik mall för metaannonser.
-1. Klicka för att välja en mall eller för att växla mellan flera mallar och klicka på **[!UICONTROL Use]**. Om du väljer flera mallar används alla valda mallar när varianterna genereras.
+1. Klicka för att välja en mall och klicka på **[!UICONTROL Use]**.
 
    Den här åtgärden öppnar arbetsytan, som är navet för innehållsskapande.
 
@@ -53,7 +52,7 @@ När du är klar med att lägga till parametrar kan du komprimera frågeområdet
 
 ## Ange en uppmaning
 
-När riktlinjer har valts kan du snabbt skapa innehåll för din nya Meta-annonsupplevelse med hjälp av det naturliga språket.
+När riktlinjer har valts kan du snabbt skapa innehåll för din nya Meta-annonsupplevelse med hjälp av det naturliga språket. Detaljerade uppmaningar ger högre kvalitet än otydliga eller obeskrivliga uppmaningar.
 
 Läs [Skriv effektiva uppmaningar](/help/user-guide/effective-prompts.md) om du vill veta mer om hur du skriver uppmaningar.
 
@@ -62,7 +61,7 @@ Läs [Skriv effektiva uppmaningar](/help/user-guide/effective-prompts.md) om du 
 1. Ange en uppmaning i rutan _&quot;Beskriv de upplevelser du vill generera&quot;_ .
 1. Klicka på **[!UICONTROL Generate]**.
 
-Som standard genereras och visas fyra genererade variationer - som alla följs av uppmaningen, riktlinjer och innehåll som du har lagt till - på arbetsytan.
+Som standard genereras och visas fyra varianter på arbetsytan, som alla föds av uppmaningen, riktlinjer och innehåll som du har lagt till.
 
 ## Välj kanal för Meta-annonser
 
@@ -76,6 +75,7 @@ Innan du väljer vad som ska skickas för godkännande eller publicering till [!
 
 **Så här granskar du genererade varianter**:
 
+* **Om du vill redigera namnet på metadatautkastet eller utkastet** klickar du i titeln _Namnlöst utkast_ högst upp på arbetsytan och anger en ny titel.
 * **Om du vill redigera en Meta-annons manuellt** dubbelklickar du på något av annonsfragmenten (till exempel ämnesraden, huvudet eller brödtexten) och redigerar efter behov.
 
   Subject line and preheader only require a single click to edit, while the header and body copy require a double click.
@@ -93,7 +93,7 @@ Om du vill optimera de annonser som skapas och säkerställa strikt överensstä
 1. Klicka **[!UICONTROL Review]** _eller_ på ikonen för validering av varumärke i den övre menyraden för att visa information om de fragment och riktlinjer som behöver förbättras, så att [_panelen för validering av varumärke_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) visas.
 
 1. Växla mellan annonserna för att se hur ni kan förbättra det genererade innehållet för att bli mer varumärkesanpassade.
-1. [Granska e-postmeddelanden manuellt](#revise-generated-emails) för att säkerställa att era annonser är i linje med ert varumärke.
+1. [Granska annonser manuellt](#revise-generated-meta-ads) för att säkerställa att era annonser är i linje med ert varumärke.
 
 Se [Varumärkesvalidering](/help/user-guide/guidelines/brand-validation.md).
 

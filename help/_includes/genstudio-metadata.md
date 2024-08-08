@@ -1,7 +1,7 @@
 ---
-source-git-commit: 82615ff94cf2f0daf83062cf5c6547a2887d010e
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -13,8 +13,8 @@ ht-degree: 0%
 | ------------- | ----------- | -------- |
 | Kampanjnamn (projektnamn) | Standardmetadata som hämtas och lagras med resursen | Y | N |
 | Märkesnamn | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) har lagts till i GenStudio och publicerats för användning. | Y | N |
-| Produkter | [[!DNL Products]](/help/user-guide/guidelines/products.md) har lagts till i GenStudio för användning. | Y | N |
-| Personas | [[!DNL Personas]](/help/user-guide/guidelines/personas.md). läggs till i GenStudio för användning. | Y | N |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) har lagts till i GenStudio för användning. | Y | N |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md). läggs till i GenStudio för användning. | Y | N |
 | Kanaler | Innehållstyper i GenStudio som resursen används för, till exempel e-post och Meta-annonser. | Y | N |
 | Tidsram | Tidsram som resursen användes för, t.ex. kvartal, årstid, år. Exempel: `Winter 2023` | Y | N |
 | Län | Områden som tillgången används för. Exempel: `North America`, `APAC`, `Italy` | Y | N |

@@ -4,9 +4,9 @@ description: Lär dig hur du lägger till riktlinjer -[!DNL Brands], [!DNL Produ
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: 3693d7dc3b9ee5c4b6c22bdc373f3c78bded4bef
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '874'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Klicka på **[!DNL Brands]** i det vänstra navigeringsområdet. Välj **Lägg t
 
 Ni kan ladda upp era egna varumärkesdokument för att fylla i ett nytt varumärke i GenStudio.
 
-Se [[!DNL Brands]](/help/user-guide/guidelines/brands.md) om du vill se en exempelvarumärkesguide.
+Se [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
 **Så här överför du varumärkesdokument**:
 
@@ -110,7 +110,7 @@ Se [[!DNL Products]](products.md).
    1. Välj en bild i galleriet på fliken _Galleri_.
 1. Klicka på **[!UICONTROL Use image]**.
 
-   Om du vill visa din skapade [!DNL Products] klickar du på bakåtpilen i den övre delen av rutan _Produkt_ för att gå tillbaka till startsidan för _[!DNL Products]_.
+   Om du vill visa din skapade [!DNL Products] klickar du på bakåtpilen i den övre delen av vyn _Produkt_ för att gå tillbaka till startsidan för _[!DNL Products]_.
 
 ### Hantera [!DNL Products]
 
@@ -137,7 +137,7 @@ Se [[!DNL Personas]](personas.md).
    1. Välj en bild i galleriet på fliken _Galleri_.
 1. Klicka på **[!UICONTROL Use image]**.
 
-Om du vill visa din skapade [!DNL Personas] klickar du på bakåtpilen i den övre delen av rutan _Persona_ för att gå tillbaka till startsidan för _[!DNL Personas]_.
+Om du vill visa din skapade [!DNL Personas] klickar du på bakåtpilen i den övre delen av vyn _Persona_ för att gå tillbaka till startsidan för _[!DNL Personas]_.
 
 ### Hantera [!DNL Personas]
 

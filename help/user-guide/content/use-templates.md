@@ -2,7 +2,7 @@
 title: Arbeta med mallar
 description: Lär dig skapa engagerande upplevelser i GenStudio med hjälp av mallar.
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 0%
@@ -73,7 +73,7 @@ Hitta och använd en befintlig mall för att skapa upplevelser.
 
 1. I _[!DNL Content]_väljer du avsnittet **[!UICONTROL Templates]**.
 
-   ![Listan Innehållsmall](../../assets/content-templates.png)
+   ![Listan Innehållsmall](../../assets/content-templates.png){width="650" zoomable="yes"}
 
 1. Välj en mall för en fullständig vy och en lista med detaljer.
 

@@ -2,7 +2,7 @@
 title: Varumärkesvalidering i GenStudio
 description: Läs om hur det inbyggda varumärkesvalideringssystemet fungerar i GenStudio.
 feature: Brands Service, Guidelines
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '593'
 ht-degree: 0%
@@ -30,9 +30,9 @@ Klicka på ikonen för att se vilka riktlinjer som är kompatibla med ert varum�
 
 Se [Förbättra varumärkesjusteringen](#improve-brand-alignment).
 
-## Panelen Varumärkesvalidering
+## Panelen för varumärkesvalidering
 
-Panelen _Varumärkesvalidering_ innehåller detaljerad varumärkesverifieringsinformation och visar på möjligheter till förbättring för varje variantfragment.
+_Panelen för varumärkesvalidering_ innehåller detaljerad varumärkesverifieringsinformation och visar upp möjligheter till förbättring för varje variantfragment.
 
 På _varumärkesvalideringspanelen_ visas information om:
 
@@ -59,7 +59,7 @@ På _varumärkesvalideringspanelen_ kan du filtrera de riktlinjer som visas. Kli
 * **Alla riktlinjer**—_Visa felaktiga och godkända riktlinjer_ visar alla riktlinjer som varianterna mäts mot.
 * **Godkända riktlinjer**—_Visa godkända riktlinjer_ visar endast riktlinjer som godkänts vid varumärkesvalidering.
 
-<!-- The _Brand Validation panel_ has different areas of focus for each content channel:
+<!-- The _Brand validation panel_ has different areas of focus for each content channel:
 
 * Email - brand voice and channel compliance
 * Images - application photography restrictions and other considerations -->

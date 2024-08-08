@@ -1,9 +1,9 @@
 ---
 title: Användarhandbok för Adobe GenStudio
 description: Lär dig hur du använder GenStudio och generativ AI för att personalisera innehållsleveranskedjan.
-source-git-commit: 43b059fe65a06b1cb6bba03c4e811c83af75d6f3
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 # GenStudio Användarhandbok
 
-Adobe GenStudio, som bygger på generativ AI, revolutionerar innehållsleveranskedjan så att ni kan skapa, mäta och hantera personaliserade upplevelser som stärker ert varumärke.
+GenStudio är en omfattande marknadsföringslösning som bygger på Adobe generativ AI-teknik. Det ger marknadsförarna möjlighet att effektivisera innehållsförsörjningskedjan, från idé till leverans och resultatmätning.
 
-Med GenStudio kan marknadsförare och team enkelt generera och förfina högklassigt innehåll som följer varumärkesriktlinjerna. GenStudio snabbar upp marknadsföringens livscykel och sparar både tid och resurser.
+Med GenStudio kan företag utnyttja generativ AI för att snabba upp skapandet av innehåll, enkelt hitta och återanvända innehåll samt driva framgångsrika flerkanalskampanjer.
 
 ## Utforska GenStudio funktioner
 

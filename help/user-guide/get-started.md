@@ -3,9 +3,9 @@ title: Kom igång med GenStudio
 description: Lär dig hur du konfigurerar din GenStudio för att generera nytt varumärkesanpassat marknadsföringsmaterial.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
-source-git-commit: 2501d1e36f76d1534a735b9147fb42f762a665e8
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '1066'
+source-wordcount: '1049'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ I följande tabell visas standardbehörigheter för GenStudio medarbetare:
 
 ### Administratörer
 
-Administratörsanvändare skapar och tilldelar användare till någon av de roller som stöds i GenStudio. De kan tilldela enskilda skapare eller medarbetare nya behörigheter efter behov. Deras viktigaste uppgift är att slutföra de inledande arbetsuppgifterna som förbereds för driftsättningen av GenStudio.
+**Administratörer** skapar och tilldelar användare till någon av de roller som stöds i GenStudio. De kan tilldela enskilda skapare eller medarbetare nya behörigheter efter behov. Deras viktigaste uppgift är att slutföra de inledande arbetsuppgifterna som förbereds för driftsättningen av GenStudio.
 
 I följande tabell visas GenStudio standardadministratörsbehörigheter:
 
@@ -93,7 +93,7 @@ I följande tabell visas GenStudio standardadministratörsbehörigheter:
 
 Systemadministratörer förbereder sin organisations GenStudio-miljö för att skapare och medarbetare ska kunna skapa kampanjresurser. Dessa preliminära installationsuppgifter omfattar:
 
-1. [Konfigurera riktlinjer](./guidelines/overview.md) för [!DNL Brands], [!DNL Products] och [!DNL Personas]. Ställa in de viktigaste byggstenarna i organisationens märke **[Lägg till riktlinjer](./guidelines/overview.md)** ([!DNL Brands], [!DNL Products] och [!DNL Personas]) i GenStudio. Att bygga upp de viktigaste byggstenarna i er organisations varumärkesidentitet är en nödvändig förutsättning för arbetet hos GenStudio skapare och medarbetare. Du kan antingen överföra varumärkesriktlinjer eller ange varumärkesinformation manuellt.
+1. [Lägg till riktlinjer](./guidelines/overview.md) för [!DNL Brands], [!DNL Products] och [!DNL Personas]. Att bygga upp de viktigaste byggstenarna i er organisations varumärkesidentitet är en nödvändig förutsättning för arbetet hos GenStudio skapare och medarbetare. Du kan antingen överföra varumärkesriktlinjer eller ange varumärkesinformation manuellt.
    * **Förbered dina riktlinjer**. Ju mer beskrivande och omfattande varumärkesriktlinjerna är, desto bättre resultat får GenStudio. Ta med korta exempel på funktioner som du anser vara viktiga för ditt varumärke och lägg till beskrivningar av beteenden som du vill utesluta när du skapar GenStudio-innehåll. GenStudio extraherar information från dessa överförda dokument och börjar bygga upp ert varumärke. Information som varumärkesröst, kanal och riktlinjer för bilder fylls i när GenStudio sätter ihop varje riktlinje från dina överförda dokument.
    * **Redigera eller komplettera varumärkesstödfält efter behov**. Omfattande riktlinjer för varumärken utgör grunden för GenStudio förståelse för er organisations varumärke. När GenStudio har extraherat den information som behövs från era varumärkesriktlinjer uppmanas du att manuellt redigera eller fylla i fält med extraherad information. Ange enskilda produktfokusområden för innehållsskapande genom att lägga till en [!DNL Product]. [!DNL Personas]-riktlinjer hjälper dig att skräddarsy innehållsskapande för definierade kundsegment.
 

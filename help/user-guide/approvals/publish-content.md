@@ -2,7 +2,7 @@
 title: Publish-godkänt innehåll
 description: Lär dig hur du publicerar godkänt innehåll.
 feature: Approval, Content
-source-git-commit: 6da5eb91db34e3b91430d513f3af5de1cd380222
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Du kan sedan slutföra utkastet genom att spara det i [!DNL Content] med lämpli
 
 ## Efter publicering
 
-Alla GenStudio-användare har åtkomst till godkända resurser eller upplevelser i [!DNL Content]. Panelen Tillgångsinformation identifierar resursens överförings- och godkännandehistorik. Dessa attribut identifierar sparat innehåll:
+Alla GenStudio-användare har åtkomst till godkända resurser eller upplevelser i [!DNL Content]. Panelen Resursinformation identifierar resursens överförings- och godkännandehistorik. Dessa attribut identifierar sparat innehåll:
 
 * **Överföringsdatum**: Identifierar det datum då innehållet överfördes.
 * **Överförd av**: Identifierar den som skapade GenStudio-resursen.

@@ -2,7 +2,7 @@
 title: Granska och redigera innehåll
 description: Lär dig granska och redigera innehåll iterativt.
 feature: Approval
-source-git-commit: bb06f20c436c0d2d426c8a07a419536716665a03
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '545'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Den som skapar dokumentet kan redigera det som svar på granskningskommentarerna
 
 Som utsedd godkännare kan du komma åt det innehåll som du ombeds granska och godkänna på flera sätt:
 
-* **Få åtkomst till utkastet för granskning direkt från utkastlänken i godkännandebegäran**. Klicka på länken Utkast i e-postmeddelandet om godkännandebegäran eller i produktmeddelandet. GenStudio öppnar en arbetsyta som visar resursen eller upplevelsen. Det vänstra informationsfönstret för _resurs_ innehåller en ruta för _godkännande_.
+* **Få åtkomst till utkastet för granskning direkt från utkastlänken i godkännandebegäran**. Klicka på länken Utkast i e-postmeddelandet om godkännandebegäran eller i produktmeddelandet. GenStudio öppnar en arbetsyta som visar resursen eller upplevelsen. Den vänstra panelen för _resursinformation_ innehåller en panel för _godkännande_.
 
 * **Öppna utkastet för granskning från listan över godkännandebegäranden**. Om du ombeds granska flera innehållsutkast innehåller ditt e-postmeddelande en **[!UICONTROL View all notifications]**-knapp. Klicka på den här knappen för att navigera till en sida som visar alla väntande granskningsbegäranden.
 
@@ -36,11 +36,11 @@ Du kan godkänna innehåll om du har fått ett e-postmeddelande om godkännandeb
 
 1. Använd länken i ditt meddelande i produktionen eller i ditt e-postmeddelande för att navigera till innehållet för granskning. GenStudio visar innehållet Canvas.
 
-1. Resursytan innehåller en **[!UICONTROL Review & Approve]**-knapp längst upp till höger. Klicka på den här knappen för att öppna rutan _Godkännanden_ för den här resursen.
+1. Resursytan innehåller en **[!UICONTROL Review & Approve]**-knapp längst upp till höger. Klicka på den här knappen för att öppna panelen _Godkännanden_ för resursen.
 
 ## Begär ändringar
 
-Du kan lista föreslagna ändringar eller ställa frågor om utkastet från innehållets _Godkännandefönster_. Utkaststatusen **Behöver arbete** meddelar innehållsskaparen att ändringar har begärts.
+Du kan lista föreslagna ändringar eller ställa frågor om utkastet från innehållets _Godkännandepanel_. Utkaststatusen **Behöver arbete** meddelar innehållsskaparen att ändringar har begärts.
 
 Granskningsprocessen, som föreslår ändringar av innehållsförfattaren och sedan ändrar innehållet och skickar tillbaka det för godkännande, är mycket iterativ. Det är i den här delen av cykeln som du ser GenStudio tidsbesparande funktioner.
 

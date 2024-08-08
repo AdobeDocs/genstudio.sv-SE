@@ -1,7 +1,7 @@
 ---
 title: Begär granskningar och godkännanden
 description: Begär en granskning.
-source-git-commit: c9bd8bf434e493696e674900f403307260a65b02
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Valfritt: Lägg till kommentarer som vägleder godkännaren att fokusera på vis
 
 Om du är innehållsskapare visas knappen **[!UICONTROL Manage approvals]** i utkastet på arbetsytan. Använd den här knappen för att öppna ett popup-fönster där du kan ta bort eller lägga till godkännare under gransknings- och godkännandeprocessen.
 
-Godkännarnamn visas i den här rutan med statusen [!DNL Notified] när godkännandebegäranden har startats. Se [Godkänn innehåll](./approve-content.md) för en översikt över GenStudio godkännandeåtgärder.
+Godkännarnamn visas i den här vyn med statusen [!DNL Notified] efter att godkännandebegäranden har startats. Se [Godkänn innehåll](./approve-content.md) för en översikt över GenStudio godkännandeåtgärder.
 
 
 

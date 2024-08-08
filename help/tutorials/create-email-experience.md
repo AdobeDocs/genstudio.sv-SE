@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '761'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Om du vill komma igång med att skapa en ny e-postupplevelse kan du använda en 
 **Så här väljer du en e-postmall**:
 
 1. I _[!DNL Create]_klickar du på&#x200B;**[!UICONTROL Email]**i_&quot;Vad vill du skapa idag?&quot;avsnittet _.
-1. I vyn _Välj mall_ växlar du filtret _Kanaler_ till **[!UICONTROL Email]**.
 1. Använd sökalternativet bredvid _Filter_ för att hitta en viss e-postmall.
 1. Klicka för att välja en e-postmall och klicka på **[!UICONTROL Use]**.
 
@@ -53,7 +52,7 @@ När du är klar med att lägga till parametrar kan du komprimera frågeområdet
 
 ## Ange en uppmaning
 
-När du har valt riktlinjer kan du snabbt börja generera innehåll för din nya e-postupplevelse med det naturliga språket.
+När du har valt riktlinjer kan du snabbt börja generera innehåll för din nya e-postupplevelse med det naturliga språket. Detaljerade uppmaningar ger högre kvalitet än otydliga eller obeskrivliga uppmaningar.
 
 Läs [Skriv effektiva uppmaningar](/help/user-guide/effective-prompts.md) om du vill veta mer om hur du skriver uppmaningar.
 
@@ -62,7 +61,7 @@ Läs [Skriv effektiva uppmaningar](/help/user-guide/effective-prompts.md) om du 
 1. Ange en uppmaning i rutan _&quot;Beskriv de upplevelser du vill generera&quot;_ .
 1. Klicka på **[!UICONTROL Generate]**.
 
-Som standard genereras och visas fyra genererade variationer - som alla följs av uppmaningen, riktlinjer och innehåll som du har lagt till - på arbetsytan.
+Som standard genereras och visas fyra varianter på arbetsytan, som alla föds av uppmaningen, riktlinjer och innehåll som du har lagt till.
 
 ## Granska genererade e-postmeddelanden
 
@@ -70,6 +69,7 @@ Innan du väljer vad som ska skickas för godkännande eller publicering till [!
 
 **Så här granskar du genererade varianter**:
 
+* **Om du vill redigera e-postutkastnamnet** klickar du på rubriken _Namnlöst utkast_ högst upp på arbetsytan och anger en ny rubrik.
 * **Om du vill redigera ett e-postmeddelande** manuellt dubbelklickar du på något av e-postfragmenten (till exempel ämnesraden, huvudet eller brödtexten) och redigerar efter behov.
 
   Subject line and preheader only require a single click to edit, while the header, body copy, and call to action require a double click.

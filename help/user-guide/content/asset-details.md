@@ -2,9 +2,9 @@
 title: Resursinformation
 description: GenStudio lagrar godkänt material med omfattande metadata för sökbarhet och prestandaspårning.
 feature: Attributes, Assets
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -46,8 +46,8 @@ Följande tabell innehåller metadata (resursinformation) som du kan definiera n
 | ------------- | ----------- | -------- | -------- |
 | Kampanjnamn (projektnamn) | Standardmetadata som hämtas och lagras med resursen | Y | N |
 | Märkesnamn | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) har lagts till i GenStudio och publicerats för användning | Y | N |
-| Produkter | [[!DNL Products]](/help/user-guide/guidelines/products.md) har lagts till i GenStudio för användning | Y | N |
-| Personas | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) har lagts till i GenStudio för användning | Y | N |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) har lagts till i GenStudio för användning | Y | N |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) har lagts till i GenStudio för användning | Y | N |
 | Kanaler | Innehållstyper i GenStudio som resursen används för, till exempel e-post- och metaannonser | Y | N |
 | Tidsram | Tidsram som resursen användes för, t.ex. kvartal, årstid, år. Exempel: `Winter 2023` | Y | N |
 | Län | Områden som tillgången används för. Exempel: `North America`, `APAC`, `Italy` | Y | N |
@@ -66,7 +66,7 @@ Följande tabell innehåller metadata (resursinformation) som du kan definiera n
 
 >[!TIP]
 >
->Du kan även visa resursinformation från [!DNL Insights]. Insikter ger användningsstatistik och resultatsammanhang över olika upplevelser. I _[!DNL Insights]_väljer du avsnittet **[!UICONTROL Assets]**.
+>Du kan även visa resursinformation från [!DNL Insights]. [!DNL Insights] tillhandahåller användningsstatistik och prestandakontext för olika upplevelser. I _[!DNL Insights]_väljer du avsnittet **[!UICONTROL Assets]**.
 
 <!-- ## History
 
