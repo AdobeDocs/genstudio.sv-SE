@@ -1,18 +1,20 @@
 ---
 title: Användarhandbok för Adobe GenStudio
-description: Lär dig hur du använder GenStudio och generativ AI för att personalisera innehållsleveranskedjan.
-source-git-commit: 214f54bcc15eb8d0c3b766784ac911790a8fb351
+description: Gör det möjligt för marknadsförare och superladdare att använda GenStudio, Adobe AI-först-program som ger tillgång till varumärkesskyddat material via självbetjäning med företagsskyddssystem och styrning för högpresterande upplevelser.
+source-git-commit: a0646480c863f9776aa7dfe1ef17eb9d23f269ea
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
 # GenStudio Användarhandbok
 
-GenStudio är en omfattande marknadsföringslösning som bygger på Adobe generativ AI-teknik. Det ger marknadsförarna möjlighet att effektivisera innehållsförsörjningskedjan, från idé till leverans och resultatmätning.
+Adobe GenStudio är en AI-driven plattform som ger företag möjlighet att självständigt generera och hantera marknadsföringsmaterial som följer deras varumärkesstandarder, följer företagets policyer och stöder smidigt en slagkraftig marknadsföringsstrategi.
 
-Med GenStudio kan företag utnyttja generativ AI för att snabba upp skapandet av innehåll, enkelt hitta och återanvända innehåll samt driva framgångsrika flerkanalskampanjer.
+Med GenStudio kan marknadsförare och kreatörer effektivisera processen för att skapa marknadsföringsmaterial som är engagerande, kulturellt relevant och skräddarsytt för specifika målgrupper, samtidigt som man bibehåller hög kvalitet och varumärkesintegritet.
+
+Genom att utnyttja AI-tekniken erbjuder GenStudio en omfattande uppsättning verktyg som förenklar komplexiteten i framtagning och hantering av innehåll så att kreatörerna kan fokusera på innovation.
 
 ## Utforska GenStudio funktioner
 
@@ -28,7 +30,7 @@ Med GenStudio kan företag utnyttja generativ AI för att snabba upp skapandet a
          </a>
       </div>
       <p>
-         <em>Skapa uppmaningar med beskrivande språk, varumärkesresurser och andra villkor.</em>
+         <em>Skapa beskrivande uppmaningar som genererar digitala upplevelser under varumärket.</em>
       </p>
    </td>
    <td valign="top">
@@ -41,7 +43,7 @@ Med GenStudio kan företag utnyttja generativ AI för att snabba upp skapandet a
          </a>
       </div>
       <p>
-         <em>Skapa prestanda, varumärkesanpassade bilder och innehåll.</em>
+         <em>Skapa prestanda, e-post under varumärket och Meta-annonser.</em>
       </p>
    </td>
    <td valign="top">
@@ -54,7 +56,7 @@ Med GenStudio kan företag utnyttja generativ AI för att snabba upp skapandet a
          </a>
       </div>
       <p>
-         <em>Granska och godkänn kampanjkomponenter och varumärkesresurser.</em>
+         <em>Samordna den effektiva granskningen och godkännandet av marknadsföringsresurser.</em>
       </p>
    </td>
    <td valign="top">
@@ -80,7 +82,7 @@ Med GenStudio kan företag utnyttja generativ AI för att snabba upp skapandet a
          </a>
       </div>
       <p>
-         <em>Optimera innehållsprestanda baserat på användning i realtid.</em>
+         <em>Analysera innehållseffektivitet för betalda mediekanaler.</em>
       </p>
    </td>
 </tr>
@@ -97,7 +99,7 @@ Med GenStudio kan företag utnyttja generativ AI för att snabba upp skapandet a
       </a>
    </div>
    <p>
-      <em>Lär dig hur du lägger till riktlinjer i GenStudio.</em>
+      <em>Lär dig hur du lägger till riktlinjer - varumärken, produkter och egenskaper - i GenStudio.</em>
    </p>
 </td>
 <td valign="top">

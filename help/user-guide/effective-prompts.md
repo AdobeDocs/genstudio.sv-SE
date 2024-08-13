@@ -2,9 +2,9 @@
 title: Skriv effektiva uppmaningar
 description: Lär dig skriva effektiva uppmaningar för GenStudio.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 5e17996ee3a86cf664ee468d6b9cf178c8853992
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 För att kunna arbeta effektivt i GenStudio är det viktigt att kommunicera med den generativa AI-miljön.
 
-GenStudio ger en generativ AI-fråga varje gång det finns möjlighet att skapa eller ändra en resurs. Komponenterna i en effektiv prompt ska innehålla beskrivande språk, exempel och information som inte tillhandahålls via dina konfigurerade riktlinjer.
+GenStudio ger en generativ AI-fråga varje gång det finns möjlighet att ändra en resurs. Komponenterna i en effektiv prompt ska innehålla beskrivande språk, exempel och information som inte tillhandahålls via dina konfigurerade riktlinjer.
 
-Som en god praxis är det att förse GenStudio med din varumärkesinformation med [riktlinjer](/help/user-guide/guidelines/overview.md), så kan du till fullo utnyttja den generativa AI:n för att skapa varumärkesanpassat innehåll.
+Som en god praxis är det att förse GenStudio med din varumärkesinformation med [riktlinjer](/help/user-guide/guidelines/overview.md), så kan du utnyttja den generativa AI:n fullt ut för att skapa varumärkesanpassade innehållsupplevelser.
 
 ## Beskrivning
 
