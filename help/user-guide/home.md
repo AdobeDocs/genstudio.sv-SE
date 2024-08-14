@@ -1,7 +1,7 @@
 ---
 title: Användarhandbok för Adobe GenStudio
 description: Gör det möjligt för marknadsförare och superladdare att använda GenStudio, Adobe AI-först-program som ger tillgång till varumärkesskyddat material via självbetjäning med företagsskyddssystem och styrning för högpresterande upplevelser.
-source-git-commit: a0646480c863f9776aa7dfe1ef17eb9d23f269ea
+source-git-commit: 1e30db88fac8e6d47a845d4eb5d54defcc256244
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -125,4 +125,3 @@ Genom att utnyttja AI-tekniken erbjuder GenStudio en omfattande uppsättning ver
    </p>
 </td>
 </table>
-
