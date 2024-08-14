@@ -3,9 +3,9 @@ title: Anpassa mallar
 description: Lär dig hur du skapar en anpassad mall för GenStudio.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 1b5b12615c52823aa2f1c10ad704e3fc0dabb1e9
+source-git-commit: d7d11077d35a4c1924e4be456c00b1fae24e0a1b
 workflow-type: tm+mt
-source-wordcount: '809'
+source-wordcount: '808'
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ Alla andra fältnamn behandlas som manuellt ifyllda fält. Om du vill att ett av
 
 ## Avsnitt eller grupper
 
-_Avsnitt_ informerar GenStudio om att fält i det här avsnittet kräver hög grad av konsekvens. Genom att etablera relationen kan AI generera innehåll som matchar de kreativa elementen i avsnittet.
+_Avsnitt_ informerar GenStudio om att fält i det här avsnittet kräver hög grad av konsekvens. Genom att etablera relationen kan AI generera innehåll som matchar kreativa element i avsnittet.
 
 Använd ett prefix som du väljer i fältnamnet för att ange att ett fält är en del av ett avsnitt eller en grupp.
 
