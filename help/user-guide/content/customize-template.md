@@ -3,9 +3,9 @@ title: Anpassa mallar
 description: Lär dig hur du skapar en anpassad mall för GenStudio.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: d7d11077d35a4c1924e4be456c00b1fae24e0a1b
+source-git-commit: 5c43cf2014c1f93bdb9988ddefb503630714e522
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ I följande tabell visas de fältnamn som GenStudio har identifierat för ifylln
 | `cta` | Uppmaning | e-post (rekommenderas)<br>Meta ad |
 | `on_image_text` | På bildtext | Meta ad (rekommenderas) |
 | `image` | Bild | e-post (rekommenderas)<br>Meta ad (rekommenderas) |
-| `brand_logo` | Det valda varumärkets logotyp | Meta ad |
+| `brand_logo` | Det valda varumärkets logotyp | e-post<br>Meta ad |
 
 GenStudio fyller automatiskt i vissa fält i mallar, så du behöver inte ta med dem i malldesignen:
 
@@ -76,15 +76,33 @@ GenStudio fyller automatiskt i vissa fält i mallar, så du behöver inte ta med
 
 #### Fältnamn för märkeslogotyp
 
-Om du vill lägga till en logotyp för ett varumärke i mallen använder du följande kod för att återge standardlogotypen:
+Om du vill lägga till en logotyp för ett varumärke i mallen använder du någon av följande metoder för att återge standardlogotypen.
 
-```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
+_Exempel_:
+
+```bash
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```
+
+_Exempel_:
+
+```bash
+{{#if brand_logo}}
+
+                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{else}}
+
+                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{/if}}
+```
 
 #### Manuella fältnamn
 
 Alla andra fältnamn behandlas som manuellt ifyllda fält. Om du vill att ett avsnitt ska kunna redigeras lägger du till dubbla hakparenteser runt det avsnitt du vill redigera.
 
-> Exempel: ``{{customVariable}}`` (customVariable är det manuellt redigerbara avsnittet)
+_Exempel_: ``{{customVariable}}`` (`customVariable` är det manuellt redigerbara avsnittet)
 
 ## Avsnitt eller grupper
 
