@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio för Performance Marketers Beta versionsinformation
 description: Läs om de senaste funktionerna och förbättringarna av Adobe GenStudion.
-source-git-commit: 382026b07e123a1e49813b766f69496f6a8f38eb
+source-git-commit: 5505e3fdc78e217dd1eb73ed5bffa5e43d4f3084
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,6 @@ Valideringspanelen för varumärket har förbättrats för att förbättra anvä
 * _Inkrementell varumärkesbelastning under extrahering_: Riktlinjer för varumärket läses nu in stegvis i användargränssnittet.
 
 * _Förenkling av schemat för Kopiera stödlinje_: Fälten `unique attributes` och `frequent keywords` har tagits bort från schemat Kopiera stödlinje, vilket förenklar processen för att konfigurera stödlinjer.
-
-* _Bildgenerering: Kategorival_: Användare kan nu välja riktlinjer för bilder som är specifika för deras behov av bildåtergivning.
 
 ### Skapa
 
@@ -63,22 +61,15 @@ Följande kända problem kommer att åtgärdas med GenStudio for Performance Mar
 
 * Åtgärder som utlöses av knapparna **[!UICONTROL Add templates]** och **[!UICONTROL Upload]** spåras inte för närvarande. <!-- GS-3505 -->
 
-### Varumärke
-
-* Den som skapar varumärket kan publicera det, men organisationens medlemmar kan inte se varumärket. <!-- XI-2197 -->
-
-### Skapa
-
-* Bildbeskärning i Meta-annonser är inkonsekvent. <!-- GS-3739 -->
-
-* Mallar som består av flera grupper av sidelement kan inte valideras. <!-- GS-4037 -->
-
 ### Insikter
 
-* Åtkomst nekas fel med slutpunkten `/admin/addOffer` (etableringstjänsten). **Löst 8/12**. <!-- GS-4047 -->
+* Det går inte att spela upp videofilmer från _Assets_. <!-- GS-3846 -->
+
+* Användarna måste logga in två gånger när de också är inloggade på Facebook. **Tillfällig lösning**: Logga ut från Facebook innan du loggar in på Insights.
 
 * **Utgifterna på kampanjnivå** är inte korrekta. Data är för närvarande inte konsekventa mellan Facebook Ads Manager och datasjön. <!-- GS-3202 -->
 
 ### Recensioner och godkännanden
 
-* Skapare kan ändra resurser efter godkännande innan de publicerar det. Godkännare meddelas inte om dessa ändringar.
+* Upphovsmannen kan ändra materialet efter att ha godkänt det innan det publiceras. Godkännare meddelas inte om dessa ändringar.
+
