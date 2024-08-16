@@ -1,12 +1,12 @@
 ---
-title: Lägga till riktlinjer i GenStudio
-description: Lär dig hur du lägger till riktlinjer -[!DNL Brands], [!DNL Products] och [!DNL Personas] - i Adobe [!DNL GenStudio].
+title: Lägga till riktlinjer i Adobe GenStudion för Performance Marketers
+description: Lär dig hur du lägger till riktlinjer -[!DNL Brands], [!DNL Products] och [!DNL Personas] - i Adobe GenStudio för Performance Marketers.
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 # Lägg till riktlinjer
 
-[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) och [[!DNL Personas]](/help/user-guide/guidelines/personas.md) är användardefinierade riktlinjer i GenStudio som ser till att allt AI-genererat innehåll anpassas efter varumärkesidentiteten, vilket möjliggör effektiv personalisering av innehåll.
+[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) och [[!DNL Personas]](/help/user-guide/guidelines/personas.md) är användardefinierade riktlinjer i GenStudio för Performance Marketers som säkerställer att allt AI-genererat innehåll anpassas efter varumärkesidentiteten, vilket möjliggör effektiv personalisering av innehåll.
 
-Se [Översikt över GenStudio riktlinjer](/help/user-guide/guidelines/overview.md).
+Se [riktlinjerna - översikt](/help/user-guide/guidelines/overview.md).
 
-Att lägga till riktlinjer i GenStudio är ett viktigt steg i skapandet. Riktlinjerna ligger till grund för processen att skapa innehåll, tillsammans med användardefinierade anvisningar och Adobe generativ AI-teknik, för att skapa slagkraftiga resurser.
+Att lägga till riktlinjer i GenStudio för Performance Marketers är ett viktigt steg i skapandet. Riktlinjerna ligger till grund för processen att skapa innehåll, tillsammans med användardefinierade anvisningar och Adobe generativ AI-teknik, för att skapa slagkraftiga resurser.
 
 ## Lägg till [!DNL Brands]
 
-Om du vill lägga till ett varumärke i GenStudio kan du [överföra en varumärkesguide](#upload-brand-guidelines) eller [skapa ett varumärke manuellt](#manually-add-brand) genom att välja riktlinjer och ange din varumärkesinformation. [Publish är ett varumärke](#publish-brand) till [!DNL Content] som gör det tillgängligt för framtida innehållsgenerering.
+Om du vill lägga till ett varumärke i GenStudio för Performance Marketers kan du [överföra en varumärkesguide](#upload-brand-guidelines) eller [manuellt skapa ett varumärke](#manually-add-brand) genom att välja riktlinjer och ange din varumärkesinformation. [Publish är ett varumärke](#publish-brand) till [!DNL Content] som gör det tillgängligt för framtida innehållsgenerering.
 
 Klicka på **[!DNL Brands]** i det vänstra navigeringsområdet. Välj **Lägg till varumärke** på panelen _[!DNL Brands]_.
 
 ### Lägg till varumärke via överföring
 
-Ni kan ladda upp era egna varumärkesdokument för att fylla i ett nytt varumärke i GenStudio.
+Ni kan överföra era egna varumärkesdokument för att fylla i ett nytt varumärke i GenStudio för Performance Marketers.
 
 Se [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
@@ -41,13 +41,13 @@ Se [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
 1. Välj **[!UICONTROL Add brand]**.
 
-Med hjälp av Adobe generative AI-teknik extraherar GenStudio information från de överförda dokumenten och börjar bygga upp ert varumärke. Varumärkesinformation, som varumärkesröst, kanal och bildriktningar, fylls i när GenStudio sätter ihop varje riktlinje från varumärkesdokumenten.
+Med hjälp av Adobe generative AI-teknik extraherar GenStudio for Performance Marketers information från dina överförda dokument och börjar bygga upp ert varumärke. Varumärkesinformation, som varumärkesröst, kanal och bildriktningar, fylls i när GenStudio for Performance Marketers sätter ihop varje riktlinje från varumärkesdokumenten.
 
 Ett popup-fönster påminner dig om att granska det extraherade innehållet innan du [publicerar varumärket](#publish-brand).
 
 ### Lägg till varumärke manuellt
 
-Du kan lägga till varumärkesinformation manuellt, i stället för att överföra befintliga varumärkesdokument, för att fylla i ett nytt [varumärke](brands.md) i GenStudio.
+Du kan lägga till varumärkesinformation manuellt, i stället för att överföra befintliga varumärkesdokument, för att fylla i ett nytt [varumärke](brands.md) i GenStudio for Performance Marketers.
 
 **Så här lägger du till ett varumärke manuellt**:
 
@@ -66,7 +66,7 @@ Du kan lägga till varumärkesinformation manuellt, i stället för att överfö
 
 Om du vill visa din skapade [!DNL Brands] klickar du på bakåtpilen i den övre delen av panelen _Varumärke_ och går tillbaka till startsidan för _[!DNL Brands]_.
 
-Du behöver inte [publicera](#publish-brand) ditt varumärke för att göra informationen tillgänglig. All information som läggs till manuellt är tillgänglig direkt efter att den lagts till. För att andra i organisationen ska kunna använda varumärkesinformationen i GenStudio måste du publicera den.
+Du behöver inte [publicera](#publish-brand) ditt varumärke för att göra informationen tillgänglig. All information som läggs till manuellt är tillgänglig direkt efter att den lagts till. För att andra i organisationen ska kunna använda varumärkesinformationen i GenStudio för Performance Marketers måste du publicera den.
 
 ### Publish
 
@@ -94,7 +94,7 @@ I hemmet _[!DNL Brands]_kan du klicka för att **öppna ett redan skapat varumä
 
 ## Lägg till [!DNL Products]
 
-Du kan lägga till [!DNL Products] i GenStudio för att ange enskilda produktfokusområden när du skapar innehåll. <!-- Add Rename, display, reposition functionality -->
+Du kan lägga till [!DNL Products] i GenStudio för Performance Marketers för att ange enskilda produktfokusområden när du skapar innehåll. <!-- Add Rename, display, reposition functionality -->
 
 Se [[!DNL Products]](products.md).
 
@@ -121,7 +121,7 @@ I startsidan för _[!DNL Products]_kan du **öppna en redan skapad[!DNL Product]
 
 ## Lägg till [!DNL Personas]
 
-Du kan lägga till en [!DNL Persona] i GenStudio för att rikta innehållet som du skapar till din idealiska målgrupp.
+Du kan lägga till en [!DNL Persona] i GenStudio for Performance Marketers för att rikta innehållet som du skapar till din idealiska målgrupp.
 
 Se [[!DNL Personas]](personas.md).
 

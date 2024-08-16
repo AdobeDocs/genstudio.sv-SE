@@ -1,10 +1,10 @@
 ---
 title: Arbeta med mallar
-description: Lär dig skapa engagerande upplevelser i GenStudio med hjälp av mallar.
+description: Lär dig hur du använder mallar för att skapa engagerande upplevelser i Adobe GenStudio för Performance Marketers.
 feature: Templates, Content
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ GenStudio-mallar är nödvändiga för att innehållsskapare snabbt ska kunna pr
 Den här handboken innehåller detaljerad information om hur du:
 
 * Förbered en [e-postmall](email-template.md) eller en mall för meta-annons
-* [Anpassa mallar](customize-template.md) för GenStudio
-* [Överför mallar](#upload-a-template) till GenStudio
+* [Anpassa mallar](customize-template.md) för GenStudio för Performance Marketerstudio
+* [Överför mallar](#upload-a-template) till GenStudio för Performance Marketers
 * [Använd mallar för att skapa upplevelser](#use-a-template)
 
 ## Anatomi för en mall
@@ -38,11 +38,11 @@ Grundläggande malldesign innehåller följande element:
 
 >[!NOTE]
 > 
->Vi rekommenderar att du inkluderar specifika fält i varje kanals innehåll för att säkerställa att GenStudio kan generera text för platshållare för innehåll. Se [Identifierade fältnamn](customize-template.md#recognized-field-names) för att se vilka fält som rekommenderas för inkludering.
+>Vi rekommenderar att du inkluderar specifika fält i varje kanals innehåll för att säkerställa att GenStudio for Performance Marketers kan generera text för platshållare för innehåll. Se [Identifierade fältnamn](customize-template.md#recognized-field-names) för att se vilka fält som rekommenderas för inkludering.
 
 ## Överföra en mall
 
-GenStudio godkänner mallar i HTML-format.
+GenStudio for Performance Marketers accepterar mallar i HTML-format.
 
 **Så här lägger du till en mall**:
 
@@ -80,7 +80,6 @@ Hitta och använd en befintlig mall för att skapa upplevelser.
 >[!TIP]
 >
 >Se [[!DNL Create] en e-postupplevelse](/help/tutorials/create-email-experience.md) eller [[!DNL Create] en metadataannonsupplevelse](/help/tutorials/create-meta-ad.md) för fullständiga självstudiekurser med hjälp av mallar.
-
 <!--  The create button in Content Template view does not work yet.
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 -->

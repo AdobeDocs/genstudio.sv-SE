@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio för Performance Marketers Beta versionsinformation
 description: Läs om de senaste funktionerna och förbättringarna av Adobe GenStudion för Performance Marketers.
-source-git-commit: cbae3aeb1b8282fb64f2a6405a7ad9e07a48dbbd
+source-git-commit: 75d966e8474687e8e88ccec6fe6a96fda030dbcf
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Adobe GenStudio för Performance Marketers Beta versionsinformation
 
-I dessa kommentarer beskrivs viktiga korrigeringar och förbättringar av Adobe GenStudion för den vecka som slutar den 16 augusti.
+Dessa kommentarer belyser viktig Adobe GenStudio för korrigeringar och förbättringar av Performance Marketers för veckan som slutar den 16 augusti.
 
 ## Högdagrar
 
@@ -26,8 +26,6 @@ Valideringspanelen [!DNL Brand] har förbättrats för att förbättra användar
 * **Uppdaterat gränssnitt för varumärkesextrahering**: Extraheringen visar nu att extraheringsprocessen har slutförts i procent.
 
 * **Inkrementell varumärkesbelastning under extrahering**: Riktlinjer för varumärket läses nu in stegvis i användargränssnittet.
-
-* **Förenkling av schemat för Kopiera stödlinje**: Fälten `unique attributes` och `frequent keywords` har tagits bort från schemat Kopiera stödlinje, vilket förenklar processen för att konfigurera stödlinjer.
 
 ### [!DNL Create]
 
@@ -57,19 +55,8 @@ Den här versionen innehåller följande ytterligare korrigeringar.
 
 Följande kända problem kommer att åtgärdas med GenStudio for Performance Marketers GA-versionen.
 
-### Analyser
-
-* Åtgärder som utlöses av knapparna **[!UICONTROL Add templates]** och **[!UICONTROL Upload]** spåras inte för närvarande. <!-- GS-3505 -->
-
 ### [!DNL Insights]
 
 * Det går inte att spela upp videofilmer från _Assets_. <!-- GS-3846 -->
 
 * Användarna måste logga in två gånger när de också är inloggade på Facebook. **Tillfällig lösning**: Logga ut från Facebook innan du loggar in på [!DNL Insights].
-
-* **Utgifterna på kampanjnivå** är inte korrekta. Data är för närvarande inte konsekventa mellan Facebook Ads Manager och datasjön. <!-- GS-3202 -->
-
-### [!DNL Reviews and Approvals]
-
-* Upphovsmannen kan ändra materialet efter att ha godkänt det innan det publiceras. Godkännare meddelas inte om dessa ändringar.
-

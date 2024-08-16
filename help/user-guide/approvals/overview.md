@@ -1,22 +1,22 @@
 ---
-title: GenStudio granskningar och godkännanden
-description: Läs mer om GenStudio granskning och godkännande.
+title: Adobe GenStudio för granskning och godkännande av Performance Marketers
+description: Läs om granskning och godkännande av GenStudio for Performance Marketers.
 feature: Approval
-source-git-commit: c9bd8bf434e493696e674900f403307260a65b02
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio granskningar och godkännanden
+# Adobe GenStudio för granskning och godkännande av Performance Marketers
 
-GenStudio arbetsflöde för granskning och godkännande säkerställer att alla intressenter - från kreativa team till juridiska experter - effektivt kan granska och godkänna kampanjkomponenter, inklusive generativa AI-producerade varumärkesresurser.
+GenStudio for Performance Marketers arbetsflöde för granskning och godkännande säkerställer att alla intressenter - från kreativa team till juridiska experter - effektivt kan granska och godkänna kampanjkomponenter, inklusive generativa AI-producerade varumärkesresurser.
 
 ## [!DNL Review and Approval] fördelar med arbetsflödet
 
-* **Stöd för robust, iterativt generativt AI-innehåll**. Att skapa och distribuera varumärkesanpassat innehåll i en organisation är en mycket iterativ process. GenStudio generativa AI-funktioner gör det enkelt att snabbt skapa hundratals tillgångsvarianter. Varje granskare kan begära flera ändringar av ett tillgångsutkast innan han eller hon godkänner det. Ju fler granskare, desto fler möjliga iterationer innan alla intressenter kommer överens om en slutgiltig variant.
+* **Stöd för robust, iterativt generativt AI-innehåll**. Att skapa och distribuera varumärkesanpassat innehåll i en organisation är en mycket iterativ process. GenStudio for Performance Marketers generativa AI-funktioner gör det enkelt att snabbt skapa hundratals tillgångsvarianter. Varje granskare kan begära flera ändringar av ett tillgångsutkast innan han eller hon godkänner det. Ju fler granskare, desto fler möjliga iterationer innan alla intressenter kommer överens om en slutgiltig variant.
 
 * **Stöd för kreativ integritet**. Godkännanden skyddar ert varumärkes kreativa integritet genom att de som skapar materialet deltar i godkännandeprocessen. Genom att involvera kreativa intressenter (till exempel innehållsskapare och creative directors) i gransknings- och godkännandeprocessen ser du till att slutresultatet överensstämmer med din vision och varumärkesidentitet.
 
@@ -26,13 +26,10 @@ GenStudio arbetsflöde för granskning och godkännande säkerställer att alla 
 
 De huvudsakliga faserna i arbetsflödet för granskning och godkännande omfattar:
 
-[Begär granskning och godkännande av innehåll du skapat](./request-review.md)
-
-[Granska och redigera innehåll](./review-and-edit.md)
-
-[Godkänn innehåll](./approve-content.md)
-
-[Publish content](./publish-content.md)
+* [Begär granskning och godkännande av innehåll du skapat](./request-review.md)
+* [Granska och redigera innehåll](./review-and-edit.md)
+* [Godkänn innehåll](./approve-content.md)
+* [Publish content](./publish-content.md)
 
 ## Vem kan begära en granskning eller godkänna innehåll?
 
@@ -42,7 +39,7 @@ Om du har skapat en resurs eller upplevelse kan du be andra i din organisations 
 
 _Utkast_ är preliminära versioner av resurser eller upplevelser som inte har genomgått gransknings- och godkännandeprocessen. Utkaststatus identifierar var utkastet befinner sig i gransknings- och godkännandeprocessen. Ett unikt utkast-ID identifierar varje utkast. Det här ID:t är giltigt tills ett utkast har godkänts och publicerats till [!DNL Content]. Granskningskommentarer och godkännanden för ett utkast är kopplade till detta enskilda utkast-ID.
 
-När ett utkast slutför gransknings- och godkännandeprocessen och publiceras till [!DNL Content], förfaller utkast-ID:t och GenStudio sparar inte associerade kommentarer och godkännandestatus. Utkast-URL:en är inte längre giltig.
+När ett utkast slutför gransknings- och godkännandeprocessen och publiceras till [!DNL Content], förfaller utkast-ID:t och GenStudio för Performance Marketers sparar inte associerade kommentarer och godkännandestatus. Utkast-URL:en är inte längre giltig.
 
 Utkaststatus fångar statusen för innehållsutkastet när det går igenom gransknings- och godkännandeprocessen. Alla utsedda granskare meddelas om förändringar i status för det innehåll de granskar. Granskarna ändrar utkaststatus för att ange om ett utkast behöver ändras ytterligare eller kan godkännas. Alla utsedda godkännare måste godkänna en mediefil eller upplevelse innan den kan publiceras.
 
@@ -54,7 +51,7 @@ Tillgängliga statusvärden för utkast:
 
 ## Meddelanden
 
-GenStudio produktmeddelanden uppdaterar godkännare och innehållsskapare i realtid om resursstatusändringar och granskar kommentarerna. Aviseringar ger snabb redigering genom flera gransknings-, redigerings- och godkännandecykler.
+GenStudio for Performance Marketers meddelanden i produkten uppdaterar godkännare och innehållsskapare i realtid av ändringar av tillgångsstatus och granskar kommentarerna. Aviseringar ger snabb redigering genom flera gransknings-, redigerings- och godkännandecykler.
 
 Åtgärder som vidtas av godkännandedeltagare utlöser automatiska meddelanden i produkten och e-postmeddelanden. När du startar en godkännandeprocess får utsedda godkännare meddelanden både via e-post och i produkten. Du hålls kvar med meddelanden i produkten varje gång en godkännare lägger till kommentarer eller godkänner. Meddelanden innehåller länkar till innehållsutkastet.
 

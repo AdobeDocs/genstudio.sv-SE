@@ -2,17 +2,17 @@
 title: Översikt över  [!DNL Insights]
 description: Lär dig hur du optimerar upplevelser baserat på innehållsprestandamätningar i realtid.
 feature: Attributes, Insights, Experiences, Assets
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Insights]
+# Adobe GenStudio för Performance Marketers [!DNL Insights]
 
-GenStudio [!DNL Insights] tillhandahåller avancerade analyser och insikter om innehållsprestanda som kan hjälpa dig att fatta datadrivna beslut.
+Adobe GenStudio för Performance Marketers [!DNL Insights] ger avancerade analyser och insikter i innehållsprestanda som kan hjälpa dig att fatta datadrivna beslut.
 
 Från kontrollpanelen [!DNL Insights] kan du:
 
@@ -22,7 +22,7 @@ Från kontrollpanelen [!DNL Insights] kan du:
 
 >[!TIP]
 >
->Gå till [Connect-kanalkontot](connect-channel.md) för steg som gör det möjligt för GenStudio att ta emot data från era marknadsföringskampanjer, resurser och upplevelser.
+>Gå till [Connect-kanalkontot](connect-channel.md) om du vill se steg som gör det möjligt för GenStudio för Performance Marketers att ta emot data från era marknadsföringskampanjer, resurser och upplevelser.
 
 ## Kontrollpanel
 

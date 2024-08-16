@@ -1,10 +1,10 @@
 ---
 title: Resursinformation
-description: GenStudio lagrar godkänt material med omfattande metadata för sökbarhet och prestandaspårning.
+description: Adobe GenStudio för Performance Marketers lagrar godkänt innehåll med omfattande metadata för sökbarhet och prestandaspårning.
 feature: Attributes, Assets
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Resursinformation
 
-GenStudio lagrar godkänt material med omfattande metadata för upptäckt och prestandaspårning.
+Adobe GenStudio för Performance Marketers lagrar godkänt innehåll med omfattande metadata för upptäckt och prestandaspårning.
 
 Varje resurs (inklusive upplevelser och mallar) har associerad _information_ (metadata) som hjälper till att identifiera, spåra, använda och lära sig av innehållsprestanda.
 
@@ -26,7 +26,7 @@ Standardmetadata som lagras och hämtas för en resurs är filens namn, dimensio
 
 ### Genererade taggar
 
-När resurser har godkänts och lagrats i [!DNL Content] använder GenStudio Adobe AI och maskininlärningsfunktioner för att generera taggar baserat på resursfunktioner, till exempel färg och ton, eller nyckelord som identifierar resursfunktioner. Du kan inte redigera taggar.
+När resurser har godkänts och lagrats i [!DNL Content] använder GenStudio för Performance Marketers funktioner för Adobe AI och maskininlärning för att generera taggar baserat på resursfunktioner, som färg och ton, eller nyckelord som identifierar resursfunktioner. Du kan inte redigera taggar.
 
 ### Metadata för genererat innehåll
 
@@ -36,7 +36,7 @@ Den information som används för att generera en ny resurs eller upplevelse bli
 
 Användardefinierade metadata lägger till marknadsföringssammanhang till resursens innehåll, vilket gör att marknadsförarna bättre kan förstå hur de ska använda och interagera med resursen.
 
-När du [överför en resurs](/help/user-guide/content/manage-assets.md#add-assets) kan du definiera en uppsättning med valfri resursinformation som finns i GenStudio som metadata.
+När du [överför en resurs](/help/user-guide/content/manage-assets.md#add-assets) kan du definiera en uppsättning med valfri resursinformation som finns i GenStudio för Performance Marketers som metadata.
 
 ### Metadatainformation
 
@@ -45,10 +45,10 @@ Följande tabell innehåller metadata (resursinformation) som du kan definiera n
 | Fält | Beskrivning | Redigerbar | Obligatoriskt |
 | ------------- | ----------- | -------- | -------- |
 | Kampanjnamn (projektnamn) | Standardmetadata som hämtas och lagras med resursen | Y | N |
-| Märkesnamn | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) har lagts till i GenStudio och publicerats för användning | Y | N |
-| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) har lagts till i GenStudio för användning | Y | N |
-| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) har lagts till i GenStudio för användning | Y | N |
-| Kanaler | Innehållstyper i GenStudio som resursen används för, till exempel e-post- och metaannonser | Y | N |
+| Märkesnamn | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) har lagts till i GenStudio för Performance Marketers och publicerats för användning | Y | N |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) har lagts till i GenStudio för Performance Marketers för användning | Y | N |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) har lagts till i GenStudio för Performance Marketers för användning | Y | N |
+| Kanaler | Innehållstyper i GenStudio för Performance Marketers som resursen används för, som e-post- och metaannonser | Y | N |
 | Tidsram | Tidsram som resursen användes för, t.ex. kvartal, årstid, år. Exempel: `Winter 2023` | Y | N |
 | Län | Områden som tillgången används för. Exempel: `North America`, `APAC`, `Italy` | Y | N |
 | Språk | Språk som resursen används för. Exempel: `Spanish` | Y | N |

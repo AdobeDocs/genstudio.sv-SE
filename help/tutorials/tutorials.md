@@ -1,19 +1,19 @@
 ---
-title: GenStudio Tutorials
-description: Lär dig hur du slutför en komplett process, till exempel skapar en e-postupplevelse, genom att följa GenStudio självstudiekurser.
-source-git-commit: 43b059fe65a06b1cb6bba03c4e811c83af75d6f3
+title: Adobe GenStudio for Performance Marketers Tutorials
+description: Lär dig hur du slutför en komplett process, som att skapa en e-postupplevelse, genom att följa självstudiekurserna för GenStudio for Performance Marketers.
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 
-# [!DNL GenStudio] självstudier
+# Självstudiekurser för Adobe GenStudio för Performance Marketers
 
-GenStudio självstudiekurser följer grundläggande stegvisa arbetsflöden som innehåller länkar till djupare koncept i användarhandboken.
+Självstudiekurserna för Adobe GenStudio för Performance Marketers följer grundläggande stegvisa arbetsflöden som innehåller länkar till djupare koncept i användarhandboken.
 
-Självstudiekurserna i den här guiden beskriver koncept, förutsättningar, bästa praxis och de steg som krävs för att lyckas generera högkvalitativt marknadsföringsmaterial i GenStudio.
+Självstudiekurserna i den här guiden beskriver koncept, förutsättningar, bästa praxis och de enskilda steg som behövs för att lyckas generera högkvalitativt marknadsföringsmaterial i GenStudio för Performance Marketers.
 
 <table style="table-layout:fixed">
 <td valign="top">

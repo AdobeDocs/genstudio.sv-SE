@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '770'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # Skapa en e-postupplevelse
 
-I den här självstudiekursen visas hur du skapar varumärkesanpassade e-postupplevelser med GenStudio [[!DNL Create]](/help/user-guide/create/overview.md) (penselikonen i det vänstra navigeringsområdet).
+I den här självstudiekursen visas hur du skapar varumärkesanpassade e-postupplevelser med GenStudio för Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) (penselikonen i det vänstra navigeringsområdet).
 
-Om du vill skapa en effektiv e-postupplevelse rekommenderar vi att du [lägger till riktlinjer i GenStudio](/help/user-guide/guidelines/add-guidelines.md) och penselredigerar [grunderna för att skapa en fråga](/help/user-guide/effective-prompts.md) innan du börjar.
+Om du vill skapa en effektiv e-postupplevelse rekommenderar vi att du [lägger till riktlinjer i GenStudio för Performance Marketers](/help/user-guide/guidelines/add-guidelines.md) och penseldrar dig fram på [grunderna i att skapa en prompt](/help/user-guide/effective-prompts.md) innan du börjar.
 
 ## Välj en mall
 
@@ -41,7 +41,7 @@ Om du lägger till [riktlinjer](/help/user-guide/guidelines/overview.md) och res
 1. Klicka på ikonen _Parametrar_ för att utöka promptområdet.
 1. I avsnittet _Parametrar_ väljer du riktlinjer -[!DNL Brands], [!DNL Personas] och [!DNL Products] - för att informera om hur du skapar innehåll.
 
-   Om det inte finns några varumärken, profiler eller produkter tillgängliga från dessa menyer [lägger du till riktlinjer i din GenStudio](/help/user-guide/guidelines/add-guidelines.md).
+   Om det inte finns några varumärken, profiler eller produkter tillgängliga från de här menyerna [lägger du till riktlinjer i din GenStudio för Performance Marketers](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Klicka på **[!UICONTROL Select content]** för att lägga till innehåll som ska användas i upplevelsen *och* för att påverka innehållsgenereringen.
    * Klicka på **[!UICONTROL Select from content]** för att välja resurser (bilder) som redan har publicerats till [!DNL Content]. Använd filtren för att begränsa sökresultaten ytterligare.

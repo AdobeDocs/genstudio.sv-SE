@@ -1,10 +1,10 @@
 ---
-title: Varumärkesvalidering i GenStudio
-description: Läs om hur det inbyggda varumärkesvalideringssystemet fungerar i GenStudio.
+title: Varumärkesvalidering i Adobe GenStudio för Performance Marketers
+description: Läs om hur det inbyggda varumärkesvalideringssystemet fungerar i GenStudio för Performance Marketers.
 feature: Brands Service, Guidelines
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Varumärkesvalidering
 
-I GenStudio är varumärkesvalidering en viktig komponent som fungerar i samarbete med de generativa AI-funktionerna och -riktlinjerna -[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) och [[!DNL Personas]](/help/user-guide/guidelines/personas.md). Det ser till att allt innehåll är anpassat till er varumärkesidentitet.
+I GenStudio for Performance Marketers är varumärkesvalidering en viktig komponent som fungerar i samarbete med de generativa AI-funktionerna och -riktlinjerna -[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) och [[!DNL Personas]](/help/user-guide/guidelines/personas.md). Det ser till att allt innehåll är anpassat till er varumärkesidentitet.
 
-GenStudio genomför varumärkesvalidering av olika aspekter, bland annat:
+GenStudio for Performance Marketers genomför varumärkesvalidering på flera olika sätt, bland annat:
 
 * Varumärkesspecifika riktlinjer för varje kund
 * Kopiera riktlinjer för olika kanalplattformar

@@ -1,12 +1,12 @@
 ---
-title: Generera varianter av GenStudio-innehåll
-description: Lär dig hur du genererar varianter av innehåll som skapats i Adobe [!DNL GenStudio].
+title: Generera varianter av Adobe GenStudio för Performance Marketers-innehåll
+description: Lär dig hur du genererar varianter av skapat innehåll i Adobe GenStudio för Performance Marketers.
 feature: Content, Brands Service, Variant Generation, Content Generation
 role: User
 level: Beginner
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ När du genererar varianter kan du lägga till nya [stödlinjer](/help/user-guid
 
 ## E-post
 
-Som standard genererar GenStudio fyra e-postvarianter. De kan ändras manuellt eller genereras om med en blandning av nya uppmaningar och _parametrar_ för att uppnå stilistiska mål eller varumärkesöverensstämmelse.
+Som standard genererar GenStudio for Performance Marketers fyra e-postvarianter. De kan ändras manuellt eller genereras om med en blandning av nya uppmaningar och _parametrar_ för att uppnå stilistiska mål eller varumärkesöverensstämmelse.
 
 **Så här ändrar du genererade e-postvarianter:**
 

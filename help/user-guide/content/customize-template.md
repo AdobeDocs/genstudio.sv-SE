@@ -1,11 +1,11 @@
 ---
 title: Anpassa mallar
-description: Lär dig hur du skapar en anpassad mall för GenStudio.
+description: Lär dig hur du skapar en anpassad mall för Adobe GenStudio för Performance Marketers.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9cf7da078e84cf7696f32ca2278aa71b7b1b7cc
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # Anpassa mallar
 
-Anpassa HTML-mallarna för GenStudio med hjälp av mallspråket _Handlebars_ . I Handlebars syntax används vanlig text med dubbla klammerparenteser som innehållsplatshållare. Läs [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) i _Handlebars språkguide_ om du vill lära dig hur du förbereder mallen.
+Anpassa HTML-mallarna för Adobe GenStudio för Performance Marketers genom att använda mallspråket _Handlebars_ . I Handlebars syntax används vanlig text med dubbla klammerparenteser som innehållsplatshållare. Läs [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) i _Handlebars språkguide_ om du vill lära dig hur du förbereder mallen.
 
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+-->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
 
 ```html
 <!DOCTYPE html>
@@ -35,11 +35,11 @@ Se [Mallexempel](#template-examples).
 
 >[!TIP]
 >
->I de följande avsnitten lägger du till platshållare för innehåll för e-postfält, läser exempelmallar, döljer onödiga element från förhandsgranskning och hanterar länkar till statiskt innehåll. När mallen är klar kan du [överföra den till GenStudio](use-templates.md#upload-a-template) och börja generera anpassade e-postmeddelanden baserat på din anpassade mall.
+>I de följande avsnitten lägger du till platshållare för innehåll för e-postfält, läser exempelmallar, döljer onödiga element från förhandsgranskning och hanterar länkar till statiskt innehåll. När mallen är klar kan du [överföra den till GenStudio för Performance Marketers](use-templates.md#upload-a-template) och börja generera personliga e-postmeddelanden baserat på din anpassade mall.
 
 ## Platshållare för innehåll
 
-I mallens huvud eller brödtext kan du använda Handlebars syntax för att infoga platshållare för innehåll där du kräver att GenStudio ska fylla i mallen med det faktiska innehållet. GenStudio känner igen och tolkar platshållarna för innehållet automatiskt baserat på fältnamnet.
+I mallens huvud eller brödtext kan du använda Handlebars syntax för att infoga platshållare för innehåll där du kräver GenStudio för Performance Marketers för att fylla mallen med faktiskt innehåll. GenStudio for Performance Marketers känner igen och tolkar platshållarna för innehåll automatiskt baserat på fältnamnet.
 
 Du kan till exempel använda `{{ headline }}` för att ange var rubriken i e-postmeddelandet ska placeras:
 
@@ -53,7 +53,7 @@ Det högsta antalet fält som tillåts i en anpassad mall är tjugo.
 
 #### Identifierade fältnamn
 
-I följande tabell visas de fältnamn som GenStudio har identifierat för ifyllning i mallar.
+I följande tabell visas fältnamnen som identifieras av GenStudio för Performance Marketers för ifyllning i mallar.
 
 | Fält | Roll | Kanalmall |
 | -------------- | ---------------------- | -------------------- |
@@ -65,7 +65,7 @@ I följande tabell visas de fältnamn som GenStudio har identifierat för ifylln
 | `image` | Bild | e-post (rekommenderas)<br>Meta ad (rekommenderas) |
 | `brand_logo` | Det valda varumärkets logotyp | e-post<br>Meta ad |
 
-GenStudio fyller automatiskt i vissa fält i mallar, så du behöver inte ta med dem i malldesignen:
+GenStudio for Performance Marketers fyller automatiskt i vissa fält i mallar, så du behöver inte ta med dem i malldesignen:
 
 * fältet `subject` (e-postmall)
 * `headline`, `body` och `CTA` fält (Meta ad template)
@@ -106,7 +106,7 @@ _Exempel_: ``{{customVariable}}`` (`customVariable` är det manuellt redigerbara
 
 ## Avsnitt eller grupper
 
-_Avsnitt_ informerar GenStudio om att fält i det här avsnittet kräver hög grad av konsekvens. Genom att etablera relationen kan AI generera innehåll som matchar kreativa element i avsnittet.
+_Avsnitt_ informerar GenStudio för Performance Marketers om att fält i det här avsnittet kräver hög grad av konsekvens. Genom att etablera relationen kan AI generera innehåll som matchar kreativa element i avsnittet.
 
 Använd ett prefix som du väljer i fältnamnet för att ange att ett fält är en del av ett avsnitt eller en grupp.
 
@@ -126,13 +126,13 @@ En mall kan innehålla upp till tre avsnitt:
 * `news_headline`
 * `news_body`
 
-GenStudio förstår att `spotlight_headline` är närmare relaterat till `spotlight_body` än till `news_body`.
+GenStudio för Performance Marketers förstår att `spotlight_headline` är närmare relaterat till `spotlight_body` än till `news_body`.
 
 ## Exempel på mallar
 
 +++Exempel: E-postmall med ett avsnitt
 
-Nedan följer ett grundläggande exempel på en HTML-mall för ett e-postmeddelande som innehåller ett avsnitt. Huvudet innehåller enkel, infogad CSS för formatering. Innehållet innehåller en `pre-header`, `headline` och `image` [platshållare](#content-placeholders) som GenStudio kan använda för att mata in innehåll under e-postgenereringsprocessen.
+Nedan följer ett grundläggande exempel på en HTML-mall för ett e-postmeddelande som innehåller ett avsnitt. Huvudet innehåller enkel, infogad CSS för formatering. Innehållet innehåller en `pre-header`, `headline` och `image` [platshållare](#content-placeholders) som GenStudio kan använda för Performance Marketers för att mata in innehåll under e-postgenereringsprocessen.
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
@@ -293,9 +293,9 @@ Ett annat exempel kan vara att förhindra att spårningskoder används när en m
 
 ## Statiskt innehåll
 
-E-post- och metamallar länkar ofta till bilder och CSS-filer som lagras utanför GenStudio. När GenStudio genererar miniatyrbilder för dessa mallar eller de upplevelser som härleds från dem, kan dessa externa resurser ignoreras om de inte har rätt CORS-rubriker (Cross-Origin Resource Sharing).
+E-post- och metamallar länkar ofta till bilder och CSS-filer som lagras utanför GenStudio för Performance Marketers. När GenStudio for Performance Marketers genererar miniatyrbilder för de här mallarna eller de upplevelser som härletts från dem, kan dessa externa resurser ignoreras om de inte har rätt CORS-rubriker (Cross-Origin Resource Sharing).
 
 Om du vill vara säker på att de här resurserna är tillgängliga när du genererar miniatyrbilder bör du överväga två alternativ:
 
-1. **Använd CORS-huvuden**: Värdservern måste skicka svar med ett `Access-Control-Allow-Origin`-huvud inställt på `https://experience.adobe.com` för produktionsmiljöer. Med den här metoden kan GenStudio komma åt och inkludera resurserna.
+1. **Använd CORS-huvuden**: Värdservern måste skicka svar med ett `Access-Control-Allow-Origin`-huvud inställt på `https://experience.adobe.com` för produktionsmiljöer. Med den här metoden kan GenStudio för Performance Marketers komma åt och inkludera resurserna.
 1. **Använd data-URL:er**: Bädda in de externa resurserna direkt i mallen med data-URL:er. Den här metoden åsidosätter CORS-begränsningar och ser till att resurserna är tillgängliga under genereringen av miniatyrbilder.

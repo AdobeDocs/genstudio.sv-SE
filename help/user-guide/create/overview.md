@@ -1,27 +1,27 @@
 ---
-title: Översikt över  [!DNL Create]
-description: Generera snabbt högpresterande varumärkesanpassat innehåll med generativ AI i GenStudio [!DNL Create].
+title: Översikt över GenStudio för Performance Marketers  [!DNL Create]
+description: Generera snabbt högpresterande varumärkesanpassat innehåll med generativ AI i Adobe GenStudio för Performance Marketers  [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
-source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Create]
+# GenStudio for Performance Marketers [!DNL Create]
 
-GenStudio [!DNL Create] utnyttjar Adobe GenAI för att ge marknadsförare och utspridda team möjlighet att skapa högpresterande varumärkesanpassade upplevelser.
+GenStudio for Performance Marketers [!DNL Create] utnyttjar Adobe GenAI för att ge marknadsförare och utspridda team möjlighet att skapa högpresterande varumärkesanpassade upplevelser.
 
-Med GenStudio [!DNL Create] kan du generera innehåll för följande kanaler:
+Med [!DNL Create] kan du generera innehåll för följande kanaler:
 
 * E-post
 * Meta ads
 <!-- * Social media images and ads
 * Display ads -->
 
-Tillsammans med kraften i GenStudio [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] och [!DNL Personas]—[Content](/help/user-guide/content/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md) och [Insights](/help/user-guide/insights/overview.md) underlättar [!DNL Create] skapandet av slagkraftigt marknadsföringsmaterial.
+Tillsammans med kraften i [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] och [!DNL Personas]—[Content](/help/user-guide/content/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md) och [Insights](/help/user-guide/insights/overview.md) underlättar [!DNL Create] skapandet av slagkraftigt marknadsföringsmaterial.
 
 ## [!DNL Create] användningsfall
 
@@ -60,13 +60,13 @@ Tillsammans med kraften i GenStudio [guidelines](/help/user-guide/guidelines/ove
 </tr>
 </table>
 
-Med GenStudio kan marknadsförare **skapa nytt marknadsföringsinnehåll**. I det här fallet använder du definierade [riktlinjer](/help/user-guide/guidelines/overview.md) och inspirationsbilder för att skapa varumärkesanpassat innehåll.
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content. 
+Med GenStudio for Performance Marketers kan marknadsförare **skapa nytt marknadsföringsinnehåll**. I det här fallet använder du definierade [riktlinjer](/help/user-guide/guidelines/overview.md) och inspirationsbilder för att skapa varumärkesanpassat innehåll.
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketers and use the power of Adobe generative AI technology to revise and improve existing content. 
 * **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create]-funktioner
 
-GenStudio [!DNL Create] integrerar olika komponenter i GenStudio för att hjälpa användare att generera innehåll.
+[!DNL Create] integrerar olika komponenter i GenStudio för Performance Marketers för att hjälpa användare att generera innehåll.
 
 ### Utkast
 
@@ -88,15 +88,15 @@ Om du vill skapa nytt AI-genererat innehåll anger du en [beskrivande uppmaning]
 
 ### Parametrar
 
-I promptområdet kan du lägga till _parametrar_ som [!DNL Brands], [!DNL Products] och [!DNL Personas] (GenStudio-riktlinjer) eller resurser för att forma den genererade upplevelsen.
+I promptområdet kan du lägga till _parametrar_ som [!DNL Brands], [!DNL Products] och [!DNL Personas] (riktlinjer) eller resurser för att forma den genererade upplevelsen.
 
 Överförda bilder i _Parametrar_ används i genererade varianter och informerar kopieringsinnehållet (text) som genereras för varianter.
 
-Dessa tillagda parametrar ger [riktlinjer](/help/user-guide/guidelines/overview.md) och resurser i genereringsprocessen, vilket säkerställer att innehållet är anpassat efter ett varumärkes heltäckande identitet. Vi rekommenderar att du lägger till riktlinjer i din GenStudio och använder dem när du skapar innehåll, eftersom de gör det betydligt enklare att skapa lämpligt varumärkesinnehåll.
+Dessa tillagda parametrar ger [riktlinjer](/help/user-guide/guidelines/overview.md) och resurser i genereringsprocessen, vilket säkerställer att innehållet är anpassat efter ett varumärkes heltäckande identitet. Vi rekommenderar att du lägger till riktlinjer för Performance Marketers i GenStudio och använder dem under innehållsgenereringsprocessen eftersom de gör det betydligt enklare att skapa lämpligt varumärkesinnehåll.
 
 ### Varumärkesvalidering
 
-GenStudio utför varumärkesvalidering på olika sätt av ett varumärkes identitet (enligt definition i [riktlinjerna](/help/user-guide/guidelines/overview.md)). Information om [Varumärkesvalidering](/help/user-guide/guidelines/brand-validation.md) är tillgänglig för allt genererat innehåll, vilket visar att det överensstämmer med varumärkesriktlinjerna och att text och bilder är konsekventa. Ni kan använda den här informationen för att revidera eller förbättra den genererade upplevelsen så att den bättre passar ert varumärke.
+GenStudio for Performance Marketers utför varumärkesvalidering på olika aspekter av ett varumärkes identitet (enligt definition i [riktlinjer](/help/user-guide/guidelines/overview.md)). Information om [Varumärkesvalidering](/help/user-guide/guidelines/brand-validation.md) är tillgänglig för allt genererat innehåll, vilket visar att det överensstämmer med varumärkesriktlinjerna och att text och bilder är konsekventa. Ni kan använda den här informationen för att revidera eller förbättra den genererade upplevelsen så att den bättre passar ert varumärke.
 
 ### Recensioner och godkännanden
 

@@ -2,9 +2,9 @@
 title: Hantera resurser och upplevelser
 description: Förenkla och förbättra hanteringen av varumärkesgodkända mediefiler för användning och återanvändning i er digitala marknadsföringsresa.
 feature: Content, Assets, Experiences
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Hantera resurser och upplevelser
 
-GenStudio [!DNL Content] förenklar och förbättrar hanteringen av varumärkesgodkända mediefiler för användning och återanvändning i den digitala marknadsföringsresan.
+Adobe GenStudio för Performance Marketers [!DNL Content] förenklar och förbättrar hanteringen av varumärkesgodkända mediefiler för användning och återanvändning i den digitala marknadsföringsresan.
 
 ## Lägga till resurser
 
@@ -26,11 +26,11 @@ GenStudio [!DNL Content] förenklar och förbättrar hanteringen av varumärkesg
 
 1. Om du vill förbättra identifieringsmöjligheterna lägger du till valfri information som _Varumärkesnamn_, _Personas_, _Region_ och _Nyckelord_ i avsnittet **Mer information** .
 
-   Ju mer information du ger, desto mer upplever du GenStudio robusta funktioner. Välj en eller flera detaljer i listan eller ange en ny där det är tillämpligt, t.ex. med nyckelord. Varje detalj som du lägger till visas under listan. Klicka på **`x`** om du vill ta bort en detalj.
+   Ju mer information du ger, desto mer upplever du GenStudio robusta funktioner för Performance Marketers. Välj en eller flera detaljer i listan eller ange en ny där det är tillämpligt, t.ex. med nyckelord. Varje detalj som du lägger till visas under listan. Klicka på **`x`** om du vill ta bort en detalj.
 
    All information som du lägger till gäller för alla resurser som läggs till i den här åtgärden.
 
-   Se [Information om metadata](/help/user-guide/content/asset-details.md#genstudio-metadata).
+   Se [Information om metadata](/help/user-guide/content/asset-details.md#system-metadata).
 
 1. Klicka på **[!UICONTROL Add assets]**.
 1. När överföringen av resursen är slutförd klickar du på **Klar**.
@@ -59,7 +59,3 @@ Använd filter och metadatataggar från resursinformationen för att begränsa s
 1. Välj en resurs för en fullständig vy och en lista med detaljer.
 
    Klicka på **[!UICONTROL Download]** (nedpil) om du vill använda resursen på den lokala arbetsstationen.
-
-<!-- 
-There is more here, but not ready yet.
--->

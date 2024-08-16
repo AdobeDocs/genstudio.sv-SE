@@ -2,9 +2,9 @@
 title: Godkänn innehåll
 description: Lär dig godkänna innehåll.
 feature: Approval
-source-git-commit: 0d6eff35e66d3657aa4f5fda65f91f0caab4a7e1
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -24,5 +24,5 @@ Om innehållsutkastet uppfyller organisationens standarder och dina förväntnin
 
 1. Ändra utkaststatus från **Behöver arbete** till **Godkänd**.
 
-Ditt arbete som godkännare är klart. GenStudio meddelar den som skapat utkastet om ditt godkännande. Se [Publish-innehåll](./publish-content.md) för en översikt över processen att spara i [!DNL Content] eller _publicera_.
+Ditt arbete som godkännare är klart. GenStudio for Performance Marketers varnar den som skapat utkastet för ditt godkännande. Se [Publish-innehåll](./publish-content.md) för en översikt över processen att spara i [!DNL Content] eller _publicera_.
 

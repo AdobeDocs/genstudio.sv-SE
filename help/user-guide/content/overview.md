@@ -1,18 +1,18 @@
 ---
-title: Översikt över  [!DNL Content]
+title: Översikt över Adobe GenStudio för Performance Marketers  [!DNL Content]
 description: Lär dig att hitta, redigera, återanvända och dela varumärkesgodkända resurser på en och samma intuitiva portal.
 feature: Attributes, Content, Templates
-source-git-commit: 4192f4a34c30267a2556874fed2e5bc5b300c227
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Content]
+# Adobe GenStudio för Performance Marketers [!DNL Content]
 
-GenStudio [!DNL Content] är en central plats där du kan lagra, hitta och dela alla varumärkesgodkända resurser, upplevelser och mallar. Ni kan redigera och mixa om innehåll, få insikter om innehållsanvändning och känslouttryck samt uppdatera och återanvända befintliga resurser med hjälp av generativ AI.
+GenStudio for Performance Marketers [!DNL Content] är en central plats där du kan lagra, hitta och dela alla varumärkesgodkända resurser, upplevelser och mallar. Ni kan redigera och mixa om innehåll, få insikter om innehållsanvändning och känslouttryck samt uppdatera och återanvända befintliga resurser med hjälp av generativ AI.
 
 ## [!DNL Content] användningsfall
 
@@ -65,7 +65,7 @@ GenStudio [!DNL Content] är en central plats där du kan lagra, hitta och dela 
 
 ## [!DNL Content]-funktioner
 
-GenStudio [!DNL Content] gör det enkelt att hantera godkända resurser och snabba upp innehållets livscykel. I **[!UICONTROL [!DNL Content]]** kan du söka efter, hitta och återanvända prestandainnehåll eller välja en resurs eller upplevelse för att snabbt komma igång med att skapa nya varianter för en helgrön kampanj.
+GenStudio för Performance Marketers [!DNL Content] gör det enkelt att hantera dina godkända resurser och snabba upp innehållets livscykel. I **[!UICONTROL [!DNL Content]]** kan du söka efter, hitta och återanvända prestandainnehåll eller välja en resurs eller upplevelse för att snabbt komma igång med att skapa nya varianter för en helgrön kampanj.
 
 ### Överför resurser
 
@@ -73,7 +73,7 @@ På panelen **[!UICONTROL Add assets]** kan du dra och släppa eller bläddra ef
 
 ### Söka efter godkänt innehåll
 
-När du sparar godkända resurser bevarar [!DNL Content] alla metadata, genereringskontext och granskningshistorik. Resursdetaljer hjälper till att snabbt begränsa sökresultaten med filter och söksträngar. GenStudio AI identifierar och lagrar automatiskt vissa detaljer, t.ex. färg. Om du söker efter `blue` i sökfältet begränsas innehållslistan till resurser som taggats som blå.
+När du sparar godkända resurser bevarar [!DNL Content] alla metadata, genereringskontext och granskningshistorik. Resursdetaljer hjälper till att snabbt begränsa sökresultaten med filter och söksträngar. GenStudio for Performance Marketers AI identifierar och lagrar automatiskt vissa detaljer, som färg. Om du söker efter `blue` i sökfältet begränsas innehållslistan till resurser som taggats som blå.
 
 ### Arbeta med mallar
 

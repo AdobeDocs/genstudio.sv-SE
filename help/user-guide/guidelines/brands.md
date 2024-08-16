@@ -1,20 +1,20 @@
 ---
-title: GenStudio [!DNL Brands]
-description: GenStudio [!DNL Brands] är en omfattande samling varumärkesresurser - marknadsföringskopia, bilder, upplevelser med mera - som kan användas för att skapa varumärkesanpassat innehåll i GenStudio.
+title: GenStudio for Performance Marketers [!DNL Brands]
+description: GenStudio for Performance Marketers [!DNL Brands]  är en omfattande samling varumärkesresurser - marknadsföringskopia, bilder, upplevelser med mera - som kan användas för att skapa varumärkesanpassat innehåll.
 feature: Brands Service, Guidelines
-source-git-commit: c90cec72bd4cad505b7374e0ae81bafc383102e9
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '792'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Brands]
+# GenStudio for Performance Marketers [!DNL Brands]
 
 Ett varumärke skiljer en organisation, produkt, tjänst eller koncept från andra. Vissa delar av ett varumärke är objektiva, till exempel en logotyp, medan andra är subjektiva, till exempel en viss ton.
 
-GenStudio använder den stora mängden varumärkesinformation från ert varumärke, samarbetar med [!DNL Product]- och [!DNL Persona]-information och bygger ut en heltäckande varumärkesidentitet. Varumärkesidentiteten används för att skapa varumärkesanpassat innehåll med hjälp av Adobe generative AI-teknik.
+GenStudio for Performance Marketers använder den stora mängden varumärkesinformation från ert varumärke, kopplar den till information om [!DNL Product] och [!DNL Persona] och bygger ut en heltäckande varumärkesidentitet. Varumärkesidentiteten används för att skapa varumärkesanpassat innehåll med hjälp av Adobe generative AI-teknik.
 
 **Så här visar eller ändrar du ett varumärke**:
 
@@ -22,11 +22,11 @@ GenStudio använder den stora mängden varumärkesinformation från ert varumär
 1. Klicka för att öppna ett definierat varumärke om du vill se en översiktsinformation för ett varumärke.
 1. Om du vill visa enskilda detaljer eller ändra ett varumärke klickar du på **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]** eller **[!UICONTROL Logos]** överst.
 
-Du kan överföra varumärkesstöddokument - upp till tre PDF eller DOC-filer - till GenStudio för att automatiskt skapa ett varumärke. Se [Lägga till riktlinjer](add-guidelines.md) om du vill veta mer om hur du lägger till ett varumärke i GenStudio, ändrar det, publicerar det med mera.
+Du kan överföra varumärkesstöddokument - upp till tre PDF eller DOC-filer - till GenStudio för Performance Marketers för att automatiskt skapa ett varumärke. Se [Lägga till riktlinjer](add-guidelines.md) om du vill veta mer om hur du lägger till ett varumärke i GenStudio för Performance Marketers, ändrar det, publicerar det med mera.
 
 ## Riktlinjer för [!DNL Brands]
 
-Riktlinjerna ger GenStudio en tydlig bild av er varumärkesspecifika strategi, ton, visuella känsla med mera.
+Riktlinjerna ger GenStudio för Performance Marketers en tydlig bild av ert varumärkesspecifika tillvägagångssätt, ton, visuella känsla och mycket annat.
 
 I följande avsnitt av riktlinjerna beskrivs varje kategori, riktlinjer för exempel och potentiella resultat. Riktlinjeexemplen är exempelindata som formar resultatresultatet (exempel på resultat nedan) - använd dem för att informera dina egna varumärkesriktlinjer.
 
@@ -72,16 +72,16 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
+![Image guidelines in GenStudio for Performance Marketers](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
 
 ### Logos
 
 Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"} -->
+![Logo guidelines in GenStudio for Performance Marketers](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
 ## Varumärkesvalidering
 
-I GenStudio spelar varumärkesvalidering en avgörande roll tillsammans med den generativa AI-funktionen för [!DNL Brands], [!DNL Products] och [!DNL Personas]. Det ser till att allt innehåll är förenligt med varumärkesidentiteten.
+I GenStudio for Performance Marketers spelar varumärkesvalidering en viktig roll tillsammans med den generativa AI-funktionen för [!DNL Brands], [!DNL Products] och [!DNL Personas]. Det ser till att allt innehåll är förenligt med varumärkesidentiteten.
 
 Se [Varumärkesvalidering](/help/user-guide/guidelines/brand-validation.md).
