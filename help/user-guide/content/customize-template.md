@@ -3,9 +3,9 @@ title: Anpassa mallar
 description: Lär dig hur du skapar en anpassad mall för Adobe GenStudio för Performance Marketers.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 44390d551e638fcff47cff5844fcfda4ed9f98f3
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 Anpassa HTML-mallarna för Adobe GenStudio för Performance Marketers genom att använda mallspråket _Handlebars_ . I Handlebars syntax används vanlig text med dubbla klammerparenteser som innehållsplatshållare. Läs [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) i _Handlebars språkguide_ om du vill lära dig hur du förbereder mallen.
 
-<!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+Om du inte har någon HTML-mall som är klar att användas i GenStudio för Performance Marketers kan du börja med att definiera mallstrukturen med hjälp av HTML-taggar: `DOCTYPE`, `html`, `head` och `body`. Här följer en grundläggande e-postmall som innehåller CSS-format för att anpassa utseendet:
 
 ```html
 <!DOCTYPE html>
@@ -30,8 +29,6 @@ Anpassa HTML-mallarna för Adobe GenStudio för Performance Marketers genom att 
 </body>
 </html>
 ```
-
-Se [Mallexempel](#template-examples).
 
 >[!TIP]
 >
@@ -47,11 +44,9 @@ Du kan till exempel använda `{{ headline }}` för att ange var rubriken i e-pos
 <div>{{ headline }}</div>
 ```
 
-### Fältnamn
+### Identifierade fältnamn
 
 Det högsta antalet fält som tillåts i en anpassad mall är tjugo.
-
-#### Identifierade fältnamn
 
 I följande tabell visas fältnamnen som identifieras av GenStudio för Performance Marketers för ifyllning i mallar.
 
@@ -63,12 +58,12 @@ I följande tabell visas fältnamnen som identifieras av GenStudio för Performa
 | `cta` | Uppmaning | e-post (rekommenderas)<br>Meta ad |
 | `on_image_text` | På bildtext | Meta ad (rekommenderas) |
 | `image` | Bild | e-post (rekommenderas)<br>Meta ad (rekommenderas) |
-| `brand_logo` | Det valda varumärkets logotyp | e-post<br>Meta ad |
+| `brand_logo` | Logotyp för markerat varumärke<br>Se [fältnamn](#brand-logo-field-name) för rekommenderad användning. | e-post<br>Meta ad |
 
 GenStudio for Performance Marketers fyller automatiskt i vissa fält i mallar, så du behöver inte ta med dem i malldesignen:
 
-* fältet `subject` (e-postmall)
-* `headline`, `body` och `CTA` fält (Meta ad template)
+- fältet `subject` (e-postmall)
+- `headline`, `body` och `CTA` fält (Meta ad template)
 
 >[!WARNING]
 >
@@ -76,55 +71,53 @@ GenStudio for Performance Marketers fyller automatiskt i vissa fält i mallar, s
 
 #### Fältnamn för märkeslogotyp
 
-Om du vill lägga till en logotyp för ett varumärke i mallen använder du någon av följande metoder för att återge standardlogotypen.
+I följande exempel visas två metoder som villkorligt återger logotypen Brand, verifierar källan, tillhandahåller en standardlogotyp eller alternativ logotyp om logotypen inte är tillgänglig samt tillämpar en stil:
 
-_Exempel_:
+_Exempel_: i HTML `img src`-definitionen
 
-```bash
-<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```html
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;"> 
 ```
 
-_Exempel_:
+_Exempel_: i ett Handlebars-villkor
 
-```bash
+```handlebars
 {{#if brand_logo}}
-
-                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{else}}
-
-                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{/if}}
+    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+    {{else}}
+    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+{{/if}}
 ```
 
 #### Manuella fältnamn
 
-Alla andra fältnamn behandlas som manuellt ifyllda fält. Om du vill att ett avsnitt ska kunna redigeras lägger du till dubbla hakparenteser runt det avsnitt du vill redigera.
+Alla andra fältnamn behandlas som manuellt ifyllda fält. Om du vill skapa ett redigerbart avsnitt lägger du till dubbla hakparenteser runt avsnittsnamnet:
 
-_Exempel_: ``{{customVariable}}`` (`customVariable` är det manuellt redigerbara avsnittet)
+```handlebars
+{{customVariable}}
+```
 
 ## Avsnitt eller grupper
 
-_Avsnitt_ informerar GenStudio för Performance Marketers om att fält i det här avsnittet kräver hög grad av konsekvens. Genom att etablera relationen kan AI generera innehåll som matchar kreativa element i avsnittet.
+_Avsnitt_ informerar GenStudio för Performance Marketers om att fälten i det här avsnittet kräver hög grad av konsekvens. Genom att etablera relationen kan AI generera innehåll som matchar de kreativa elementen i avsnittet.
 
 Använd ett prefix som du väljer i fältnamnet för att ange att ett fält är en del av ett avsnitt eller en grupp.
 
 Du kan till exempel markera innehåll som visas i ett markerat område:
 
-* `spotlight_headline`
-* `spotlight_body`
+- `spotlight_headline`
+- `spotlight_body`
 
 Varje avsnitt kan bara ha en av varje fälttyp. I exemplet ovan kan prefixet `spotlight` bara ha ett `spotlight_headline`-fält.
 
 En mall kan innehålla upp till tre avsnitt:
 
-* `headline`
-* `body`
-* `spotlight_headline`
-* `spotlight_body`
-* `news_headline`
-* `news_body`
+- `headline`
+- `body`
+- `spotlight_headline`
+- `spotlight_body`
+- `news_headline`
+- `news_body`
 
 GenStudio för Performance Marketers förstår att `spotlight_headline` är närmare relaterat till `spotlight_body` än till `news_body`.
 
@@ -263,7 +256,6 @@ Följande är ett grundläggande exempel på en Meta-annonsmall. Huvudet innehå
     <div class="ad-body">"{{ body }}"</div>
     <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
 </div>
-
 </body>
 </html>
 ```
