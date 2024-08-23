@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio för Performance Marketers Beta versionsinformation
 description: Läs om de senaste funktionerna och förbättringarna av Adobe GenStudion för Performance Marketers.
-source-git-commit: 72103c750a7708d97be87bed144bfe053ceeaa0f
+source-git-commit: 071871f91f0624c1bdb3be3f5ed2d9742352afea
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,10 @@ Följande kända fel är schemalagda för lösning i GenStudio for Performance M
 * Det går inte att spela upp videofilmer från _Assets_. <!-- GS-3846 -->
 
 * Användare måste logga in två gånger till ett Meta Ads-kanalkonto när de också är inloggade på Facebook. **Tillfällig lösning**: Logga ut från Facebook innan du loggar in på ett Meta Ads-kanalkonto.
+
+### Lösta kända fel
+
+* I promptområdet ([!DNL Brands]) visas en rotationsruta i slutet av listan ([!DNL Brands]) när e-postmeddelanden skapas. (fast 8/22) <!-- GS-4077 -->
 
 ## Tidigare betaversioner
 
