@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio för Performance Marketers Beta versionsinformation
 description: Läs om de senaste funktionerna och förbättringarna av Adobe GenStudion för Performance Marketers.
-source-git-commit: 071871f91f0624c1bdb3be3f5ed2d9742352afea
+source-git-commit: 44cee6fa5b543372b1264745dd42ca6d3c754ec5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Följande kända fel är schemalagda för lösning i GenStudio for Performance M
 
 ### Lösta kända fel
 
-* I promptområdet ([!DNL Brands]) visas en rotationsruta i slutet av listan ([!DNL Brands]) när e-postmeddelanden skapas. (fast 8/22) <!-- GS-4077 -->
+* I frågeområdet ([!DNL Brands]) visas en rotationsruta i slutet av listan ([!DNL Brands]) när e-postmeddelanden skapas. (fast 8/22) <!-- GS-4077 -->
 
-## Tidigare betaversioner
+## Tidigare versioner av Beta
 
-Tidigare betaversioner innehöll följande förbättringar.
+Tidigare versioner av Beta innehöll följande programfixar och markeringar.
 
 ### Högdagrar
 
