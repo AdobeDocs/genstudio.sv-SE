@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudio för Performance Marketers Beta versionsinformation
 description: Läs om de senaste funktionerna och förbättringarna av Adobe GenStudion för Performance Marketers.
-source-git-commit: 44cee6fa5b543372b1264745dd42ca6d3c754ec5
+source-git-commit: 17d2cb3afd6c3ce8a8c5efe8c5b406f6cdf5aa76
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Följande kända fel är schemalagda för lösning i GenStudio for Performance M
 
 ### Lösta kända fel
 
-* I frågeområdet ([!DNL Brands]) visas en rotationsruta i slutet av listan ([!DNL Brands]) när e-postmeddelanden skapas. (fast 8/22) <!-- GS-4077 -->
+* I listrutan Fråga ([!DNL Brands]) visas en rotationsruta i slutet av listan ([!DNL Brands]) när e-postmeddelanden skapas. (fast 8/22) <!-- GS-4077 -->
 
 ## Tidigare versioner av Beta
 
@@ -51,7 +51,7 @@ Tidigare versioner av Beta innehöll följande programfixar och markeringar.
 
 * Sidfeedplaceringsnamnet _Experience Detail_ anger nu Facebook- eller Instagram-feed. (8/16)
 
-* Beskärning av större bilder och videor är nu konsekvent när användaren navigerar från vyn _Resursöversikt_ till vyn _Resursdetaljer_ .  (8/16)
+* Beskärning av större bilder och videor är nu konsekvent när användaren navigerar från vyn _Resursöversikt_ till vyn _Resursdetaljer_ . (8/16)
 
 * Resultatantal för attributskärmssökning visas inte längre `0 of` innan en användare loggar in.  (8/16) <!-- GS- 3665 -->
 
