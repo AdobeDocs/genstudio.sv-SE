@@ -2,9 +2,9 @@
 title: Arbeta med mallar
 description: Lär dig hur du använder mallar för att skapa engagerande upplevelser i Adobe GenStudio för Performance Marketers.
 feature: Templates, Content
-source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
+source-git-commit: 0cd877737f8ed4d38201c832d454795206505de2
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -12,12 +12,13 @@ ht-degree: 0%
 
 # Arbeta med mallar
 
-GenStudio-mallar är nödvändiga för att innehållsskapare snabbt ska kunna producera enhetligt marknadsföringsmaterial. När du använder mallar minskas tiden och arbetet avsevärt för att generera nytt innehåll genom att du får en startpunkt som inkluderar förkonfigurerade layouter och designelement.
+Med GenStudio mallar kan kreatörer snabbt producera enhetligt marknadsföringsmaterial. När du använder mallar minskas tiden och arbetet avsevärt för att generera nytt innehåll genom att du får en startpunkt som inkluderar förkonfigurerade layouter och designelement.
 
 Den här handboken innehåller detaljerad information om hur du:
 
 * Förbered en [e-postmall](email-template.md) eller en mall för meta-annons
-* [Anpassa mallar](customize-template.md) för GenStudio för Performance Marketerstudio
+* [Anpassa mallar](customize-template.md) för GenStudio för Performance Marketers
+* Följ vägledningen i [Skapa tillgängliga mallar](accessibility-for-templates.md)
 * [Överför mallar](#upload-a-template) till GenStudio för Performance Marketers
 * [Använd mallar för att skapa upplevelser](#use-a-template)
 
@@ -27,17 +28,17 @@ Grundläggande malldesign innehåller följande element:
 
 | Element | Funktion | Kanalmall |
 | ------------ | ---------------------- | -------------------- |
-| Förrubrik | Mellan 40 och 50 tecken <br>Fungerar som sekundär ämnesrad och förbättrar huvudämnesraden <br>Visas i inkorgen bredvid motivet innan e-post öppnas | e-post |
-| Sidhuvud | Det vanligaste avsnittet för e-postmottagare visas när e-post öppnas <br>Anger ton och anger kontext för inkluderat innehåll | e-post |
+| Förrubrik | Mellan 40 och 50 tecken <br>Fungerar som en sekundär ämnesrad som förbättrar huvudämnesraden <br>Visas i inkorgen bredvid motivet innan e-postmeddelandet öppnas | e-post |
+| Sidhuvud | Det vanligaste avsnittet i e-postmeddelandet visas när e-postmeddelandet <br>Ställer in ton och anger kontext för inkluderat innehåll | e-post |
 | Headline | Det första innehållet som mottagaren ser <br>Bör vara intressant att fånga intresset | Meta ad |
-| Brödtext | Huvudsakligt innehållsområde där primärt meddelande skickas <br>Kan innehålla text, bilder och andra media | e-post<br>Meta ad |
+| Brödtext | Huvudsakligt innehållsområde där det primära meddelandet förmedlas <br>Kan innehålla text, bilder och andra media | e-post<br>Meta ad |
 | CTA | Uppmaning till mottagare att vidta specifika åtgärder, som att klicka på en länk eller göra ett köp | e-post<br>Meta ad |
 | Bilder | Förbättrat utseende <br>Bryter upp text <br>Stöder meddelande <br>Ska vara högkvalitativt och uppseendeväckande | e-post<br>Meta ad |
-| Sidfot | Innehåller ytterligare information som kontaktinformation, länkar till sociala medier, ansvarsfriskrivningar och alternativ för att avbryta prenumerationen | e-post |
+| Sidfot | Fotosektion som innehåller ytterligare innehåll som kontaktinformation, länkar till sociala medier, ansvarsfriskrivningar och alternativ för att avbryta prenumerationen | e-post |
 | Textövertäckning | Text på en bild <br>Ska stöda och förbättra rubrik och brödtext | Meta ad |
 
 >[!NOTE]
-> 
+>
 >Vi rekommenderar att du inkluderar specifika fält i varje kanals innehåll för att säkerställa att GenStudio for Performance Marketers kan generera text för platshållare för innehåll. Se [Identifierade fältnamn](customize-template.md#recognized-field-names) för att se vilka fält som rekommenderas för inkludering.
 
 ## Överföra en mall
