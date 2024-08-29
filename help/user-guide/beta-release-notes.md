@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio för Performance Marketers Beta versionsinformation
 description: Läs om de senaste funktionerna och förbättringarna av Adobe GenStudion för Performance Marketers.
-source-git-commit: 17d2cb3afd6c3ce8a8c5efe8c5b406f6cdf5aa76
+source-git-commit: f30eaea46a0cbb45f1ba04e393219b843c356e10
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -11,23 +11,44 @@ ht-degree: 0%
 
 # Adobe GenStudio för Performance Marketers Beta versionsinformation
 
-Dessa kommentarer belyser viktig Adobe GenStudio för korrigeringar och förbättringar av Performance Marketers under veckan till 23 augusti.
+Dessa kommentarer belyser viktig Adobe GenStudio för korrigeringar och förbättringar av Performance Marketers under veckan till 30 augusti.
+
+## Högdagrar
+
+* Instagram och Facebook kanalriktlinjer har kombinerats i Metas varumärkesriktlinjer.
+
+* Navigeringselement för arbetsytan har strömlinjeformats. Startsidan ([!DNL Create]) visar den vänstra navigeringspanelen, men användarna använder nu en **[!UICONTROL Back]**-knapp för att navigera till det här området från andra arbetsytor för Skapa.  <!-- GS-1189 -->
+
+* Navigeringselementen har förbättrats för att ge stöd åt användarfokus när man utför uppgifter i hela produkten, inklusive följande produktområden:
+
+   * Resurs, upplevelse, mallinformation i ([!DNL Content])
+   * Upplevelse, resurs, attributdetaljer i ([!DNL Insights])
+   * Varumärkesinformation i ([!DNL Brands])
+   * Produkt- och personinformation i ([!DNL Products]) och ([!DNL Personas]) <!-- GS-1189 -->
+
+* Användare behöver inte längre klicka på knappen **[!UICONTROL Refresh]** för att se uppdateringar till upplevelser i ([!DNL Content]). <!-- GS-4218 -->
+
+* På sidan Experience Details återges nu externa miniatyrbilder av resurser som HTML. <!-- GS-3092 -->
+
+* Fördröjningen för användargränssnitt efter att Assets och Experience har lagts till eller tagits bort har förbättrats. <!-- GS-3389 -->
+
+* Mallförhandsvisningar innehåller nu mer beskrivande standardtext. <!-- GS-4028 -->
 
 ## Kända fel
 
 Följande kända fel är schemalagda för lösning i GenStudio for Performance Marketers GA-versionen.
 
-* Det går inte att överföra varumärkesriktlinjer på grund av problem med lagringsplattformen i AVS. <!-- GS-4369 -->
+* Det finns skillnader mellan förhandsvisningar av MetaAds Canvas och exporterade vyer. <!-- GS-4492 4401 -->
+
+* Kampanjminiatyrer saknas i vyn ([!DNL Insights]). <!-- GS-4648 -->
 
 * Användarna kan för närvarande välja små resurser som kräver storleksändring, men det går inte att förstora dessa resurser. <!-- GS-3131 -->
-
-* Det går inte att spela upp videofilmer från _Assets_. <!-- GS-3846 -->
 
 * Användare måste logga in två gånger till ett Meta Ads-kanalkonto när de också är inloggade på Facebook. **Tillfällig lösning**: Logga ut från Facebook innan du loggar in på ett Meta Ads-kanalkonto.
 
 ### Lösta kända fel
 
-* I listrutan Fråga ([!DNL Brands]) visas en rotationsruta i slutet av listan ([!DNL Brands]) när e-postmeddelanden skapas. (fast 8/22) <!-- GS-4077 -->
+* Ett fel visas i GenStudio när en användare försöker ange autentiseringsuppgifter i vyn ([!DNL Insights]). (fast 29/8) <!-- GS-4689 -->
 
 ## Tidigare versioner av Beta
 
@@ -56,3 +77,10 @@ Tidigare versioner av Beta innehöll följande programfixar och markeringar.
 * Resultatantal för attributskärmssökning visas inte längre `0 of` innan en användare loggar in.  (8/16) <!-- GS- 3665 -->
 
 * När du klickar på fältet **[!UICONTROL [!DNL Insights]]** > **[!UICONTROL Asset]** rensas inte längre inställningarna för sökning och filter. (8/16) <!-- GS-3476 -->
+
+### Kända problem som lösts i tidigare versioner av Beta
+
+* Det går inte att överföra varumärkesriktlinjer på grund av problem med lagringsplattformen i AVS. (fast 8/22) <!-- GS-4369 -->
+
+* I den nedrullningsbara menyn Fråga ([!DNL Brands]) visas en rotationsruta i slutet av listan ([!DNL Brands]) när e-postmeddelanden skapas. (fast 8/22) <!-- GS-4077 -->
+
