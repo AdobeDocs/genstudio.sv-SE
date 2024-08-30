@@ -3,9 +3,9 @@ title: Förbered en e-postmall för Adobe GenStudio för Performance Marketers
 description: Lär dig hur du skapar en anpassad e-postmall för Adobe GenStudio för Performance Marketers.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
+source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vanligtvis skapar en designer den visuella designen för en mall i ett designprogram som Adobe XD. När en e-postmall har utformats, kodats och testats kan du förbereda den för överföring och användning i GenStudio för Performance Marketers.
 
-Se [Anatomi för en mall](/help/user-guide/content/use-templates.md#anatomy-of-a-template).
+Se [Mallelement](use-templates.md#template-elements).
 
 ## Lägg till riktlinjer
 

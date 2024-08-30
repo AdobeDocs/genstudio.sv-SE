@@ -1,10 +1,10 @@
 ---
 title: Skapa tillgängliga mallar
-description: Bygg mallar som kan nå alla målgrupper för användning i Adobe GenStudio för Performance Marketers.
+description: Skapa mallar i Adobe GenStudio för Performance Marketers som kan nå ut till fler av er målgrupp och ge en optimal upplevelse.
 feature: Templates, Content
-source-git-commit: 26d1b9c7b392e93e87ffcd9444f391c2980d1c3c
+source-git-commit: c891f876fe5a7c75487fcba6552a213533f0b609
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---

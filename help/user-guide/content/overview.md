@@ -2,9 +2,9 @@
 title: Översikt över Adobe GenStudio för Performance Marketers  [!DNL Content]
 description: Lär dig att hitta, redigera, återanvända och dela varumärkesgodkända resurser på en och samma intuitiva portal.
 feature: Attributes, Content, Templates
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: c34fd3ac0925624c685ae27d56d9964896796786
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -20,45 +20,43 @@ GenStudio for Performance Marketers [!DNL Content] är en central plats där du 
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-      <img alt="förstorare" src="../../assets/icons/icon-search.svg" width="35">
+         <img alt="förstorare" src="../../assets/icons/icon-search-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md#search">
          <strong>Sök efter innehåll </strong>
          </a>
-      </div>
+      </p>
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-      <img alt="bilder med plustecken" src="../../assets/icons/icon-addContent.svg" width="35">
+         <img alt="bilder med plustecken" src="../../assets/icons/icon-addContent-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md">
          <strong> Lägga till resurser </strong>
          </a>
-      </div>
+      </p>
    </td>
-<!--
    <td align="center" valign="top" width="100">
-      <a href="../content/manage-assets.md#search">
-      <img alt="sparkle and new asset" src="../../assets/icons/icon-AIVariation.svg" width="35">
+      <a href="../content/customize-template.md">
+         <img alt="blixt på resurs" src="../../assets/icons/icon-template-35.svg" width="35">
       </a>
-      <div>
-         <a href="../content/manage-assets.md#search">
-         <strong>Refresh content</strong>
+      <p>
+         <a href="../content/customize-template.md">
+         <strong> Anpassa en mall </strong>
          </a>
-      </div>
+      </p>
    </td>
--->
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-      <img alt="blixt på resurs" src="../../assets/icons/icon-template.svg" width="35">
+         <img alt="blixt på resurs med plustecken" src="../../assets/icons/icon-addTemplate-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/use-templates.md#upload-a-template">
          <strong> Överför mall </strong>
          </a>
-      </div>
+      </p>
    </td>
 </tr>
 </table>
@@ -77,4 +75,4 @@ När du sparar godkända resurser bevarar [!DNL Content] alla metadata, genereri
 
 ### Arbeta med mallar
 
-Mallar snabbar upp processen för att skapa enhetligt innehåll i flera kanaler. Mallar är en startpunkt i skapandet med förkonfigurerade layouter och designelement.
+Mallar snabbar upp processen för att skapa enhetligt innehåll i flera kanaler. Ladda upp en egen mall som kan användas som utgångspunkt i skapandeprocessen med förkonfigurerade layouter och designelement.

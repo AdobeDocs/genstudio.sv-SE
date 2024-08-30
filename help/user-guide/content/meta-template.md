@@ -3,9 +3,9 @@ title: Förbered en mall för metaannonser för Adobe GenStudio för Performance
 description: Lär dig hur du skapar en anpassad mall för Meta-annonser för Adobe GenStudio för Performance Marketers.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
+source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Om inga riktlinjer läggs till i GenStudio för Performance Marketers används s
 
 Vanligtvis skapar en designer den visuella designen för en mall i ett designprogram som Adobe XD.
 
-Se [Anatomi en mall](/help/user-guide/content/use-templates.md#anatomy-of-a-template) och [Mallexempel](/help/user-guide/content/customize-template.md#template-examples).
+Se [Mallelement](use-templates.md#template-elements) och [Mallexempel](/help/user-guide/content/customize-template.md#template-examples).
 
 ### Annonsspecifikationer
 
