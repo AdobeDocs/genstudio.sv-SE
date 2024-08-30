@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 4745e7cab9cd605c3bc7e93cb610e510566c9302
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '935'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,8 @@ När du skapar en Meta-annons kan du välja mellan Facebook- eller Instagram-ann
 
 Växla kanalalternativet Meta ads i det övre menyfältet till **Facebook** eller **Instagram** för att hantera varje kanals genererade utkast.
 
+När du [ändrar metadataannonserna](#revise-generated-meta-ads) kan du ändra proportionerna för Facebook- och Instagram-annonser.
+
 ## Revidera genererade Meta-annonser
 
 Innan du väljer vad som ska skickas för godkännande eller publicering till [!DNL Content] kan du redigera Meta-annonserna eller ta bort en variant från uppsättningen med genererade annonser.
@@ -81,6 +83,7 @@ Innan du väljer vad som ska skickas för godkännande eller publicering till [!
   Subject line and preheader only require a single click to edit, while the header and body copy require a double click.
 
 * **Om du vill ändra eller markera anropet till åtgärd** klickar du på knappen för att ringa till åtgärd och väljer från en tillgänglig knapp.
+* **Om du vill ändra storlek och proportioner** klickar du på knappen _[!UICONTROL Resize]_(ruta med en knappikon till vänster på arbetsytan) och väljer en ny storlek och proportioner som ska användas på alla varianter. Varianterna dupliceras och storleksändras.
 * **Om du vill ta bort en Meta-annons** klickar du på annonsrubriken (till exempel &quot;Meta 4&quot;) och klickar på **[!UICONTROL Delete variant]**.
 
 ## Verifiera varumärkesjustering

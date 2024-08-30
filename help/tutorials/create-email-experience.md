@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5026afb4eb71df73063559aee34971039511b31a
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '795'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Om du vill skapa en effektiv e-postupplevelse rekommenderar vi att du [lägger t
 
 ## Välj en mall
 
-Om du vill komma igång med att skapa en ny e-postupplevelse kan du använda en tillgänglig mall för att tillhandahålla ramverket för ditt innehåll.
+Om du vill skapa en ny e-postupplevelse kan du använda en tillgänglig mall för att tillhandahålla ramverket för ditt innehåll.
 
 **Så här väljer du en e-postmall**:
 
@@ -47,6 +47,10 @@ Om du lägger till [riktlinjer](/help/user-guide/guidelines/overview.md) och res
    * Klicka på **[!UICONTROL Select from content]** för att välja resurser (bilder) som redan har publicerats till [!DNL Content]. Använd filtren för att begränsa sökresultaten ytterligare.
    * Klicka på **[!UICONTROL Upload]** för att bläddra bland dina filer och välja resurser som ska användas. Du kan även importera från Microsoft OneDrive eller Dropbox.
    * Dra och släpp resurser i avsnittet _Innehåll_.
+
+>[!NOTE]
+>
+>Om din e-postmall har flera avsnitt väljer du [!DNL Products] och innehåll (visuella resurser) för varje e-postavsnitt i _Fleravsnittsmeddelanden_. E-postmeddelanden med flera avsnitt har stöd för en visuell resurs per avsnitt.
 
 När du är klar med att lägga till parametrar kan du komprimera frågeområdet genom att klicka på ikonen _Parametrar_ igen.
 
