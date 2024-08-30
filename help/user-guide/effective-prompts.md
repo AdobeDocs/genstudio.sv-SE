@@ -2,9 +2,9 @@
 title: Skriv effektiva uppmaningar
 description: Lär dig hur du skriver effektiva uppmaningar om Adobe GenStudio för Performance Marketers.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 306b64b44e69dbcec3984d1a0b54230fe0dbe48c
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Frågevillkoren för [e-post](/help/tutorials/create-email-experience.md) kan om
 
 >[!NOTE]
 >
->Om riktlinjer läggs till i _Parametrar_ i promptområdet behöver du inte inkludera referenser till dem i prompten. GenStudio för Performance Marketers utnyttjar dessa [!DNL Brands], [!DNL Products] och [!DNL Personas] när det gäller innehållsgenerering.
+>Om riktlinjer läggs till i _Parametrar_ i promptområdet behöver du inte inkludera referenser till dem i prompten. GenStudio för Performance Marketers utnyttjar dessa [!DNL Brands], [!DNL Products] och [!DNL Personas] i innehållsgenereringen.
 
 ### Riktlinjer
 
@@ -57,15 +57,7 @@ Riktlinjerna för GenStudio for Performance Marketers hjälper den generativa AI
 
 ## Försök igen
 
-Att fråga är en iterativ process. Om resultaten inte uppfyller dina förväntningar kan du granska frågan och göra några ändringar eller lägga till mer information. Du kan förfina uppmaningen genom att ange en URL som exempel eller en källa för mer information.
-
-```bash
-Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery.
-
-Use information from https://www.adobe.com/products/photoshop.html to inspire users with the latest features.
-```
-
-Du kan även klistra in avsnitt från en kampanjrapport. Du kan till och med begära att GenStudio for Performance Marketers undviker vissa ord, element eller teman.
+Att fråga är en iterativ process. Om resultaten inte uppfyller dina förväntningar kan du granska frågan och göra några ändringar eller lägga till mer information. Du kan även klistra in avsnitt från en kampanjrapport. Du kan till och med begära att GenStudio for Performance Marketers undviker vissa ord, element eller teman.
 
 ## God praxis
 
