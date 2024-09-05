@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio för Performance Marketers Beta versionsinformation
 description: Läs om de senaste funktionerna och förbättringarna av Adobe GenStudion för Performance Marketers.
-source-git-commit: 21b81ab6776d504656ba8c3017f8b2897dc173ea
+source-git-commit: 16f44baf646d696da3572ac2c17a5efb7c8f7fc6
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -11,36 +11,21 @@ ht-degree: 0%
 
 # Adobe GenStudio för Performance Marketers Beta versionsinformation
 
-Dessa kommentarer belyser viktig Adobe GenStudio för korrigeringar och förbättringar av Performance Marketers under veckan till 30 augusti.
-
-## Högdagrar
-
-* Instagram och Facebook kanalriktlinjer har kombinerats i Metas varumärkesriktlinjer.
-
-* Navigeringselement för arbetsytan har strömlinjeformats. På [!DNL Create]-landningssidan visas den vänstra navigeringspanelen, men användarna använder nu en **[!UICONTROL Back]**-knapp för att navigera till det här utrymmet från andra [!DNL Create] arbetsytor.  <!-- GS-1189 -->
-
-* Navigeringselementen har förbättrats för att ge stöd åt användarfokus när man utför uppgifter i hela produkten, inklusive följande produktområden:
-
-   * Resurs, upplevelse, mallinformation i [!DNL Content]
-   * Upplevelse, resurs, attributdetaljer i [!DNL Insights]
-   * Märkesinformation i [!DNL Brands]
-   * Produkt- och personinformation i [!DNL Products] och [!DNL Personas] <!-- GS-1189 -->
-
-* Användare behöver inte längre klicka på knappen **[!UICONTROL Refresh]** för att se uppdateringar av upplevelser i [!DNL Content]. <!-- GS-4218 -->
-
-* Sidan _Upplevelseinformation_ återger nu externa miniatyrer som HTML. <!-- GS-3092 -->
-
-* Fördröjningen för användargränssnitt efter att Assets och Experience har lagts till eller tagits bort har förbättrats. <!-- GS-3389 -->
-
-* Mallförhandsvisningar innehåller nu mer beskrivande standardtext. <!-- GS-4028 -->
+Dessa kommentarer belyser viktig Adobe GenStudio för korrigeringar och förbättringar av Performance Marketers för den vecka som slutar 6 september.
 
 ## Kända fel
 
 Följande kända fel är schemalagda för lösning i GenStudio for Performance Marketers GA-versionen.
 
+* Redigerare stöter ibland på ett felmeddelande om att något gick fel på [!DNL Create Canvas] under bildgenereringen. **Tillfällig lösning**: Om felet upprepas kan användaren logga ut, logga in på GenStudio igen och återskapa bilden.  <!-- GS-4813 -->
+
+* [!DNL Create Canvas] återger bilder i Meta-annonser felaktigt. <!-- GS-4864 -->
+
+* Assets utan kampanjer kan överföras till [!DNL Content], men är kanske inte synligt för användarna. <!-- GS-4815 -->
+
 * Det finns skillnader mellan förhandsvisningar av MetaAds Canvas och exporterade vyer. <!-- GS-4492 4401 -->
 
-* Kampanjminiatyrer saknas i vyn [!DNL Insights]. <!-- GS-4648 -->
+* Kampanjminiatyrer saknas i [!DNL Insights]. <!-- GS-4648 -->
 
 * Användarna kan för närvarande välja små resurser som kräver storleksändring, men det går inte att förstora dessa resurser. <!-- GS-3131 -->
 
