@@ -1,17 +1,23 @@
 ---
 title: Adobe GenStudio för Performance Marketers Beta versionsinformation
 description: Läs om de senaste funktionerna och förbättringarna av Adobe GenStudion för Performance Marketers.
-source-git-commit: 16f44baf646d696da3572ac2c17a5efb7c8f7fc6
+exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
+source-git-commit: ca5e746850925252679facc321d7522b251cd57a
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
 
-
 # Adobe GenStudio för Performance Marketers Beta versionsinformation
 
 Dessa kommentarer belyser viktig Adobe GenStudio för korrigeringar och förbättringar av Performance Marketers för den vecka som slutar 6 september.
+
+## Nya funktioner
+
+* GenStudio stöder nu alternativet att förhandsgranska medieresurser i [!DNL Insights]. Videominiatyrbilder innehåller en **uppspelningsknapp** med ett ljudavstängningsalternativ. <!-- GS-4398 -->
+
+* Assets kan nu filtreras i [!DNL Insights] efter typ `video`. <!-- GS-4398 -->
 
 ## Kända fel
 
@@ -31,15 +37,48 @@ Följande kända fel är schemalagda för lösning i GenStudio for Performance M
 
 * Användare måste logga in två gånger till ett Meta Ads-kanalkonto när de också är inloggade på Facebook. **Tillfällig lösning**: Logga ut från Facebook innan du loggar in på ett Meta Ads-kanalkonto.
 
-### Lösta kända fel
+* Överförda bilder innehåller inte alltid de förväntade smarta taggarna. <!-- GS-4856 -->
 
-* Ett fel visas i GenStudio när en användare försöker ange inloggningsuppgifter i vyn [!DNL Insights]. (fast 29/8) <!-- GS-4689 -->
+### Ytterligare förbättringar och åtgärdade problem
+
+* Popup-fönstret _Lägg till Assets_ är nu lokaliserat som förväntat. <!-- GS-3834 -->
+
+* Problem med skalning av mallen Meta Adds Experience har lösts. <!-- GS-4174 -->
+
+* Modeller för innehållsfragment som skapats för mallar kan nu återges korrekt i AEM. <!-- GS-4716 -->
+
+* Textfält i CSV-exportfilen för e-post med flera delar ordnas nu som förväntat. <!-- GS-4013 -->
+
+* Sökfältet [!DNL Content] försvinner inte längre när en användare trycker på tangenten **Backsteg** upprepade gånger för att radera texten i sökfältet.  <!-- GS-4543 -->
+
+* GenStudio läser nu in användare som förväntat när en medarbetare lägger till ett @-omnämnande i en kommentar. Tidigare lästes inte användare in i GenStudio och följande fel visades: `Unable to load users. Refresh the page`. <!-- GS-4113 -->
+
+* GenStudio visar inte längre meddelandet **Något gick fel** när en redigerare klickar på **Välj innehåll** när e-postmeddelandet skapades i promptområdet. <!-- GS-4879 -->
 
 ## Tidigare versioner av Beta
 
 Tidigare versioner av Beta innehöll följande programfixar och markeringar.
 
 ### Högdagrar
+
+* Instagram och Facebook kanalriktlinjer har kombinerats i Metas varumärkesriktlinjer.
+
+* [!DNL Create] arbetsytans navigeringselement har strömlinjeformats. På [!DNL Create]-landningssidan visas den vänstra navigeringspanelen, men användarna använder nu en **[!UICONTROL Back]**-knapp för att navigera till det här utrymmet från andra [!DNL Create] arbetsytor.
+
+* Navigeringselementen har förbättrats för att ge stöd åt användarfokus när man utför uppgifter i hela produkten, inklusive följande produktområden:
+
+   * Resurs, upplevelse, mallinformation i [!DNL Content]
+   * Upplevelse, resurs, attributdetaljer i [!DNL Insights]
+   * Märkesinformation i [!DNL Brands]
+   * Produkt- och personinformation i Produkter och Personas
+
+* Användare behöver inte längre klicka på knappen **[!UICONTROL Refresh]** för att se uppdateringar av upplevelser i [!DNL Content].
+
+* Sidan _Upplevelseinformation_ återger nu externa miniatyrbilder av resurser som HTML.
+
+* Fördröjningen för användargränssnitt efter att Assets och Experience har lagts till eller tagits bort har förbättrats.
+
+* Mallförhandsvisningar innehåller nu mer beskrivande standardtext. Se [Anpassa en mall](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/content/templates/customize-template#template-preview).
 
 * **Procentandel av valideringspoäng**: I varumärkesvalideringen visas nu varumärkesvalideringspoängen i procent i stället för ett godkänt/underkänt värde. (fast 8/16)
 
@@ -51,7 +90,7 @@ Tidigare versioner av Beta innehöll följande programfixar och markeringar.
 
 * **Storleksändring för metaannonser**: Redigerare kan ändra storlek på metadata och proportioner. (fast 8/16)
 
-* **Begränsade Insights-inloggningskonton**: Inloggningen för Insights har nu bara stöd för ett konto per kund. (fast 8/16)
+* **Begränsade [!DNL Insights] inloggningskonton**: Inloggningen [!DNL Insights] har nu bara stöd för ett konto per kund. (fast 8/16)
 
 ### Ytterligare förbättringar och åtgärdade problem
 
@@ -65,7 +104,8 @@ Tidigare versioner av Beta innehöll följande programfixar och markeringar.
 
 ### Kända problem som lösts i tidigare versioner av Beta
 
+* Ett fel visas i GenStudio när en användare försöker ange inloggningsuppgifter i vyn [!DNL Insights]. (fast 29/8) <!-- GS-4689 -->
+
 * Det går inte att överföra varumärkesriktlinjer på grund av problem med lagringsplattformen i AVS. (fast 8/22) <!-- GS-4369 -->
 
 * I listrutan Fråga [!DNL Brands] visas en rotationsruta i slutet av listan [!DNL Brands] när e-postmeddelanden skapas. (fast 8/22) <!-- GS-4077 -->
-
