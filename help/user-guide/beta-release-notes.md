@@ -2,9 +2,9 @@
 title: Adobe GenStudio för Performance Marketers Beta versionsinformation
 description: Läs om de senaste funktionerna och förbättringarna av Adobe GenStudion för Performance Marketers.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ca5e746850925252679facc321d7522b251cd57a
+source-git-commit: 62793ab56b635f17e037b63beb56c09ff2d45621
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '728'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ Dessa kommentarer belyser viktig Adobe GenStudio för korrigeringar och förbät
 
 ## Nya funktioner
 
-* GenStudio stöder nu alternativet att förhandsgranska medieresurser i [!DNL Insights]. Videominiatyrbilder innehåller en **uppspelningsknapp** med ett ljudavstängningsalternativ. <!-- GS-4398 -->
-
-* Assets kan nu filtreras i [!DNL Insights] efter typ `video`. <!-- GS-4398 -->
+* GenStudio har nu stöd för alternativet att förhandsgranska medieresurser i [!DNL Insights]-tabell- och gallerivyer. Videominiatyrbilder innehåller en **uppspelningsknapp** med ett ljudavstängningsalternativ. <!-- GS-4398 -->
 
 ## Kända fel
 
