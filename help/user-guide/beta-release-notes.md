@@ -2,9 +2,9 @@
 title: Adobe GenStudio för Performance Marketers Beta versionsinformation
 description: Läs om de senaste funktionerna och förbättringarna av Adobe GenStudion för Performance Marketers.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 62793ab56b635f17e037b63beb56c09ff2d45621
+source-git-commit: 2e40260db0f9972675b103c51f09acbfa83a1cb5
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -42,8 +42,6 @@ Följande kända fel är schemalagda för lösning i GenStudio for Performance M
 * Popup-fönstret _Lägg till Assets_ är nu lokaliserat som förväntat. <!-- GS-3834 -->
 
 * Problem med skalning av mallen Meta Adds Experience har lösts. <!-- GS-4174 -->
-
-* Modeller för innehållsfragment som skapats för mallar kan nu återges korrekt i AEM. <!-- GS-4716 -->
 
 * Textfält i CSV-exportfilen för e-post med flera delar ordnas nu som förväntat. <!-- GS-4013 -->
 
