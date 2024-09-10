@@ -2,9 +2,9 @@
 title: Adobe GenStudio för Performance Marketers Beta versionsinformation
 description: Läs om de senaste funktionerna och förbättringarna av Adobe GenStudion för Performance Marketers.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 2e40260db0f9972675b103c51f09acbfa83a1cb5
+source-git-commit: 2861dd76dde9428e0c39af18c1d5e21dc2b32b91
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Följande kända fel är schemalagda för lösning i GenStudio for Performance M
 
 * [!DNL Create Canvas] återger bilder i Meta-annonser felaktigt. <!-- GS-4864 -->
 
-* Assets utan kampanjer kan överföras till [!DNL Content], men är kanske inte synligt för användarna. <!-- GS-4815 -->
+* Mallar kan överföras men inte visas. <!-- GS-4815 -->
 
 * Det finns skillnader mellan förhandsvisningar av MetaAds Canvas och exporterade vyer. <!-- GS-4492 4401 -->
 
