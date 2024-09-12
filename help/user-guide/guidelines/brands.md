@@ -2,13 +2,13 @@
 title: GenStudio for Performance Marketers [!DNL Brands]
 description: GenStudio for Performance Marketers [!DNL Brands]  är en omfattande samling varumärkesresurser - marknadsföringskopia, bilder, upplevelser med mera - som kan användas för att skapa varumärkesanpassat innehåll.
 feature: Brands Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
+source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
 workflow-type: tm+mt
 source-wordcount: '792'
 ht-degree: 0%
 
 ---
-
 
 # GenStudio for Performance Marketers [!DNL Brands]
 
@@ -45,9 +45,9 @@ I följande tabell visas varje kategori av varumärkesstöd och riktlinjer.
 
 Varje kanal har vissa inbyggda riktlinjer som påverkar sammansättningen av kanalresurser.
 
-I följande tabell visas varje kanalfragment, kanaler som det är tillgängligt för, beskrivning av fragmentet, riktlinjer och exempelresultat.
+I följande tabell visas varje kanalavsnitt, de kanaler som den är tillgänglig för, beskrivning av avsnittet, riktlinjer och exempelresultat.
 
-| Fragment | Kanaler | Beskrivning | God praxis |
+| Avsnitt | Kanaler | Beskrivning | God praxis |
 | ------------------| --------- | --------- | -------- |
 | Allmänt | e-post, sociala annonser | En andra ämnesrad eller e-postförhandsvisningstext | Definiera övergripande ton/känslor för att vara enhetliga i hela e-postmeddelandet (2-5 riktlinjer).<br>_Exempel_: &quot;Bibehåll en användarvänlig och lättåtkomlig ton&quot;, &quot;Undvik överformellt språk&quot;<br><br> |
 | Ämne | e-post | En intressant och intressant titel som sammanfattar innehållet i ett e-postmeddelande | Ge särskild vägledning (2-5 riktlinjer) om ton, längd osv. Lägg till tidigare framgångsrika ämnesrader i avsnittet _Exempel_ för bättre kvalitet.<br>_Exempel_: &quot;Justera motivet med e-postbrödtext&quot; |

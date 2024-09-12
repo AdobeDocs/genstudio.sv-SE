@@ -6,13 +6,13 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 4745e7cab9cd605c3bc7e93cb610e510566c9302
+exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
+source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en Meta-annonsupplevelse
 
@@ -77,14 +77,16 @@ Innan du väljer vad som ska skickas för godkännande eller publicering till [!
 
 **Så här granskar du genererade varianter**:
 
-* **Om du vill redigera namnet på metadatautkastet eller utkastet** klickar du i titeln _Namnlöst utkast_ högst upp på arbetsytan och anger en ny titel.
-* **Om du vill redigera en Meta-annons manuellt** dubbelklickar du på något av annonsfragmenten (till exempel ämnesraden, huvudet eller brödtexten) och redigerar efter behov.
+* **Om du vill [redigera namnet på metadatautkastet](/help/user-guide/create/manage-variants.md#change-draft-name)** klickar du i titeln _Namnlöst utkast_ längst upp på arbetsytan och anger en ny titel.
+* **Om du vill [redigera en Meta-annons manuellt](/help/user-guide/create/manage-variants.md#manually-edit-text)** dubbelklickar du i något av annonsavsnitten (t.ex. ämnesraden, huvudet eller brödtexten) och redigerar efter behov.
 
   Subject line and preheader only require a single click to edit, while the header and body copy require a double click.
 
-* **Om du vill ändra eller markera anropet till åtgärd** klickar du på knappen för att ringa till åtgärd och väljer från en tillgänglig knapp.
-* **Om du vill ändra storlek och proportioner** klickar du på knappen _[!UICONTROL Resize]_(ruta med en knappikon till vänster på arbetsytan) och väljer en ny storlek och proportioner som ska användas på alla varianter. Varianterna dupliceras och storleksändras.
-* **Om du vill ta bort en Meta-annons** klickar du på annonsrubriken (till exempel &quot;Meta 4&quot;) och klickar på **[!UICONTROL Delete variant]**.
+* **Om du vill ändra eller markera anropet till åtgärd** klickar du på knappen Anrop till åtgärd och väljer bland de tillgängliga textalternativen för knappar. I _[!UICONTROL Link]_anger du en länk för texten som ska anropas.
+* **Om du vill [ändra storlek och proportioner för annonsen](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** klickar du på knappen _[!UICONTROL Resize]_(ruta med en knappikon till vänster om arbetsytan) och väljer en ny storlek och proportioner som ska användas för alla varianter. Varianterna dupliceras och storleksändras.
+* **Om du vill [återskapa ett avsnitt av en variant](/help/user-guide/create/manage-variants.md#re-generate-sections)** klickar du på ett redigerbart textfält och använder _[!UICONTROL Suggested edits]_-alternativen eller anger en ny fråga och klickar på&#x200B;**[!UICONTROL Generate]**.
+* **Om du vill [beskära eller flytta bilder](/help/user-guide/create/manage-variants.md#crop-assets)** för du pekaren över en bild klickar du på **[!UICONTROL Apply Crop]** och justerar bildens storlek och placering.
+* **Om du vill [ta bort en Meta-annons](/help/user-guide/create/manage-variants.md#delete-variant)** klickar du på annonsrubriken (till exempel &quot;Meta 4&quot;) och klickar på **[!UICONTROL Delete variant]**.
 
 ## Verifiera varumärkesjustering
 
@@ -93,7 +95,7 @@ Om du vill optimera de annonser som skapas och säkerställa strikt överensstä
 **Så här verifierar du varumärkesjustering**:
 
 1. Klicka på ikonen [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) för en variant och se en sammanfattning av hur varianten fungerar när den kontrolleras mot ditt varumärke.
-1. Klicka **[!UICONTROL Review]** _eller_ på ikonen för validering av varumärke i den övre menyraden för att visa information om de fragment och riktlinjer som behöver förbättras, så att [_panelen för validering av varumärke_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) visas.
+1. Klicka **[!UICONTROL Review]** _eller_ på valideringsikonen för varumärket i den övre menyraden för att öppna [_Varumärkesvalideringspanelen_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) om du vill ha information om de avsnitt och riktlinjer som behöver förbättras.
 
 1. Växla mellan annonserna för att se hur ni kan förbättra det genererade innehållet för att bli mer varumärkesanpassade.
 1. [Granska annonser manuellt](#revise-generated-meta-ads) för att säkerställa att era annonser är i linje med ert varumärke.

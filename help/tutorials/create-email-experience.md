@@ -6,13 +6,13 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 5026afb4eb71df73063559aee34971039511b31a
+exl-id: 34446202-da98-45ff-869a-b43496a477f8
+source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
 workflow-type: tm+mt
 source-wordcount: '795'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en e-postupplevelse
 
@@ -69,16 +69,14 @@ Som standard genereras och visas fyra varianter på arbetsytan, som alla föds a
 
 ## Granska genererade e-postmeddelanden
 
-Innan du väljer vad som ska skickas för godkännande eller publicering till [!DNL Content] kan du redigera e-postfragment eller ta bort en variant från uppsättningen genererade e-postmeddelanden.
+Innan du väljer vad som ska skickas för godkännande eller publicering till [!DNL Content] kan du redigera e-postavsnitt eller ta bort en variant från uppsättningen genererade e-postmeddelanden.
 
 **Så här granskar du genererade varianter**:
 
-* **Om du vill redigera e-postutkastnamnet** klickar du på rubriken _Namnlöst utkast_ högst upp på arbetsytan och anger en ny rubrik.
-* **Om du vill redigera ett e-postmeddelande** manuellt dubbelklickar du på något av e-postfragmenten (till exempel ämnesraden, huvudet eller brödtexten) och redigerar efter behov.
-
-  Subject line and preheader only require a single click to edit, while the header, body copy, and call to action require a double click.
-
-* **Om du vill ta bort ett e-postmeddelande** klickar du för att markera e-posttiteln (till exempel&quot;E-post 1/4&quot;) och klickar på **[!UICONTROL Delete variant]**.
+* **Om du vill [redigera namnet på e-postutkastet](/help/user-guide/create/manage-variants.md#change-draft-name)** klickar du på rubriken _Namnlöst utkast_ längst upp på arbetsytan och anger en ny titel.
+* **Om du vill [redigera ett e-postmeddelande manuellt](/help/user-guide/create/manage-variants.md#manually-edit-text)** dubbelklickar du i något av de redigerbara textfälten (t.ex. ämnesraden, huvudet eller kopian) och redigerar efter behov.
+* **Om du vill [återskapa ett avsnitt av en variant](/help/user-guide/create/manage-variants.md#re-generate-sections)** klickar du på ett redigerbart textfält och använder _[!UICONTROL Suggested edits]_-alternativen eller anger en ny fråga och klickar på&#x200B;**[!UICONTROL Generate]**.
+* **Om du vill [ta bort ett e-postmeddelande](/help/user-guide/create/manage-variants.md#delete-variant)** klickar du för att markera e-posttiteln (till exempel&quot;E-post 1/4&quot;) och klickar på **[!UICONTROL Delete variant]**.
 
 ## Verifiera varumärkesjustering
 
@@ -87,7 +85,7 @@ Om du vill optimera de genererade e-postmeddelandena och säkerställa strikt ef
 **Så här verifierar du varumärkesjustering**:
 
 1. Klicka på ikonen [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) för en variant och se en sammanfattning av hur varianten fungerar när den kontrolleras mot ditt varumärke.
-1. Klicka **[!UICONTROL Review]** _eller_ på ikonen för validering av varumärke i den övre menyraden för att visa information om de fragment och riktlinjer som behöver förbättras, så att [_panelen för validering av varumärke_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) visas.
+1. Klicka **[!UICONTROL Review]** _eller_ på valideringsikonen för varumärket i den övre menyraden för att öppna [_Varumärkesvalideringspanelen_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) om du vill ha information om de avsnitt och riktlinjer som behöver förbättras.
 
 1. Växla mellan e-postmeddelanden för att se hur ni kan förbättra det genererade innehållet så att det blir mer varumärkesanpassat.
 1. [Granska e-postmeddelanden manuellt](#revise-generated-emails) för att säkerställa att dina e-postmeddelanden är i linje med ditt varumärke.
