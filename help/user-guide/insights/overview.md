@@ -3,9 +3,9 @@ title: Översikt över  [!DNL Insights]
 description: Lär dig hur du optimerar upplevelser baserat på innehållsprestandamätningar i realtid.
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
+source-git-commit: 0713b18ed1ca5a0b695fdcef4bd488cf87bf2040
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Vyn [!DNL Insights] _[!UICONTROL Channels]_är standardvy och visar en lista med
 
 ### Erfarenheter
 
-Vyn [!DNL Insights] _[!UICONTROL Experiences]_fokuserar på att utvärdera en upplevelses effektivitet. I vyn [!UICONTROL Experiences] kan du analysera en upplevelses mått baserat på dess annonsplacering inom ett angivet datumintervall. Genom att klicka på en_[!UICONTROL Ad name]_ kan du komma åt en lista över resurser som används i den valda upplevelsen, så att du kan identifiera vilka komponenter som har bidragit till den övergripande framgången.
+Vyn [!DNL Insights] _[!UICONTROL Experiences]_fokuserar på att utvärdera en upplevelses effektivitet. I vyn [!UICONTROL Experiences] kan du analysera en upplevelses mått baserat på dess annonsplacering inom ett angivet datumintervall. Genom att klicka på en_[!UICONTROL Ad name]_ kan du visa annonsens prestandamått, prestanda per annonsplacering och attribut.
 
 ### Assets
 
