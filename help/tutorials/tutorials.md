@@ -1,13 +1,13 @@
 ---
 title: Adobe GenStudio for Performance Marketers Tutorials
 description: Lär dig hur du slutför en komplett process, som att skapa en e-postupplevelse, genom att följa självstudiekurserna för GenStudio for Performance Marketers.
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: f4afb6c8-67d0-4499-84e8-0ab819543b59
+source-git-commit: 1833ff2ee3f6fb6244d77c243fab6a09daa2dad3
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
-
 
 # Självstudiekurser för Adobe GenStudio för Performance Marketers
 
@@ -24,7 +24,7 @@ Självstudiekurserna i den här guiden beskriver koncept, förutsättningar, bä
       </a>
    </div>
    <p>
-      <em>Lär dig hur du skapar en e-postupplevelse under varumärket.</em>
+      <em>Lär dig hur du skapar en e-postupplevelse på ett varumärke.</em>
    </p>
 </td>
 <td valign="top">
@@ -37,16 +37,16 @@ Självstudiekurserna i den här guiden beskriver koncept, förutsättningar, bä
    <p>
       <em>Lär dig hur du skapar en varumärkesanpassad annonsupplevelse i Meta.</em>
    </p>
-</td><!-- 
+</td>
 <td valign="top">
    <div>
-      <a href="create-email-experience.md">
-      <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
-      <strong>Create an email experience</strong>
+      <a href="create-display-ad.md">
+      <img alt="Idéer, böcker, penna, dator" src="../assets/card-create-assets.png">
+      <strong>Skapa en annonsvisning</strong>
       </a>
    </div>
    <p>
-      <em>Learn how to create an on-brand Email experience.</em>
+      <em>Lär dig skapa en varumärkesinformerad webbannonsupplevelse.</em>
    </p>
-</td> -->
+</td>
 </table>

@@ -1,15 +1,15 @@
 ---
 title: Skapa en Meta-annonsupplevelse
-description: Lär dig skapa en ny varumärkesanpassad annonsupplevelse i Meta - för Facebook eller Instagram - med generativ AI.
-feature: Content, Brands Service, Guidelines, Content Generation
+description: Lär dig hur du skapar en ny varumärkesanpassad annonsupplevelse i Meta - för Facebook eller Instagram - med Adobe GenStudio för Performance Marketers.
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '980'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ Om du lägger till [riktlinjer](/help/user-guide/guidelines/overview.md) och res
    * Klicka på **[!UICONTROL Select from content]** för att välja resurser (bilder) som redan har publicerats till [!DNL Content]. Använd filtren för att begränsa sökresultaten ytterligare.
    * Klicka på **[!UICONTROL Upload]** för att bläddra bland dina filer och välja resurser som ska användas. Du kan även importera från Microsoft OneDrive eller Dropbox.
    * Dra och släpp resurser i avsnittet _Innehåll_.
+1. Klicka på **[!UICONTROL Use]**.
 
 När du är klar med att lägga till parametrar kan du komprimera frågeområdet genom att klicka på ikonen _Parametrar_ igen.
 
@@ -67,7 +68,7 @@ Som standard genereras och visas fyra varianter på arbetsytan, som alla föds a
 
 När du skapar en Meta-annons kan du välja mellan Facebook- eller Instagram-annonser.
 
-Växla kanalalternativet Meta ads i det övre menyfältet till **Facebook** eller **Instagram** för att hantera varje kanals genererade utkast.
+Växla kanalalternativet Meta-annonser - mellan **Facebook** och **Instagram** - på den högra menyraden (Facebook- och Instagram-ikoner) för att visa och hantera varianter för varje kanal.
 
 När du [ändrar metadataannonserna](#revise-generated-meta-ads) kan du ändra proportionerna för Facebook- och Instagram-annonser.
 
@@ -77,6 +78,7 @@ Innan du väljer vad som ska skickas för godkännande eller publicering till [!
 
 **Så här granskar du genererade varianter**:
 
+
 * **Om du vill [redigera namnet på metadatautkastet](/help/user-guide/create/manage-variants.md#change-draft-name)** klickar du i titeln _Namnlöst utkast_ längst upp på arbetsytan och anger en ny titel.
 * **Om du vill [redigera en Meta-annons manuellt](/help/user-guide/create/manage-variants.md#manually-edit-text)** dubbelklickar du i något av annonsavsnitten (t.ex. ämnesraden, huvudet eller brödtexten) och redigerar efter behov.
 
@@ -85,7 +87,7 @@ Innan du väljer vad som ska skickas för godkännande eller publicering till [!
 * **Om du vill ändra eller markera anropet till åtgärd** klickar du på knappen Anrop till åtgärd och väljer bland de tillgängliga textalternativen för knappar. I _[!UICONTROL Link]_anger du en länk för texten som ska anropas.
 * **Om du vill [ändra storlek och proportioner för annonsen](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** klickar du på knappen _[!UICONTROL Resize]_(ruta med en knappikon till vänster om arbetsytan) och väljer en ny storlek och proportioner som ska användas för alla varianter. Varianterna dupliceras och storleksändras.
 * **Om du vill [återskapa ett avsnitt av en variant](/help/user-guide/create/manage-variants.md#re-generate-sections)** klickar du på ett redigerbart textfält och använder _[!UICONTROL Suggested edits]_-alternativen eller anger en ny fråga och klickar på&#x200B;**[!UICONTROL Generate]**.
-* **Om du vill [beskära eller flytta bilder](/help/user-guide/create/manage-variants.md#crop-assets)** för du pekaren över en bild klickar du på **[!UICONTROL Apply Crop]** och justerar bildens storlek och placering.
+<!-- * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
 * **Om du vill [ta bort en Meta-annons](/help/user-guide/create/manage-variants.md#delete-variant)** klickar du på annonsrubriken (till exempel &quot;Meta 4&quot;) och klickar på **[!UICONTROL Delete variant]**.
 
 ## Verifiera varumärkesjustering

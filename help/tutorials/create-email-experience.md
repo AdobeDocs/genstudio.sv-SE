@@ -1,15 +1,15 @@
 ---
 title: Skapa en e-postupplevelse
-description: Lär dig hur du skapar e-postupplevelser i Adobe [!DNL GenStudio].
-feature: Content, Brands Service, Guidelines, Content Generation
+description: Lär dig hur du skapar e-postupplevelser i Adobe [!DNL GenStudio] för Performance Marketers.
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 9624429977e21af614173c5078c6b470c8b5a147
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ Om du lägger till [riktlinjer](/help/user-guide/guidelines/overview.md) och res
    * Klicka på **[!UICONTROL Select from content]** för att välja resurser (bilder) som redan har publicerats till [!DNL Content]. Använd filtren för att begränsa sökresultaten ytterligare.
    * Klicka på **[!UICONTROL Upload]** för att bläddra bland dina filer och välja resurser som ska användas. Du kan även importera från Microsoft OneDrive eller Dropbox.
    * Dra och släpp resurser i avsnittet _Innehåll_.
+1. Klicka på **[!UICONTROL Use]**.
 
 >[!NOTE]
 >
@@ -77,6 +78,12 @@ Innan du väljer vad som ska skickas för godkännande eller publicering till [!
 * **Om du vill [redigera ett e-postmeddelande manuellt](/help/user-guide/create/manage-variants.md#manually-edit-text)** dubbelklickar du i något av de redigerbara textfälten (t.ex. ämnesraden, huvudet eller kopian) och redigerar efter behov.
 * **Om du vill [återskapa ett avsnitt av en variant](/help/user-guide/create/manage-variants.md#re-generate-sections)** klickar du på ett redigerbart textfält och använder _[!UICONTROL Suggested edits]_-alternativen eller anger en ny fråga och klickar på&#x200B;**[!UICONTROL Generate]**.
 * **Om du vill [ta bort ett e-postmeddelande](/help/user-guide/create/manage-variants.md#delete-variant)** klickar du för att markera e-posttiteln (till exempel&quot;E-post 1/4&quot;) och klickar på **[!UICONTROL Delete variant]**.
+
+## Förhandsgranska för enhet
+
+När du granskar och förbereder e-postupplevelser kan du växla mellan förhandsgranskningar för datorer och mobila vyer för att säkerställa att utkastvarianterna är enhetliga och ser bra ut.
+
+**Om du vill förhandsgranska varianter för datorer och mobila enheter** växlar du till alternativet för enhetsförhandsgranskning - mellan **skrivbordet** och **mobilen** - på den högra menyraden (dator- och telefonikoner) för att förhandsvisa hur varianter visas.
 
 ## Verifiera varumärkesjustering
 

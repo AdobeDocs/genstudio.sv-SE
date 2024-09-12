@@ -3,9 +3,9 @@ title: Översikt över GenStudio för Performance Marketers  [!DNL Create]
 description: Generera snabbt högpresterande varumärkesanpassat innehåll med generativ AI i Adobe GenStudio för Performance Marketers  [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '553'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,7 @@ Med [!DNL Create] kan du generera innehåll för följande kanaler:
 
 * E-post
 * Meta ads
-<!-- * Social media images and ads
-* Display ads -->
+* Visa annonser
 
 Tillsammans med kraften i [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] och [!DNL Personas]—[Content](/help/user-guide/content/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md) och [Insights](/help/user-guide/insights/overview.md) underlättar [!DNL Create] skapandet av slagkraftigt marknadsföringsmaterial.
 
@@ -108,12 +107,13 @@ När du är klar med att generera innehållsvariationer skickar du dina utkast f
 
 GenStudio for Performance Marketers ger [omfattande kontroll över avsnitt av enskilda varianter](/help/user-guide/create/manage-variants.md).
 
-Du kan granska avsnitt i en enskild variant, generera om innehållet i enskilda avsnitt och använda föreslagna redigeringar för att förbättra meddelandet, beskära och ändra storlek på resurser med mera, allt på arbetsytan.
+Du kan granska avsnitt i en enskild variant, generera om innehållet i enskilda avsnitt och använda föreslagna redigeringar för att förbättra meddelandet, storleksförändra resurser och mycket mer, allt på arbetsytan.
 
 ## Självstudiekurser
 
 * [Skapa en e-postupplevelse](/help/tutorials/create-email-experience.md)
 * [Skapa en Meta-annonsupplevelse](/help/tutorials/create-meta-ad.md)
+* [Skapa en webbannonsupplevelse](/help/tutorials/create-display-ad.md)
 
 <!-- ### Anatomy of an email experience
 

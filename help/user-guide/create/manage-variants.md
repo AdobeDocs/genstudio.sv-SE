@@ -2,9 +2,9 @@
 title: Hantera varianter
 description: Anpassa och förbättra genererade varianter och resurser efter era behov inom digital marknadsföring.
 feature: Content, Assets, Experiences
-source-git-commit: a6cf07179e888599860bc699ec17a3e8e4167e7b
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -55,30 +55,35 @@ Du kan till exempel återskapa rubrikavsnittet för en Meta ad-variant för att 
 
    Varianten uppdateras med den reviderade texten.
 
-## Beskära resurser
+<!-- ## Crop assets
 
-Du kan beskära och flytta bildresurser manuellt i enskilda genererade varianter.
+You can manually crop and reposition image assets in individual generated variants.
 
-**Så här beskär och flyttar du bilder i varianter**:
+**To crop and reposition images in variants**:
 
-1. När du har genererat en uppsättning varianter håller du pekaren över en bild i en variant.
-1. Klicka på **[!UICONTROL Apply Crop]**.
-1. Zooma in och ut och dra bilden till önskad plats.
-1. Klicka på **[!UICONTROL Apply]**.
+1. After generating a set of variants, hover over an image within a variant.
+1. Click **[!UICONTROL Apply Crop]**.
+1. Zoom in and out and drag the image into the desired position.
+1. Click **[!UICONTROL Apply]**.
 
-   Den beskurna bilden sparas automatiskt och visas för varianten.
+   The cropped image is automatically saved and visible for the variant. -->
 
 ## Ändra proportioner
 
 Du kan snabbt ändra proportionerna för Meta-annonser för att få plats med önskad annonsstorlek.
 
-Tillgängliga proportioner är:
+Tillgängliga storlekar/proportioner är:
 
-* 1:1 fyrkant
-* 4:5 vertikalt
-* 9:16 vertikalt
+* 1:1 kvadrat (Meta)
+* 4:5 vertikalt (Meta)
+* 9:16 vertikalt (Meta)
+* 250 x 980 (skärmannons)
 
-**Så här ändrar du proportionen för genererade Meta-annonser**:
+>[!NOTE]
+>
+>Andra proportioner och storlekar kan vara tillgängliga baserat på tillgängliga mallar.
+
+**Så här ändrar du proportioner för genererade varianter**:
 
 1. När du har genererat en uppsättning varianter väljer du storleksikonen för proportioner (pilen pekar mot rutans hörn) till vänster på arbetsytan.
 
