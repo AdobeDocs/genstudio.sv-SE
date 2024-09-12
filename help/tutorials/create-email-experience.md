@@ -7,9 +7,9 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 9624429977e21af614173c5078c6b470c8b5a147
+source-git-commit: 3827d8222bd548caf83288656d5f2af8d2248dec
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '834'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,7 @@ Innan du väljer vad som ska skickas för godkännande eller publicering till [!
 
 * **Om du vill [redigera namnet på e-postutkastet](/help/user-guide/create/manage-variants.md#change-draft-name)** klickar du på rubriken _Namnlöst utkast_ längst upp på arbetsytan och anger en ny titel.
 * **Om du vill [redigera ett e-postmeddelande manuellt](/help/user-guide/create/manage-variants.md#manually-edit-text)** dubbelklickar du i något av de redigerbara textfälten (t.ex. ämnesraden, huvudet eller kopian) och redigerar efter behov.
-* **Om du vill [återskapa ett avsnitt av en variant](/help/user-guide/create/manage-variants.md#re-generate-sections)** klickar du på ett redigerbart textfält och använder _[!UICONTROL Suggested edits]_-alternativen eller anger en ny fråga och klickar på&#x200B;**[!UICONTROL Generate]**.
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
 * **Om du vill [ta bort ett e-postmeddelande](/help/user-guide/create/manage-variants.md#delete-variant)** klickar du för att markera e-posttiteln (till exempel&quot;E-post 1/4&quot;) och klickar på **[!UICONTROL Delete variant]**.
 
 ## Förhandsgranska för enhet
