@@ -2,7 +2,7 @@
 title: Översikt över upplevelser
 description: Se en översikt över kundengagemang, budget och utgifter för upplevelser och tillgångsprestanda i Adobe GenStudio för Performance Marketers.
 feature: Insights, Experiences
-source-git-commit: 70ce82b026b2ee1f088cda75caa22bbb1b9c5ef3
+source-git-commit: ed0ddb10ee65c2691f8ecbfe23533508e9174bf9
 workflow-type: tm+mt
 source-wordcount: '684'
 ht-degree: 0%
