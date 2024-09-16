@@ -2,9 +2,9 @@
 title: Adobe GenStudio för Performance Marketers Beta versionsinformation
 description: Läs om de senaste funktionerna och förbättringarna av Adobe GenStudion för Performance Marketers.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 5f729070a3a4c162ebac0fde9814c649c9984b4d
+source-git-commit: d1904bfe6e5775f71290c2fc7aa185ac2a4a4668
 workflow-type: tm+mt
-source-wordcount: '875'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -33,13 +33,13 @@ Följande kända fel är schemalagda för lösning i GenStudio for Performance M
 
 ### Ytterligare förbättringar och åtgärdade problem
 
-* Arbetsytan [!DNL Create] återger bilder i Meta Ads felaktigt. <!-- GS-4864 -->
+* Arbetsytan [!DNL Create] återger nu bilder i Meta Ads korrekt. <!-- GS-4864 -->
 
 * Även om det kan finnas skillnader mellan förhandsvisningar för Meta Ads Canvas och exporterade vyer fungerar exporterade upplevelser som förväntat. <!-- GS-4492 4401 -->
 
-* Överförda bilder innehåller inte alltid de förväntade smarta taggarna. <!-- GS-4856 -->
+* Överförda bilder innehåller nu de förväntade smarta taggarna. <!-- GS-4856 -->
 
-* CSV-filen för export av meta och csv innehåller nu bilder som förväntat. Tidigare innehöll ZIP-filen CSV-exportfilen och NULL-filer i stället för bilder.  <!-- GS-5107 -->
+* CSV-filen för export av meta Ads innehåller nu bilder som förväntat. Tidigare innehöll ZIP-filen CSV-exportfilen och NULL-filer i stället för bilder.  <!-- GS-5107 -->
 
 * Användare kan nu ange text i malldetaljsvyn **[!UICONTROL Uploaded by]** som förväntat. Tidigare hindrade ikonen för inläsning användarna från att skriva text. <!-- GS-4887 -->
 
