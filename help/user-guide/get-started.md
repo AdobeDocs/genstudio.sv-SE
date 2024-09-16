@@ -4,7 +4,7 @@ description: Lär dig hur du konfigurerar din GenStudio for Performance Marketer
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
 source-wordcount: '1106'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Tre typer av GenStudio för Performance Marketers-användarroller har stöd för
 
 ### GenStudio Editors
 
-**Redigerare** har de behörigheter som krävs för att skapa GenStudio för Performance Marketers [!DNL Brands]-, [!DNL Campaigns]- och [!DNL Content]-resurser. De kan också redigera och ta bort resurser som de har skapat. GenStudio for Performance Marketers har stöd för att snabbt skapa hundratals innehållsdelar. Dessa användare kan generera innehållsavsnitt eller hela upplevelser som orkestrerar separata delar av godkänt innehåll för att uppfylla kraven för specifika marknadsföringskampanjer.
+**Redigerare** har de behörigheter som krävs för att skapa GenStudio för Performance Marketers [!DNL Brands]-, [!DNL Campaigns]- och [!DNL Content]-resurser. De kan också redigera och ta bort resurser som de har skapat. GenStudio for Performance Marketers har stöd för att snabbt skapa hundratals innehållsdelar. Dessa användare kan generera innehållsfragment eller hela upplevelser som orkestrerar separata delar av godkänt innehåll för specifika marknadsföringskampanjer.
 
 Redigerare interagerar med GenStudio för Performance Marketers generativa AI-tekniker genom att _fråga_. I promptområdet på arbetsytan finns verktyg som du kan använda för att ställa frågor i samband med en viss kampanjs riktlinjer. Därför beror kvaliteten och framgången för det genererade innehållet delvis på kvaliteten på de varumärkesriktlinjer som organisationen har överfört och på hur specifik uppmaningen är.
 

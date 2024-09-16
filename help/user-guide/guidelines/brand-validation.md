@@ -3,9 +3,9 @@ title: Varumärkesvalidering i Adobe GenStudio för Performance Marketers
 description: Läs om hur det inbyggda varumärkesvalideringssystemet fungerar i GenStudio för Performance Marketers.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
@@ -32,22 +32,22 @@ Se [Förbättra varumärkesjusteringen](#improve-brand-alignment).
 
 ## Panelen för varumärkesvalidering
 
-_Panelen för varumärkesvalidering_ innehåller detaljerad varumärkesverifieringsinformation och visar upp möjligheter till förbättring för varje variantavsnitt.
+_Panelen för varumärkesvalidering_ innehåller detaljerad varumärkesverifieringsinformation och visar upp möjligheter till förbättring för varje variantfragment.
 
 På _varumärkesvalideringspanelen_ visas information om:
 
 * **E-post**:
-   * Subject line
-   * Förrubrik
-   * Sidhuvud
-   * Brödtext
-   * CTA (uppmaning)
+   * Ämnesradfragment
+   * Förrubriksfragment
+   * Rubrikfragment
+   * Kroppsfragment
+   * CTA (call to action) fragment
    * Riktlinjer för varumärkesröst
 * **Metaannons**:
-   * Headline
-   * Body copy
-   * CTA (uppmaning)
-   * Text direkt i bilden
+   * Rubrikfragment
+   * Body copy fragment
+   * CTA (call to action) fragment
+   * Textfragment i bild
 
 Se [Förbättra varumärkesjusteringen](#improve-brand-alignment).
 
@@ -66,7 +66,7 @@ På _varumärkesvalideringspanelen_ kan du filtrera de riktlinjer som visas. Kli
 
 ## Förbättra varumärkesanpassningen
 
-Använd kontrollen _Varumärkesriktlinjer_ och panelen _Varumärkesvalidering_ om du vill maximera effekten av genererat innehåll och behålla en konsekvent varumärkesidentitet. Du kan ändra specifika avsnitt manuellt för att anpassa dem efter [varumärkesriktlinjerna](brands.md).
+Använd kontrollen _Varumärkesriktlinjer_ och panelen _Varumärkesvalidering_ om du vill maximera effekten av genererat innehåll och behålla en konsekvent varumärkesidentitet. Du kan ändra specifika fragment manuellt för att anpassa dem efter [varumärkesriktlinjerna](brands.md).
 
 **Så här förbättrar du varumärkesjusteringen för genererade innehållsvarianter**:
 
@@ -74,24 +74,24 @@ Använd kontrollen _Varumärkesriktlinjer_ och panelen _Varumärkesvalidering_ o
 
    Se en sammanfattning av hur den specifika varianten fungerar - riktlinjer som godkänns vid varumärkesvalidering och riktlinjer som behöver granskas - när de kontrolleras mot ert varumärke.
 
-1. Klicka **[!UICONTROL Review]** _eller_ på ikonen för validering av varumärke i den övre menyraden för att visa information om de avsnitt och riktlinjer som behöver förbättras. På _panelen för validering av varumärke_ visas.
+1. Klicka **[!UICONTROL Review]** _eller_ på ikonen för validering av varumärke i den övre menyraden för att visa information om de fragment och riktlinjer som behöver förbättras, så att _panelen för validering av varumärke_ visas.
 
-   Se alla avsnitt och riktlinjer för varumärken som du behöver vara uppmärksam på. Det markerade avsnittet på panelen motsvarar det avsnitt som är markerat i den genererade varianten på arbetsytan.
+   Se alla fragment och varumärkesriktlinjer som behöver er uppmärksamhet. Det fragment som är markerat på panelen motsvarar det fragment som är markerat i den genererade varianten på arbetsytan.
 
    >[!NOTE]
    >
-   > Riktlinjen _Varumärkesröst_ som beskrivs på _Varumärkesvalideringspanelen_ gäller för hela varianten, inte för ett enskilt avsnitt. Hela innehållsvarianten markeras för föreslagna förbättringar.
+   > Riktlinjen _Varumärkesröst_ som beskrivs på _Varumärkesvalideringspanelen_ gäller för hela varianten, inte för ett enskilt fragment. Hela innehållsvarianten markeras för föreslagna förbättringar.
 
-1. Manuellt revidera olika avsnitt för att få en så stark anpassning som möjligt till ert varumärke.
+1. Manuellt revidera variantfragment för att få den starkaste justeringen till ert varumärke.
 
 1. När du har gjort nödvändiga ändringar klickar du på **[!UICONTROL Re-check]** för att validera dina ändringar och se till att de är bättre anpassade till din varumärkesidentitet.
 
-   Varumärkesvalideringsprocessen kommer att köras igen. Om avsnittet/stödlinjen godkänns i valideringen visas en grön bockmarkering för det avsnittet på _varumärkesvalideringspanelen_. Procentandelen i ikonen _Varumärkesstödlinje_ för den reviderade varianten visar också förloppet.
+   Varumärkesvalideringsprocessen kommer att köras igen. Om fragment/riktlinje godkänns i valideringen visas en grön bockmarkering för det fragmentet på _varumärkesvalideringspanelen_. Procentandelen i ikonen _Varumärkesstödlinje_ för den reviderade varianten visar också förloppet.
 
-1. Fortsätt att granska sektioner för att säkerställa att hela varianten godkänns i varumärkesvalideringen.
+1. Fortsätt att ändra fragment för att säkerställa att hela varianten godkänns i varumärkesvalideringen.
 
    Navigera mellan riktlinjer på _varumärkesvalideringspanelen_ med knapparna **[!UICONTROL Next]** och **[!UICONTROL Previous]** .
 
-1. Överst på _Varumärkesvalideringspanelen_ navigerar du genom varje variant med pilarna (använd till exempel pilen för att gå från `Email 1` till `Email 2`) och fortsätter att granska variantavsnitt för att bättre följa ditt varumärke.
+1. Överst på _varumärkesvalideringspanelen_ navigerar du genom varje variant med hjälp av pilarna (använd till exempel pilen för att gå från `Email 1` till `Email 2`) och fortsätter att ändra fragmenten så att de passar ert varumärke bättre.
 
    Mer information om aktuella riktlinjer finns i [Riktlinjer för varumärkesröst](/help/user-guide/guidelines/brands.md#brand-voice-guidelines).
