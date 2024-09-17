@@ -1,20 +1,24 @@
 ---
 title: Användarhandbok för Adobe GenStudio
 description: Gör det möjligt för marknadsförare och superladdade kreatörer att använda GenStudio för Performance Marketers, det program som sätter Adobe AI först, som ger tillgång till självbetjäning för varumärkesanpassat innehåll med företagsgarantier och styrning för högpresterande upplevelser.
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
+source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 # Användarhandbok för Adobe GenStudio för Performance Marketers
 
-Adobe GenStudio för Performance Marketers är en AI-driven plattform som ger företag möjlighet att på egen hand generera och hantera marknadsföringsmaterial som följer deras varumärkesstandarder, följer företagets policyer och stöder smidigt en slagkraftig marknadsföringsstrategi.
+Adobe GenStudio för Performance Marketers är en AI-driven plattform som gör det möjligt att generera och hantera marknadsföringsmaterial som följer varumärkesstandarderna och följer företagets policy.
 
-Med GenStudio for Performance Marketers kan marknadsförare och kreatörer effektivisera processen för att skapa marknadsföringsmaterial som är engagerande, kulturellt relevant och skräddarsytt för specifika målgrupper, samtidigt som man bibehåller hög kvalitet och varumärkeskonsistens.
+Genom att utnyttja Adobe AI-teknik kan GenStudio for Performance Marketers tillhandahålla en omfattande verktygslåda som förenklar komplexiteten i framtagning och hantering av innehåll så att kreatörerna kan fokusera på innovation.
 
-Genom att utnyttja AI-tekniken erbjuder GenStudio for Performance Marketers en omfattande uppsättning verktyg som förenklar komplexiteten i framtagning och hantering av innehåll så att kreatörerna kan fokusera på innovation.
+## Nyheter
+
+- [[!DNL Insights Channels]](insights/channels.md) - Ny översikt över kundengagemang, prestanda, budget och utgifter för marknadsföringskampanjer.
+- [[!DNL Insights Experiences]](insights/experiences.md) - Ny översikt över insikter om upplevelser och annonsprestanda.
 
 ## Utforska funktioner
 
@@ -82,7 +86,7 @@ Genom att utnyttja AI-tekniken erbjuder GenStudio for Performance Marketers en o
          </a>
       </div>
       <p>
-         <em>Analysera innehållseffektivitet för betalda mediekanaler.</em>
+         <em>Analysera innehållseffektiviteten för betalda mediekanaler.</em>
       </p>
    </td>
 </tr>
