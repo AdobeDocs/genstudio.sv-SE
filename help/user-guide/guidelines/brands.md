@@ -3,7 +3,7 @@ title: GenStudio for Performance Marketers [!DNL Brands]
 description: GenStudio for Performance Marketers [!DNL Brands]  är en omfattande samling varumärkesresurser - marknadsföringskopia, bilder, upplevelser med mera - som kan användas för att skapa varumärkesanpassat innehåll.
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: 1991e59c0badc0cdde92b863d6c8528e7ca31a38
 workflow-type: tm+mt
 source-wordcount: '792'
 ht-degree: 0%
@@ -20,7 +20,7 @@ GenStudio for Performance Marketers använder den stora mängden varumärkesinfo
 
 1. Klicka på **[!UICONTROL [!DNL Brands]]** i det vänstra navigeringsområdet.
 1. Klicka för att öppna ett definierat varumärke om du vill se en översiktsinformation för ett varumärke.
-1. Om du vill visa enskilda detaljer eller ändra ett varumärke klickar du på **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]** eller **[!UICONTROL Logos]** överst.
+1. Om du vill visa enskilda detaljer eller ändra ett varumärke klickar du på [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines), [**[!UICONTROL Channel guidelines]**](#channel-guidelines), **[!UICONTROL Image guidelines]** eller **[!UICONTROL Logos]** överst.
 
 Du kan överföra varumärkesstöddokument - upp till tre PDF eller DOC-filer - till GenStudio för Performance Marketers för att automatiskt skapa ett varumärke. Se [Lägga till riktlinjer](add-guidelines.md) om du vill veta mer om hur du lägger till ett varumärke i GenStudio för Performance Marketers, ändrar det, publicerar det med mera.
 
@@ -45,9 +45,9 @@ I följande tabell visas varje kategori av varumärkesstöd och riktlinjer.
 
 Varje kanal har vissa inbyggda riktlinjer som påverkar sammansättningen av kanalresurser.
 
-I följande tabell visas varje kanalfragment, kanaler som det är tillgängligt för, beskrivning av fragmentet, riktlinjer och exempelresultat.
+I följande tabell visas varje kanalavsnitt, de kanaler som den är tillgänglig för, beskrivning av avsnittet, riktlinjer och exempelresultat.
 
-| Fragment | Kanaler | Beskrivning | God praxis |
+| Avsnitt | Kanaler | Beskrivning | God praxis |
 | ------------------| --------- | --------- | -------- |
 | Allmänt | e-post, sociala annonser | En andra ämnesrad eller e-postförhandsvisningstext | Definiera övergripande ton/känslor för att vara enhetliga i hela e-postmeddelandet (2-5 riktlinjer).<br>_Exempel_: &quot;Bibehåll en användarvänlig och lättåtkomlig ton&quot;, &quot;Undvik överformellt språk&quot;<br><br> |
 | Ämne | e-post | En intressant och intressant titel som sammanfattar innehållet i ett e-postmeddelande | Ge särskild vägledning (2-5 riktlinjer) om ton, längd osv. Lägg till tidigare framgångsrika ämnesrader i avsnittet _Exempel_ för bättre kvalitet.<br>_Exempel_: &quot;Justera motivet med e-postbrödtext&quot; |

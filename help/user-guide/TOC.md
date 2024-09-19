@@ -4,10 +4,10 @@ breadcrumb-title: Användarhandbok
 user-guide-description: Lär dig att snabbt hitta och generera varumärkesbaserat material, skapa variationer och optimera upplevelser baserat på insikter om innehållsprestanda i realtid.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 476d36dd64607221be0b16f38f251db40e2cf907
+source-git-commit: 81cbd495027e50afae2a178d4465703f3df0c950
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 3%
+source-wordcount: '134'
+ht-degree: 2%
 
 ---
 
@@ -31,6 +31,7 @@ ht-degree: 3%
    + [Varumärkesvalidering](guidelines/brand-validation.md)
 + Skapa {#create}
    + [[!DNL Create] översikt](create/overview.md)
+   + [Hantera varianter](create/manage-variants.md)
 + Recensioner och godkännanden {#approve}
    + [Översikt över granskning och godkännande](approvals/overview.md)
    + [Begär granskning och godkännande av innehåll](approvals/request-review.md)
