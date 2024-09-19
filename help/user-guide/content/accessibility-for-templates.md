@@ -2,13 +2,13 @@
 title: Skapa tillgängliga mallar
 description: Skapa mallar i Adobe GenStudio för Performance Marketers som kan nå ut till fler av er målgrupp och ge en optimal upplevelse.
 feature: Templates, Content
-source-git-commit: c891f876fe5a7c75487fcba6552a213533f0b609
+exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
+source-git-commit: 088049a25635f5e9469c16c6ddfe9db86afdc143
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
-
 
 # Skapa tillgängliga mallar
 
@@ -27,6 +27,13 @@ Ange textalternativ för innehåll som inte är text, till exempel bilder.
 ```
 
 ![Idékollage, böcker, man som håller en enorm penna, dator](../../assets/card-create-assets.png){width="400"}
+
+## Kontrastförhållanden
+
+Ange en lämplig kontrast mellan text och bakgrund. Använd följande lägsta kontrastförhållanden:
+
+- Text och bilder av text: kontrastförhållande på minst 4,5:1
+- Stor text och bilder av storskalig text: kontrastförhållande på minst 3:1
 
 ## Länksyfte (endast länk)
 
