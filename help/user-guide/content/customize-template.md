@@ -3,13 +3,13 @@ title: Anpassa en mall
 description: Lär dig hur du kan personalisera och optimera mallen för Adobe GenStudio för Performance Marketers.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 909ac53580e672df1adf0c73e67a32f2c045dc35
+exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
+source-git-commit: 8ea0c17b60b18928540070448ad1ce0206208b00
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
 
 ---
-
 
 # Anpassa en mall
 
@@ -98,21 +98,21 @@ _Avsnitt_ informerar GenStudio för Performance Marketers om att fälten i det h
 
 Använd ett prefix som du väljer i fältnamnet för att ange att ett fält är en del av ett avsnitt eller en grupp. Du kan till exempel markera innehåll som visas i ett markerat område:
 
-- `spotlight_headline`
-- `spotlight_body`
+- `pod1_headline`
+- `pod1_body`
 
-Varje avsnitt kan bara använda en av varje fälttyp. I exemplet ovan kan avsnittet `spotlight` bara använda ett `spotlight_headline`-fält.
+Varje avsnitt kan bara använda en av varje fälttyp. I exemplet ovan kan avsnittet `pod1` bara använda ett `pod1_headline`-fält.
 
 En mall kan innehålla upp till tre avsnitt:
 
 - `headline`
 - `body`
-- `spotlight_headline`
-- `spotlight_body`
-- `news_headline`
-- `news_body`
+- `pod1_headline`
+- `pod1_body`
+- `pod2_headline`
+- `pod2_body`
 
-GenStudio för Performance Marketers förstår att `spotlight_headline` är närmare relaterat till `spotlight_body` än till `news_body`.
+GenStudio för Performance Marketers förstår att `pod1_headline` är närmare relaterat till `pod1_body` än till `pod2_body`.
 
 ## Förhandsgranska mall
 
@@ -224,14 +224,18 @@ Följande är samma HTML-mall i exemplet ovan, men med ytterligare två avsnitt.
                 width="600" height="600"
                 border="0"/></p>
         <p>{{ body }}</p>
+    <!-- Pod1 -->
         <div class="pod">
-            <h2>{{ pod1_headline }}</h2>
-            <p>This is Pod 1 content.</p>
+            <h2>{{ pod1_header }}</h2>
+            <p>{{ pod1_body }}</p>
         </div>
+        <!-- End of Pod1 -->
+    <!-- Pod2 -->
         <div class="pod">
-            <h2>{{ pod2_headline }}</h2>
-            <p>This is Pod 2 content.</p>
+            <h2>{{ pod2_header }}</h2>
+            <p>{{ pod2_body }}</p>
         </div>
+        <!-- End of Pod2 -->
     </div>
 </body>
 </html>
@@ -293,4 +297,3 @@ Följande är ett grundläggande exempel på en Meta-annonsmall. Huvudet innehå
 ```
 
 +++
-
