@@ -1,19 +1,19 @@
 ---
-title: Adobe GenStudio for Performance Marketers Tutorials
-description: Lär dig hur du slutför en komplett process, som att skapa en e-postupplevelse, genom att följa självstudiekurserna för GenStudio for Performance Marketers.
+title: Adobe GenStudio for Performance Marketing Tutorials
+description: Lär dig hur du slutför en komplett process, som att skapa en e-postupplevelse, genom att följa självstudiekurserna för GenStudio för Performance Marketing.
 exl-id: f4afb6c8-67d0-4499-84e8-0ab819543b59
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# Självstudiekurser för Adobe GenStudio för Performance Marketers
+# Adobe GenStudio för självstudiekurser för Performance Marketing
 
-Självstudiekurserna för Adobe GenStudio för Performance Marketers följer grundläggande stegvisa arbetsflöden som innehåller länkar till djupare koncept i användarhandboken.
+Adobe GenStudio för självstudiekurser för Performance Marketing följer grundläggande stegvisa arbetsflöden som innehåller länkar till djupare koncept i användarhandboken.
 
-Självstudiekurserna i den här guiden beskriver koncept, förutsättningar, bästa praxis och de enskilda steg som behövs för att lyckas generera högkvalitativt marknadsföringsmaterial i GenStudio för Performance Marketers.
+Självstudiekurserna i den här guiden beskriver koncept, förutsättningar, bästa praxis och de enskilda steg som behövs för att lyckas generera högkvalitativt marknadsföringsmaterial i GenStudio för Performance Marketing.
 
 <table style="table-layout:fixed">
 <td valign="top">

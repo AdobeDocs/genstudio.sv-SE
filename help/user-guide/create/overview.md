@@ -1,18 +1,18 @@
 ---
-title: Översikt över GenStudio för Performance Marketers  [!DNL Create]
-description: Generera snabbt högpresterande varumärkesanpassat innehåll med generativ AI i Adobe GenStudio för Performance Marketers  [!DNL Create].
+title: Översikt över GenStudio för Performance Marketing [!DNL Create]
+description: Generera snabbt högpresterande varumärkesanpassat innehåll med generativ AI i Adobe GenStudio för Performance Marketing [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: dab19da0063d6f4f4497112c4063bfc9c285e651
+source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
 
 ---
 
-# GenStudio for Performance Marketers [!DNL Create]
+# GenStudio för prestandamarknadsföring [!DNL Create]
 
-GenStudio for Performance Marketers [!DNL Create] utnyttjar Adobe GenAI för att ge marknadsförare och utspridda team möjlighet att skapa högpresterande varumärkesanpassade upplevelser.
+GenStudio för Performance Marketing [!DNL Create] utnyttjar Adobe GenAI för att ge marknadsförare och utspridda team möjlighet att skapa högpresterande varumärkesupplevelser.
 
 Med [!DNL Create] kan du generera innehåll för följande kanaler:
 
@@ -60,13 +60,13 @@ Tillsammans med kraften i [guidelines](/help/user-guide/guidelines/overview.md)�
 </tr>
 </table>
 
-Med GenStudio for Performance Marketers kan marknadsförare **skapa nytt marknadsföringsinnehåll**. I det här fallet använder du definierade [riktlinjer](/help/user-guide/guidelines/overview.md) och inspirationsbilder för att skapa varumärkesanpassat innehåll.
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketers and use the power of Adobe generative AI technology to revise and improve existing content. 
+Med GenStudio for Performance Marketing kan marknadsförare **skapa nytt marknadsföringsinnehåll**. I det här fallet använder du definierade [riktlinjer](/help/user-guide/guidelines/overview.md) och inspirationsbilder för att skapa varumärkesanpassat innehåll.
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketing and use the power of Adobe generative AI technology to revise and improve existing content. 
 * **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create]-funktioner
 
-[!DNL Create] integrerar olika komponenter i GenStudio för Performance Marketers för att hjälpa användare att generera innehåll.
+[!DNL Create] integrerar olika komponenter i GenStudio för Performance Marketing för att hjälpa användare att generera innehåll.
 
 ### Utkast
 
@@ -92,11 +92,11 @@ I promptområdet kan du lägga till _parametrar_ som [!DNL Brands], [!DNL Produc
 
 Överförda bilder i _Parametrar_ används i genererade varianter och informerar kopieringsinnehållet (text) som genereras för varianter.
 
-Dessa tillagda parametrar ger [riktlinjer](/help/user-guide/guidelines/overview.md) och resurser i genereringsprocessen, vilket säkerställer att innehållet är anpassat efter ett varumärkes heltäckande identitet. Vi rekommenderar att du lägger till riktlinjer för Performance Marketers i GenStudio och använder dem under innehållsgenereringsprocessen eftersom de gör det betydligt enklare att skapa lämpligt varumärkesinnehåll.
+Dessa tillagda parametrar ger [riktlinjer](/help/user-guide/guidelines/overview.md) och resurser i genereringsprocessen, vilket säkerställer att innehållet är anpassat efter ett varumärkes heltäckande identitet. Vi rekommenderar att du lägger till riktlinjer för prestandamarknadsföring i GenStudio och använder dem under innehållsgenereringsprocessen, eftersom de gör det betydligt enklare att skapa lämpligt varumärkesanpassat innehåll.
 
 ### Varumärkesvalidering
 
-GenStudio for Performance Marketers utför varumärkesvalidering på olika aspekter av ett varumärkes identitet (enligt definition i [riktlinjer](/help/user-guide/guidelines/overview.md)). Information om [Varumärkesvalidering](/help/user-guide/guidelines/brand-validation.md) är tillgänglig för allt genererat innehåll, vilket visar att det överensstämmer med varumärkesriktlinjerna och att text och bilder är konsekventa. Ni kan använda den här informationen för att revidera eller förbättra den genererade upplevelsen så att den bättre passar ert varumärke.
+GenStudio for Performance Marketing utför varumärkesvalidering på olika aspekter av ett varumärkes identitet (enligt definition i [riktlinjerna](/help/user-guide/guidelines/overview.md)). Information om [Varumärkesvalidering](/help/user-guide/guidelines/brand-validation.md) är tillgänglig för allt genererat innehåll, vilket visar att det överensstämmer med varumärkesriktlinjerna och att text och bilder är konsekventa. Ni kan använda den här informationen för att revidera eller förbättra den genererade upplevelsen så att den bättre passar ert varumärke.
 
 ### Recensioner och godkännanden
 
@@ -106,7 +106,7 @@ När du är klar med att generera innehållsvariationer skickar du dina utkast f
 
 ### Hantera varianter
 
-GenStudio for Performance Marketers ger [omfattande kontroll över avsnitt av enskilda varianter](/help/user-guide/create/manage-variants.md).
+GenStudio för Performance Marketing ger [omfattande kontroll över sektioner av enskilda varianter](/help/user-guide/create/manage-variants.md).
 
 Du kan granska avsnitt i en enskild variant, generera om innehållet i enskilda avsnitt och använda föreslagna redigeringar för att förbättra meddelandet, storleksförändra resurser och mycket mer, allt på arbetsytan.
 

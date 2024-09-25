@@ -1,24 +1,24 @@
 ---
 title: Skapa en e-postupplevelse
-description: Lär dig hur du skapar e-postupplevelser i Adobe [!DNL GenStudio] för Performance Marketers.
+description: Lär dig hur du skapar e-postupplevelser i Adobe GenStudio för Performance Marketing.
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: a00d4fcaabb97eae69294ddc9689179842d49512
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
 
 # Skapa en e-postupplevelse
 
-I den här självstudiekursen visas hur du skapar varumärkesanpassade e-postupplevelser med GenStudio för Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) (penselikonen i det vänstra navigeringsområdet).
+I den här självstudien visas hur du skapar varumärkesanpassade e-postupplevelser med GenStudio för Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (penselikonen i det vänstra navigeringsområdet).
 
-Om du vill skapa en effektiv e-postupplevelse rekommenderar vi att du [lägger till riktlinjer i GenStudio för Performance Marketers](/help/user-guide/guidelines/add-guidelines.md) och penseldrar dig fram på [grunderna i att skapa en prompt](/help/user-guide/effective-prompts.md) innan du börjar.
+Om du vill skapa en effektiv e-postupplevelse rekommenderar vi att du [lägger till riktlinjer i GenStudio för Performance Marketing](/help/user-guide/guidelines/add-guidelines.md) och penselredigerar [grunderna för att skapa en fråga](/help/user-guide/effective-prompts.md) innan du börjar.
 
 ## Välj en mall
 
@@ -41,7 +41,7 @@ Om du lägger till [riktlinjer](/help/user-guide/guidelines/overview.md) och res
 1. Klicka på ikonen _Parametrar_ för att utöka promptområdet.
 1. I avsnittet _Parametrar_ väljer du riktlinjer -[!DNL Brands], [!DNL Personas] och [!DNL Products] - för att informera om hur du skapar innehåll.
 
-   Om det inte finns några varumärken, profiler eller produkter tillgängliga från de här menyerna [lägger du till riktlinjer i din GenStudio för Performance Marketers](/help/user-guide/guidelines/add-guidelines.md).
+   Om det inte finns några varumärken, profiler eller produkter tillgängliga från dessa menyer [lägger du till riktlinjer i din GenStudio för Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Klicka på **[!UICONTROL Select content]** för att lägga till innehåll som ska användas i upplevelsen *och* för att påverka innehållsgenereringen.
    * Klicka på **[!UICONTROL Select from content]** för att välja resurser (bilder) som redan har publicerats till [!DNL Content]. Använd filtren för att begränsa sökresultaten ytterligare.

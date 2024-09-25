@@ -2,7 +2,7 @@
 title: Hantera varianter
 description: Anpassa och förbättra genererade varianter och resurser efter era behov inom digital marknadsföring.
 feature: Content, Assets, Experiences
-source-git-commit: bf22e0006f2abe96f8cffd3607d0a8ee7e138583
+source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
 workflow-type: tm+mt
 source-wordcount: '531'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Hantera varianter
 
-Med Adobe GenStudio för Performance Marketers [!DNL Create] kan du anpassa och förbättra genererade varianter - e-post, Meta-annonser med mera - för användning i digitala marknadsföringssatsningar.
+Med Adobe GenStudio för Performance Marketing [!DNL Create] kan du anpassa och förbättra genererade varianter - e-post, Meta-annonser med mera - för användning i digitala marknadsföringssatsningar.
 
 När du [skapar upplevelser](/help/tutorials/tutorials.md) kan du ändra innehåll och resurser för genererade varianter individuellt eller i en grupp. Möjligheten att hantera varianter på individuell mikronivå gör att ni kan hantera varje del av det genererade innehållet explicit.
 
@@ -40,7 +40,7 @@ Du kan redigera textfälten i genererade varianter. Förfina texten genom att ex
 
 <!-- ## Re-generate sections
 
-GenStudio for Performance Marketers has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
+GenStudio for Performance Marketing has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
 
 For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset using the _[!UICONTROL Suggested edits]_ options—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_—and entering a new prompt.
 
