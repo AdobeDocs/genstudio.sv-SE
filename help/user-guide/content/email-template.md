@@ -3,13 +3,13 @@ title: Förbered en e-postmall för Adobe GenStudio för Performance Marketers
 description: Lär dig hur du skapar en anpassad e-postmall för Adobe GenStudio för Performance Marketers.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
+exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
+source-git-commit: 58833ed0c8e28061ab2584b7949f2a0cbd3d10cc
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
-
 
 # Förbered e-postmall för Adobe GenStudio för Performance Marketers
 
@@ -30,6 +30,14 @@ Om inga riktlinjer läggs till i GenStudio för Performance Marketers används s
 När en mall har designats kodas den med HTML och infogad CSS. Koden ska vara ren och responsiv för olika enheter.
 
 Se [Mallexempel](/help/user-guide/content/customize-template.md#template-examples).
+
+### E-post med flera avsnitt
+
+Du kan använda [strukturerade uppmaningar](/help/user-guide/effective-prompts.md#structured-prompts) under innehållsgenereringen för att instruera GenStudio for Performance Marketing att generera varierande innehåll per avsnitt i ett e-postmeddelande.
+
+Om avsnitten i din e-postmall till exempel har prefixet `Pod`—`Pod1` och `Pod2` kan den strukturerade prompten för innehållsgenerering innehålla specifika direktiv för de e-postavsnitten. GenStudio for Performance Marketing matchar det avsnittsspecifika direktivet i din uppmaning till det relaterade e-postavsnittet och genererar innehåll som är anpassat till direktiven.
+
+Se [Strukturerade uppmaningar](/help/user-guide/effective-prompts.md#structured-prompts).
 
 ## Testa en e-postmall
 
