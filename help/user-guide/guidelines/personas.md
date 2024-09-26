@@ -3,9 +3,9 @@ title: GenStudio för Performance Marketing [!DNL Personas]
 description: GenStudio for Performance Marketing [!DNL Personas]  är en sann representation av era kundsegment och fångar upp deras intressen, smärtor, preferenser och beteendeegenskaper.
 feature: Personas Service, Guidelines
 exl-id: f8c86f0b-81fe-4b94-b3d1-438de411864a
-source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
+source-git-commit: 5a1da3b0b3311db01ec29099e802f2e9c6446467
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -38,5 +38,4 @@ I följande tabell visas varje kategori med [!DNL Personas] riktlinjer och assoc
 | ------------------| :---------- |-------------|
 | Personens namn | Representerar ett specifikt målgruppssegment för vilket det genererade marknadsföringsmaterialet är skräddarsytt | Lägg till ett tydligt och koncist personnamn.<br><br>_Exempel_: &quot;marknadschefer för detaljhandel&quot;, &quot;presumtiva vårdstuderande&quot;, &quot;nya sparkonton&quot; |
 | Beskrivning | Kort sammanfattning som definierar viktiga egenskaper, behov och beteenden | Använd kortfattat språk för att tydligt beskriva personlighet och unik målgruppssegmentering (1-2 meningar).<br><br>Fokusera på vad som driver det här målgruppssegmentet (behov, kärnegenskaper osv.)<br><br>Behåll kort och kort beskrivning och undvik djupa demografiska data eller extra information. |
-| Inställningar för meddelanden | Tydlig sammanfattning av de kommunikationsformat du föredrar som gensvar med en viss person | Definiera unika meddelandekrav och motiv för persona, med fokus på hur persona föredrar att ta emot och interagera med kommunikationen.<br><br>Ange specifika meddelandeinställningar i listan (varje listpost 1-2 meningar).<br><br>Begränsa listan till totalt 10 meningar eller färre och se till att den viktigaste informationen markeras.<br><br>_Exempel_:&quot;Meddelandeinställningar för teknikkunnig professionell:<li>Prioriterar kortfattad, jargongfri kommunikation.</li><li>ger positiva svar på datadrivna insikter och åtgärdbar rådgivning.</li><li>Använd bilder som infografik och diagram för att snabbt förstå komplex information.<li><li>Värdar transparens med en ärlig, enkel metod.</li>&quot; |
-| Ytterligare information | Hämta viktig information som är viktig för generering av personaliserat innehåll | Tillhandahåll ytterligare detaljer (1-3 meningar) som är viktiga för innehållspersonalisering och se till att information direkt bidrar till innehållets effektivitet.<br><br>Fokusera på tydlighet och korthet. |
+| Inställningar för meddelanden | Tydlig sammanfattning av de kommunikationsformat du föredrar som gensvar med en viss person | Definiera unika meddelandekrav och motiv för persona, med fokus på hur persona föredrar att ta emot och interagera med kommunikationen.<br><br>Ange specifika meddelandeinställningar i listan (varje listpost 1-2 meningar).<br><br>Begränsa listan till totalt 10 meningar eller färre och se till att den viktigaste informationen markeras.<br><br>_Exempel_:&quot;Meddelandeinställningar för teknikkunnig professionell:<li>Prioriterar kortfattad, jargongfri kommunikation.</li><li>ger positiva svar på datadrivna insikter och åtgärdbar rådgivning.</li><li>Använd bilder som infografik och diagram för att snabbt förstå komplex information.</li><li>Värdar transparens med en ärlig, enkel metod.</li>&quot; |
