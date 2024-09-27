@@ -2,9 +2,9 @@
 title: Versionsinformation för Adobe GenStudio for Performance Marketing Beta
 description: Läs om de senaste funktionerna och förbättringarna i Adobe GenStudio for Performance Marketing.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: c95a99d4fa8030a35b7fe3690235102e1827422f
+source-git-commit: ca83beb4d6f5bd0d79a2da69658b6e18c3252f2e
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,6 @@ Dessa kommentarer belyser viktiga Adobe GenStudio for Performance Marketing-korr
 * GenStudio kan nu extrahera persona och produktinformation från ett överfört PDF och fylla i relaterade fält. <!-- GS-3806 -->
 
 * Användare kan nu filtrera [!DNL Content] resurser och upplevelser efter namnet på den användare som överförde resursen. <!-- GS-1808 -->
-
-* Inloggningsflödet för metadata innehåller nu en **[!UICONTROL Refresh]**-knapp som gör att användare kan ta bort blockering av popup-fönster under inloggning.
-
-* Avsnittet [!DNL Additional details] togs bort från detaljsidan för [!DNL Persona]. <!-- GS-5133 5134 -->
 
 * Namnet på avsnittet [!DNL Additional details] ändrades till [!DNL Messaging preferences] på detaljsidan för [!DNL Products]. <!-- GS-5133 5134 -->
 
