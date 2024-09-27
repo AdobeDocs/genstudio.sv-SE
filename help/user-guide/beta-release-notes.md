@@ -1,176 +1,102 @@
 ---
-title: Adobe GenStudio för Performance Marketers Beta versionsinformation
-description: Läs om de senaste funktionerna och förbättringarna av Adobe GenStudion för Performance Marketers.
+title: Versionsinformation för Adobe GenStudio for Performance Marketing Beta
+description: Läs om de senaste funktionerna och förbättringarna i Adobe GenStudio for Performance Marketing.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 7085fa5a12a6ed36c9310f8f691969d9c1366d36
+source-git-commit: c95a99d4fa8030a35b7fe3690235102e1827422f
 workflow-type: tm+mt
-source-wordcount: '1341'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
 
-# Adobe GenStudio för Performance Marketers Beta versionsinformation
+# Versionsinformation för Adobe GenStudio for Performance Marketing Beta
 
-Dessa kommentarer belyser viktig Adobe GenStudio för korrigeringar och förbättringar av Performance Marketers för den vecka som slutar den 19 september.
+Dessa kommentarer belyser viktiga Adobe GenStudio for Performance Marketing-korrigeringar och förbättringar för den vecka som slutar den 27 september.
 
 ## Nya funktioner och förbättringar
 
-* **Integrering med Adobe Experience Manager Assets**. Skrivskyddad åtkomst till Adobe Experience Manager Assets finns nu. <!-- GS-2432 -->
+* GenStudio kan nu extrahera persona och produktinformation från ett överfört PDF och fylla i relaterade fält. <!-- GS-3806 -->
 
-* **Förbättringar av arbetsflödet Uppdatera mall**.  Användare som uppdaterar mallar väljer nu den kanal som de vill använda mallen för. <!-- GS-4029 -->
+* Användare kan nu filtrera [!DNL Content] resurser och upplevelser efter namnet på den användare som överförde resursen. <!-- GS-1808 -->
 
-* **Förbättrad prestanda vid sidinläsning**. Oanvända beroenden har tagits bort från sidinläsningsprocessen. <!-- GS-3630 -->
+* Inloggningsflödet för metadata innehåller nu en **[!UICONTROL Refresh]**-knapp som gör att användare kan ta bort blockering av popup-fönster under inloggning.
 
-* **Stöd för e-post i flera avsnitt**. Redigerare kan nu generera e-postmeddelanden som innehåller flera avsnitt och bilder. De kan också återskapa specifika fragment av ett genererat e-postmeddelande (till exempel en rubrik). <!-- GS-2436 -->
+* Avsnittet [!DNL Additional details] togs bort från detaljsidan för [!DNL Persona]. <!-- GS-5133 5134 -->
 
-* **Växla mellan skrivbordsvyn och mobilvyn när du skapar**. Användarna kan nu växla mellan datorvyn och mobilvyn för att förhandsgranska varianter av e-postupplevelsen. <!-- GS-4314 -->
+* Namnet på avsnittet [!DNL Additional details] ändrades till [!DNL Messaging preferences] på detaljsidan för [!DNL Products]. <!-- GS-5133 5134 -->
 
-* Innehåll genererar nu bilder med beskärningsdimensioner som är relativa till de ursprungliga objektdimensionerna. <!-- GS-3150 -->
-
-* Användarna kan nu välja genererade bildvarianter och använda funktionen Justera beskärning för att beskära dem under arbetsflödet. <!-- GS-5538 2342 -->
-
-* I detaljvyn för en godkänd upplevelse visas nu en miniatyrbild och statusen för alla resurser som refereras till i den upplevelsen. <!-- GS-3783 -->
+* En [!DNL Add persona]-knapp har lagts till på sidan _Lägg till din första profil_. <!-- GS-5132 -->
 
 ## Kända fel
 
-Följande kända fel är schemalagda för lösning i GenStudio for Performance Marketers GA-versionen.
+Följande kända fel är schemalagda för lösning i GenStudio for Performance Marketing GA-versionen.
 
-* Problem med återkommande fördröjning påverkar vissa [!DNL Create] arbetsyteåtgärder. <!-- GS-5203 -->
+* Mallar kan överföras men inte visas. **Tillfällig lösning**: Överför en resurs med fältet **[!UICONTROL Campaigns]** ifyllt. Ladda sedan upp mallen igen. <!-- GS-4815 5650-->
 
-* E-postgenereringen resulterar i ett ofullständigt e-postmeddelande. **Tillfällig lösning**: Uppdatera sidan och återskapa den. <!-- GS-5209 -->
+* Användare kan inte beskära Meta-annonser manuellt efter att de har ändrat storlek. <!-- GS-5871 -->
 
-* Mallar kan överföras men inte visas. **Tillfällig lösning**: Överför en resurs med fältet **[!UICONTROL Campaigns]** ifyllt. Ladda sedan upp mallen igen. <!-- GS-4815 -->
+* Användare kan skapa en ny [!DNL Campaign] från [!DNL Content]-arbetsflöden. <!-- GS-5650 -->
 
-* Användare måste logga in två gånger till ett Meta-annonskonto i en kanal när de också är inloggade på Facebook. **Tillfällig lösning**: Logga ut från Facebook innan du loggar in på ett kanalkonto för Meta-annonser. <!-- GS-4806 -->
-
-### Ytterligare förbättringar och åtgärdade problem
-
-* Dra och släpp fungerar nu som väntat i promptområdet. <!-- GS-3977 -->
-
-* Problem med att använda tabbtangenten för att navigera bland element i det vänstra navigeringsfältet har korrigerats. Tidigare krävdes flera klick för att navigera från ett element till nästa aktiva element.  <!-- GS-2639 -->
-
-* GenStudio sparar nu upplevelsenamn när användare redigerar namnet medan upplevelsen läses in. <!-- GS-5242 -->
-
-* Användarna kan nu redigera en upplevelsetitel. Tidigare var rubriktexten densamma som den ursprungliga texten när en användare försökte redigera den. <!-- GS-5246 -->
-* De valda bilderna återges nu på arbetsytan som förväntat när flera e-postmeddelanden skapas. <!-- GS-5263 -->
-
-* Alla strängar på detaljsidan för [!DNL Content] upplevelser är nu lokaliserade. <!-- GS-5016 -->
-
-* Användare kan nu ta bort en produkt vars detaljvy är öppen i [!DNL Products]. <!-- GS-5057 -->
-
-* Det meddelande som GenStudio visar när en sökning inte ger några matchande resultat har förbättrats. <!-- GS-4544 -->
-
-* `aria-label` attributvärden för sökfiltervärden översätts nu som förväntat. <!-- GS-5388 -->
-
-* Användare kan nu ta bort duplicerade resurser i frågerutan [!DNL Create] i arbetsytan.  <!-- GS-5233 -->
-
-* Filtret Konto fungerar nu som väntat med upplevelser, resurser och attribut. <!-- GS-4812 -->
-
-* Teckensnittsproblem i Meta-annonsmallar har lösts för att förbättra läsbarheten och tillgängligheten. <!-- GS-5354 -->
-
-* Ändringar i utkastsrubriker bevaras nu som förväntat. Tidigare återgick rubrikerna till standardnamnet efter redigering. <!-- GS-2951 -->
-
-#### Mallkorrigeringar
-
-* Storleksförändringsfunktionen fungerar nu som väntat med flera bilder i Meta-annonsmallar. Tidigare storleksändrades inte bilder i GenStudio för alla valda mallar. <!-- GS-4696 -->
-
-* Om du tar bort en mall uppdateras sidan [!DNL Content] som förväntat. <!-- GS-5397 -->
-
-* Användarna kan nu bara välja värden för [!DNL Personas], [!DNL Brands] eller [!DNL Products] i listrutan. I dialogrutan _Mallöverföring_ kan användare ange valfritt [!DNL Persona]-, [!DNL Brand]- eller [!DNL Product]-namn. <!-- GS-5072 5071-->
-
-* Knappen **[!UICONTROL Back]** är nu inaktiverad under mallöverföringen. <!-- GS-5358 -->
-
-* Alla strängar i vyn [!DNL Create] Välj mallinformation är nu lokaliserade. <!-- GS-5025 -->
-
-## Tidigare versioner av Beta
-
-Tidigare versioner av Beta innehöll följande programfixar och markeringar.
-
-### Högdagrar
-
-* Innehållsväljaren [!DNL Create] har omarbetats för att förbättra resursinläsningen. <!-- GS-2586 -->
-
-* GenStudio har nu stöd för alternativet att förhandsgranska medieresurser i [!DNL Insights]-tabell- och gallerivyer. Videominiatyrbilder innehåller en **uppspelningsknapp** med ett ljudavstängningsalternativ. <!-- GS-4398 -->
-
-* Instagram och Facebook kanalriktlinjer har kombinerats i Metas varumärkesriktlinjer.
-
-* [!DNL Create] arbetsytans navigeringselement har strömlinjeformats. På [!DNL Create]-landningssidan visas den vänstra navigeringspanelen, men användarna använder nu en **[!UICONTROL Back]**-knapp för att navigera till det här utrymmet från andra [!DNL Create] arbetsytor.
-
-* Navigeringselementen har förbättrats för att ge stöd åt användarfokus när man utför uppgifter i hela produkten, inklusive följande produktområden:
-
-   * Resurs, upplevelse, mallinformation i [!DNL Content]
-   * Upplevelse, resurs, attributdetaljer i [!DNL Insights]
-   * Märkesinformation i [!DNL Brands]
-   * Produkt- och personinformation i Produkter och Personas
-
-* Användare behöver inte längre klicka på knappen **[!UICONTROL Refresh]** för att se uppdateringar av upplevelser i [!DNL Content].
-
-* Sidan _Upplevelseinformation_ återger nu externa miniatyrbilder av resurser som HTML.
-
-* Fördröjningen för användargränssnitt efter att Assets och Experience har lagts till eller tagits bort har förbättrats.
-
-* Mallförhandsvisningar innehåller nu mer beskrivande standardtext. Se [Anpassa en mall](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/content/templates/customize-template#template-preview).
-
-* **Procentandel av valideringspoäng**: I varumärkesvalideringen visas nu varumärkesvalideringspoängen i procent i stället för ett godkänt/underkänt värde. (fast 8/16)
-
-* **Uppdaterat gränssnitt för varumärkesextrahering**: Extraheringen visar nu att extraheringsprocessen har slutförts i procent. (fast 8/16)
-
-* **Inkrementell varumärkesbelastning under extrahering**: Riktlinjer för varumärket läses nu in stegvis i användargränssnittet. (fast 8/16)
-
-* **Skapa e-post i flera avsnitt**: Användare kan nu skapa e-postmeddelanden som består av separata rubriker, bilder, brödtext och CTA-element. (fast 8/16)
-
-* **Metaannonser Ändra storlek**: Redigerare kan ändra storlek på metadata och proportioner. (fast 8/16)
-
-* **Begränsade [!DNL Insights] inloggningskonton**: Inloggningen [!DNL Insights] har nu bara stöd för ett konto per kund. (fast 8/16)
+* Användare måste logga in två gånger till ett Meta-annonskonto i en kanal när de också är inloggade på Facebook. Tillfällig lösning: Logga ut från Facebook innan du loggar in på ett kanalkonto för Meta-annonser. <!-- GS-3009 -->
 
 ### Ytterligare förbättringar och åtgärdade problem
 
-* Arbetsytan [!DNL Create] återger nu bilder i Meta-annonser korrekt. (fast 9/13) <!-- GS-4864 -->
+* Problem med återkommande latens för vissa [!DNL Create] arbetsyteåtgärder har lösts. <!-- GS-5203 -->
 
-* Även om det finns skillnader mellan förhandsvisningar av arbetsytan i Meta-annonser och exporterade vyer fungerar exporterade upplevelser som förväntat. (fast 9/13) <!-- GS-4492 4401 -->
+* Användare behöver inte längre logga in två gånger på ett Meta-annonskonto i en kanal när de också är inloggade på Facebook. <!-- GS-4806 -->
 
-* Överförda bilder innehåller nu de förväntade smarta taggarna. (fast 9/13) <!-- GS-4856 -->
+* E-postgenereringen resulterar nu längre i ett ofullständigt e-postmeddelande. <!-- GS-5209 -->
 
-* CSV-filen för export av metaannonser innehåller nu bilder som förväntat. Tidigare innehöll ZIP-filen CSV-exportfilen och NULL-filer i stället för bilder. (fast 9/13) <!-- GS-5107 -->
+* När du skapar en kampanj i mallarbetsflödet sparas nu ID:n som förväntat.  <!-- GS-4923 -->
 
-* Användare kan nu ange text i malldetaljsvyn **[!UICONTROL Uploaded by]** som förväntat. Tidigare hindrade ikonen för inläsning användarna från att skriva text. (fast 9/13) <!-- GS-4887 -->
+* Väljaren för flera databaser visar nu databaser i alfabetisk ordning. <!-- GS-5553 -->
 
-* Användare omdirigeras inte längre till detaljvyn för ett varumärke efter att varumärket har tagits bort. (fast 9/13) <!-- GS-2663 -->
+* Problem med CSV-exportfilformat för icke-engelska språk har åtgärdats. <!-- GS-5141 -->
 
-* Redigerare får inte längre följande fel när varianter skickas för granskning och godkännande: `You have no access to view comments on this Object`. (fast 9/13) <!-- GS-5140 -->
+* Användare kan nu klicka på knappen [!DNL Create] _Senaste arbete_ **[!UICONTROL View all drafts]** när utkast läses in. Om du tidigare klickade på den här knappen innan alla utkast hade lästs in, lästes bara ett fåtal utkast in och knappen **[!UICONTROL View all drafts]** blev inte tillgänglig. <!-- GS-3938 -->
 
-* Uppdaterade e-postmallen som används i arbetsflödet för granskning och godkännande. (fast 9/13) <!-- GS-5239 -->
+* På arbetsytan i [!DNL Create] visas nu knappen **[!UICONTROL View all drafts]** som förväntat när mer än fyra utkast visas på arbetsytan. <!-- GS-5588 -->
 
-* GenStudio visar nu ett felmeddelande när ett nätverksfel inträffar när mallväljaren läses in. (fast 9/13) <!-- GS-4682 -->
+* Sökfunktionen fungerar nu som förväntat på fliken _Attribut_. <!-- GS-5658 -->
 
-* Löste problem med att navigera från en resurs, en upplevelse eller ett mallkort till det valda objektet. (fast 9/13) <!-- GS-4390 -->
+* Skalanimeringen skalas nu korrekt när upplevelsen läses in. <!-- GS-5574 -->
 
-* Popup-fönstret _Lägg till Assets_ är nu lokaliserat när det öppnas från Skapa arbetsyta. (fast 9/13) <!-- GS-4867 -->
+* Miniatyrförhandsvisningar av e-postmeddelanden med flera delar återges nu som förväntat i [!DNL Content]. <!-- GS-5258 -->
 
-* Varumärkesvalidering aktiveras nu för återskapade varianter. Tidigare aktiverades inte valideringen om en redigerare genererade om varianter av ett befintligt utkast. (fast 9/13) <!-- GS-3971 -->
+* Ett Workfront-relaterat problem med knappen **[!UICONTROL Send for approval]** har korrigerats. <!-- GS-5847 -->
 
-* Popup-fönstret _Lägg till Assets_ är nu lokaliserat som förväntat. (fast 9/5) <!-- GS-3834 -->
+* Problem med inläsning av Shimmer i vyn [!DNL Create] Senaste arbete har korrigerats. <!-- GS-5589 -->
 
-* Problem med skalning av mallen Meta Adds Experience har lösts. (fast 9/5) <!-- GS-4174 -->
+* Om du anger en sökterm får du nu bara ett sökanrop som förväntat.  <!-- GS-2999 -->
 
-* Textfält i CSV-exportfilen för e-post med flera delar ordnas nu som förväntat. (fast 9/5) <!-- GS-4013 -->
+* Korrigerad bildåtergivning av Meta-annonsbilder efter export. <!-- GS-5749 -->
 
-* Sökfältet [!DNL Content] försvinner inte längre när en användare trycker på tangenten **Backsteg** upprepade gånger för att radera texten i sökfältet. (fast 9/5) <!-- GS-4543 -->
+* Symbolen `%` återges nu korrekt i DEU-, FRA- och ESP-språkversioner när användare zoomar in eller zoomar ut från e-postvarianter på C[!DNL Create] Canvas. <!-- GS-5007 -->
 
-* GenStudio for Performance Marketers läser nu in användare som förväntat när en medarbetare lägger till en `@`-händelse till en kommentar. Tidigare lästes inte användarna in och ett fel visades: `Unable to load users. Refresh the page`. (fast 29/8) <!-- GS-4113 -->
 
-* GenStudio visar inte längre meddelandet **Något gick fel** när en redigerare klickar på **Välj innehåll** när e-postmeddelandet skapades i promptområdet. <!-- GS-4879 -->
+#### Lokalisering
 
-* Sidfeedplaceringsnamnet _Experience Detail_ anger nu Facebook- eller Instagram-feed. (fast 8/16)
+Den här versionen innehåller förbättringar av lokaliseringen i hela produktgränssnittet, särskilt i hela [!DNL Create]. Följande gränssnittskomponenter har lokaliserats: <!-- GS-5295 -->
 
-* Det är nu konsekvent att beskära större bilder och videoklipp när användaren navigerar från vyn _Resursöversikt_ till vyn _Resursdetaljer_. (fast 8/16)
+* Alla strängar i området _Fråga_ (parametertitel, alternativnamn i listrutan och platshållartext) <!-- GS-5027 -->
 
-* Resultatantal för attributskärmssökning visas inte längre `0 of` innan en användare loggar in. (fast 8/16) <!-- GS-3665 -->
+* Alla strängar i fönstret _Ändra storlek_ för genererade Meta-annonser i [!DNL Create] <!-- GS-5035 -->
 
-* När du klickar på fältet **[!UICONTROL [!DNL Insights]]** > **[!UICONTROL Asset]** rensas inte längre inställningarna för sökning och filter. (fast 8/16) <!-- GS-3476 -->
+* Alla strängar i området _Senaste arbete_ i [!DNL Create] <!-- GS-5037 -->
 
-* Ett fel visas i GenStudio när en användare försöker ange inloggningsuppgifter i vyn [!DNL Insights]. (fast 29/8) <!-- GS-4689 -->
+* Alternativsträngarna Varumärke, Personas och Produkt i listrutan i området Fråga <!-- GS-5293 -->
 
-* Det går inte att överföra varumärkesriktlinjer på grund av problem med lagringsplattformen i AVS. (fast 8/22) <!-- GS-4369 -->
+* Strängen **Zooma för att passa skärmen** som visas under generering av e-post och metaannonser <!-- GS-5063 -->
 
-* I listrutan Fråga [!DNL Brands] visas en rotationsruta i slutet av listan [!DNL Brands] när e-postmeddelanden skapas. (fast 8/22) <!-- GS-4077 -->
+* Datum- och tidsformat, strängen **Namnlöst utkast** och felmeddelanden i e-post- och metaannonsnamn <!-- GS-5023 5022 5048-->
+
+* Flikgalleriet [!DNL Content] _Assets_ visar strängar och procentsymbol (%) <!-- GS-4983 4984-->
+
+* Procentsymbolen (%) som används i Insights > Experiences klickfrekvens <!-- GS-4279 -->
+
+* Ett felmeddelande visas när ett systemfel inträffar när e-post eller Meta ads skapas <!-- GS-5061 -->
+
+* Decimalavgränsare för frasen &quot;Antal ord per mening&quot; på informationssidan för Insights Experience <!-- GS-4986 -->
+
+* Strängar på menyn Exportera för en Meta-annons som skapats med en mall. <!-- GS-5031 -->
+
