@@ -2,9 +2,9 @@
 title: Versionsinformation för Adobe GenStudio for Performance Marketing Beta
 description: Läs om de senaste funktionerna och förbättringarna i Adobe GenStudio for Performance Marketing.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ca83beb4d6f5bd0d79a2da69658b6e18c3252f2e
+source-git-commit: f56f3733ead0bfcb4f37e10b66577e1ef597b76d
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,6 @@ Följande kända fel är schemalagda för lösning i GenStudio for Performance M
 * Mallar kan överföras men inte visas. **Tillfällig lösning**: Överför en resurs med fältet **[!UICONTROL Campaigns]** ifyllt. Ladda sedan upp mallen igen. <!-- GS-4815 5650-->
 
 * Användare kan inte beskära Meta-annonser manuellt efter att de har ändrat storlek. <!-- GS-5871 -->
-
-* Användare kan skapa en ny [!DNL Campaign] från [!DNL Content]-arbetsflöden. <!-- GS-5650 -->
 
 * Användare måste logga in två gånger till ett Meta-annonskonto i en kanal när de också är inloggade på Facebook. Tillfällig lösning: Logga ut från Facebook innan du loggar in på ett kanalkonto för Meta-annonser. <!-- GS-3009 -->
 
@@ -68,7 +66,6 @@ Följande kända fel är schemalagda för lösning i GenStudio for Performance M
 * Korrigerad bildåtergivning av Meta-annonsbilder efter export. <!-- GS-5749 -->
 
 * Symbolen `%` återges nu korrekt i DEU-, FRA- och ESP-språkversioner när användare zoomar in eller zoomar ut från e-postvarianter på C[!DNL Create] Canvas. <!-- GS-5007 -->
-
 
 #### Lokalisering
 
