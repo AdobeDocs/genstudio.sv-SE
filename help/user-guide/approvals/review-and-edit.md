@@ -2,47 +2,47 @@
 title: Granska och redigera innehåll
 description: Lär dig granska och redigera innehåll iterativt.
 feature: Approval
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: 9a3a15aa-355f-439e-9417-850704402f39
+source-git-commit: 447742667d1b4527a793aef12207bad51c4cb4d4
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
-
 
 # Granska och redigera innehåll
 
 Gransknings- och godkännandeprocesser som involverar flera granskare kan vara tidskrävande. Granskningscykeln, granskning av innehåll som svar på granskningskommentarer och granskning av ändrat innehåll igen kan upprepas många gånger.
 
-GenStudio for Performance Marketers generativa AI-funktioner snabbar upp dessa viktiga iterativa faser i processen för att skapa och granska innehåll. Den som skapar materialet kan besvara förfrågningar från granskarna genom att snabbt redigera utkast. Meddelanden i produkten meddelar omedelbart granskarna att utkastet har reviderats och kan granska ändringarna. Ju fler granskare och granskningscykler innehållsutvecklingen kräver, desto större är fördelarna med GenStudio för Performance Marketers.
+Adobe GenStudio for Performance Marketing generativa AI-funktioner snabbar upp dessa viktiga iterativa faser i processen för att skapa och granska innehåll. Den som skapar materialet kan besvara förfrågningar från granskarna genom att snabbt redigera utkast. Ju fler granskare och granskningsomgångar innehållsutvecklingen kräver, desto större är fördelarna med GenStudio for Performance Marketing.
 
 ## Interaktiv redigering av utkast
 
-Den som skapar dokumentet kan redigera det som svar på granskningskommentarerna. När du sparar utkastet till ändringar meddelas alla utsedda godkännare om ändringen. När ett utkast håller på att revideras kan godkännarna fortsätta lägga till granskningskommentarer, men inte ändra resursstatus. Du kan fortsätta redigera innehåll på arbetsytan medan godkännarna fortsätter sina granskningar. Meddelanden i produkten håller både godkännare och innehållsskapare omedelbart uppdaterade om alla utkast till ändringar.
+Innehållsredigerare kan göra pågående redigeringar av innehåll som svar på granskningskommentarer. När ett utkast håller på att revideras kan godkännarna fortsätta lägga till granskningskommentarer, men inte ändra resursstatus. Innehållsredigeraren kan fortsätta redigera innehåll på arbetsytan medan godkännarna fortsätter sina granskningar.
 
 ## Visa godkännandebegäranden
 
 Som utsedd godkännare kan du komma åt det innehåll som du ombeds granska och godkänna på flera sätt:
 
-* **Få åtkomst till utkastet för granskning direkt från utkastlänken i godkännandebegäran**. Klicka på länken Utkast i e-postmeddelandet om godkännandebegäran eller i produktmeddelandet. GenStudio for Performance Marketers öppnar en arbetsyta som visar resursen eller upplevelsen. Den vänstra panelen för _resursinformation_ innehåller en panel för _godkännande_.
+* **Få åtkomst till utkastet för granskning direkt från utkastlänken i godkännandebegäran**. Klicka på länken Utkast i e-postmeddelandet om godkännandebegäran eller i produktmeddelandet.  Arbetsytan som visar resursen eller upplevelsen öppnas. Panelen _Godkännande_ visas till höger.
 
-* **Öppna utkastet för granskning från listan över godkännandebegäranden**. Om du ombeds granska flera innehållsutkast innehåller ditt e-postmeddelande en **[!UICONTROL View all notifications]**-knapp. Klicka på den här knappen för att navigera till en sida som visar alla väntande granskningsbegäranden.
+* **Öppna utkastet för granskning från listan över godkännandebegäranden**. Om du ombeds granska flera innehållsutkast innehåller ditt e-postmeddelande en **[!UICONTROL View all notifications]**-knapp. Klicka på den här knappen för att navigera till en sida som visar alla meddelanden som du har fått, inklusive godkännandebegäranden och meddelanden som du har aktiverat från andra Adobe Experience Cloud-produkter.
 
 ## Få åtkomst till innehåll för granskning
 
-Du kan godkänna innehåll om du har fått ett e-postmeddelande om godkännandebegäran. Det här e-postmeddelandet innehåller en länk till utkastet som du har ombetts att granska. Den här URL:en är bara giltig när utkastet granskas.
+Du kan godkänna innehåll om du har fått ett e-postmeddelande med en begäran om granskning och godkännande av en resurs eller upplevelse. Det här e-postmeddelandet innehåller en länk till utkastet som du har ombetts att granska. Den här URL:en är bara giltig när utkastet granskas.
 
 **Så här granskar du innehåll**:
 
-1. Använd länken i ditt meddelande i produktionen eller i ditt e-postmeddelande för att navigera till innehållet för granskning. GenStudio for Performance Marketers visar innehållet Canvas.
+1. Använd länken i meddelandet eller e-postmeddelandet som visas i produktionen för att navigera till innehållet som ska granskas. Arbetsytan öppnas.
 
-1. Resursytan innehåller en **[!UICONTROL Review & Approve]**-knapp längst upp till höger. Klicka på den här knappen för att öppna panelen _Godkännanden_ för resursen.
+1. Arbetsytan innehåller en **[!UICONTROL Review & Approve]**-knapp längst upp till höger. Klicka på den här knappen för att öppna panelen _Godkännanden_ för resursen.
 
 ## Begär ändringar
 
-Du kan lista föreslagna ändringar eller ställa frågor om utkastet från innehållets _Godkännandepanel_. Utkaststatusen **Behöver arbete** meddelar innehållsskaparen att ändringar har begärts.
+Du kan lista föreslagna ändringar eller ställa frågor om utkastet från panelen _Godkännande_ på panelen Innehåll. Utkaststatusen **Behöver arbete** meddelar innehållsskaparen att ändringar har begärts.
 
-Granskningsprocessen, som föreslår ändringar av innehållsförfattaren och sedan ändrar innehållet och skickar tillbaka det för godkännande, är mycket iterativ. Det är i den här delen av cykeln som du ser de tidsbesparande funktionerna i GenStudio för Performance Marketers.
+Den här granskningsprocessen, som föreslår ändringar av innehållsförfattaren, som sedan ändrar innehållet och eventuellt begär ytterligare indata via `@mention` kommentarer, är mycket iterativ. Det är i den här delen av cykeln som du ser GenStudio for Performance Marketing tidsbesparande funktioner.
 
 **Om du vill begära ändringar**:
 
