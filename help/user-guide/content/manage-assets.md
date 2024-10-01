@@ -3,7 +3,7 @@ title: Hantera resurser och upplevelser
 description: Förenkla och förbättra hanteringen av varumärkesgodkända mediefiler för användning och återanvändning i er digitala marknadsföringsresa.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Hantera resurser och upplevelser
 
-Adobe GenStudio för Performance Marketers [!DNL Content] förenklar och förbättrar hanteringen av varumärkesgodkända mediefiler för användning och återanvändning i den digitala marknadsföringsresan.
+Adobe GenStudio for Performance Marketing [!DNL Content] förenklar och förbättrar hanteringen av varumärkesgodkända mediefiler för användning och återanvändning i den digitala marknadsföringsresan.
 
 ## Assets gallery
 
@@ -24,13 +24,13 @@ Följande visar en sökning på termen `dog` i galleriet [!UICONTROL Assets]:
 
 ### Assets
 
-Som standard lagras resurser som du lägger till i [!DNL Content] genom [!DNL Create]-processen eller genom överföring i `GenStudio assets`-databasen. Databasen `GenStudio assets` är en läs- och skrivdatabas i GenStudio för prestandamarknadsförare. Det innebär att du kan spara, redigera och ta bort resurser i databasen `GenStudio assets`.
+Som standard lagras resurser som du lägger till i [!DNL Content] genom [!DNL Create]-processen eller genom överföring i `GenStudio assets`-databasen. Databasen `GenStudio assets` är en läs- och skrivdatabas i GenStudio for Performance Marketing. Det innebär att du kan spara, redigera och ta bort resurser i databasen `GenStudio assets`.
 
 I listan **[!UICONTROL Location]** ovanför galleriet till höger kan du välja mellan anslutna Adobe Experience Manager-databaser (AEM) [!DNL Assets Content Hub]. När du väljer en AEM databas visar galleriet en inventering av resurser från den databasen, vilket gör att du kan använda godkända resurser från dessa databaser som indata när du skapar innehåll. Filteralternativen ändras så att de återspeglar de kategorier som konfigurerats i [!DNL AEM Assets Content Hub].
 
 Den AEM databasen är skrivskyddad, vilket innebär att du inte kan spara utkast, nya resurser eller metadata i den AEM databasen. Alla utkast och slutliga uppdateringar för resurser, upplevelser och mallar sparas i databasen `GenStudio assets` med nya [systemmetadata](asset-details.md#system-metadata).
 
-Mer information om hur du lägger till din [!DNL AEM Assets Content Hub]-databas till GenStudio för prestandamarknadsförare finns i [Anslut en AEM](connect-aem-repo.md).
+Mer information om hur du lägger till din [!DNL AEM Assets Content Hub]-databas i GenStudio for Performance Marketing finns i [Anslut en AEM](connect-aem-repo.md).
 
 ## Assets
 
@@ -52,7 +52,7 @@ När du lägger till resurser i [!DNL Content] lagras de som standard i database
 
 1. Om du vill förbättra identifieringsmöjligheterna lägger du till valfri information som _Varumärkesnamn_, _Personas_, _Region_ och _Nyckelord_ i avsnittet **Mer information** .
 
-   Ju mer information du ger, desto mer upplever du GenStudio robusta funktioner för Performance Marketers. Välj en eller flera detaljer i listan eller ange en ny där det är tillämpligt, t.ex. med nyckelord. Varje detalj som du lägger till visas under listan. Klicka på **`x`** om du vill ta bort en detalj.
+   Ju mer information du ger, desto mer upplever du GenStudio for Performance Marketing robusta funktioner. Välj en eller flera detaljer i listan eller ange en ny där det är tillämpligt, t.ex. med nyckelord. Varje detalj som du lägger till visas under listan. Klicka på **`x`** om du vill ta bort en detalj.
 
    All information som du lägger till gäller för alla resurser som läggs till i den här åtgärden.
 

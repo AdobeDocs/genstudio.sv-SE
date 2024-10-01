@@ -1,9 +1,9 @@
 ---
 title: Skapa tillgängliga mallar
-description: Skapa mallar i Adobe GenStudio för Performance Marketers som kan nå ut till fler av er målgrupp och ge en optimal upplevelse.
+description: Skapa mallar i Adobe GenStudio for Performance Marketing som kan nå ut till fler av er målgrupp och ge en optimal upplevelse.
 feature: Templates, Content
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
-source-git-commit: 088049a25635f5e9469c16c6ddfe9db86afdc143
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Adobe strävar efter att tillhandahålla en optimal upplevelse för alla målgrupper. Mer information finns i [Tillgänglighetsinitiativ på Adobe](https://www.adobe.com/trust/accessibility/initiatives.html).
 
-I GenStudio for Performance Marketers kan du överföra resurser och mallar som gör att du kan skapa innehåll för en mängd olika upplevelser. Genom att följa tillgänglighetsstandarder kan ert innehåll nå er avsedda målgrupp.
+I GenStudio for Performance Marketing kan du överföra resurser och mallar som gör det möjligt att skapa innehåll för en mängd olika upplevelser. Genom att följa tillgänglighetsstandarder kan ert innehåll nå er avsedda målgrupp.
 
 Använd följande rekommendationer för att förbereda mallarna med hjälp av optimala tillgänglighetsstandarder.
 

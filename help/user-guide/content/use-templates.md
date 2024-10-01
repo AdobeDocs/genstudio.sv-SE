@@ -1,18 +1,18 @@
 ---
 title: Arbeta med mallar
-description: Upptäck hur ni kan använda mallar effektivt för att effektivisera er kreativa process i Adobe GenStudio för Performance Marketers.
+description: Upptäck hur du använder mallar effektivt för att effektivisera din kreativa process i Adobe GenStudio for Performance Marketing.
 feature: Templates, Content
-source-git-commit: 192568a65bbd5c8c2e9cfc050462eb2c3465245d
+exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '659'
 ht-degree: 0%
 
 ---
 
-
 # Arbeta med mallar
 
-Med GenStudio for Performance Marketers kan innehållsskapare snabbt producera enhetligt marknadsföringsmaterial på varumärke med hjälp av _mallar_. En mall minskar tiden och arbetet som krävs för att generera nytt innehåll avsevärt genom att tillhandahålla en startpunkt som inkluderar förkonfigurerade layouter och designelement.
+GenStudio for Performance Marketing gör det möjligt för innehållsskapare att snabbt producera enhetligt marknadsföringsinnehåll med hjälp av _mallar_. En mall minskar tiden och arbetet som krävs för att generera nytt innehåll avsevärt genom att tillhandahålla en startpunkt som inkluderar förkonfigurerade layouter och designelement.
 
 ## Mallelement
 
@@ -71,17 +71,17 @@ Nedan följer en lista över element som används i mallar och en del detaljer o
 
 >[!TIP]
 >
->Se de [identifierade fältnamnen](customize-template.md#recognized-field-names) som GenStudio for Performance Marketers stöder för mallar av varje kanaltyp.
+>Se de [identifierade fältnamnen](customize-template.md#recognized-field-names) som GenStudio for Performance Marketing stöder för mallar av varje kanaltyp.
 
 ## Konfigurera kanalriktlinjer
 
-Det är en god vana att konfigurera [kanalriktlinjer](../guidelines/brands.md#channel-guidelines) för varje varumärke innan du använder mallar i GenStudio för Performance Marketers. Kanalriktlinjerna påverkar direkt vilken typ av innehåll som skapas när mallen används. Du kan t.ex. ange teckenbegränsningar för brödtexten i ett e-postmeddelande.
+Det är en god vana att konfigurera [kanalriktlinjer](../guidelines/brands.md#channel-guidelines) för varje varumärke innan du använder mallar i GenStudio for Performance Marketing. Kanalriktlinjerna påverkar direkt vilken typ av innehåll som skapas när mallen används. Du kan t.ex. ange teckenbegränsningar för brödtexten i ett e-postmeddelande.
 
 ![Specifikationer för brödtext](/help/assets/channel-email-body.png)
 
 ## Anpassa mall
 
-Du [anpassar mallen](customize-template.md) så att den kan användas i GenStudio för Performance Marketers genom att infoga platshållare för innehåll, eller fält, som används av den generativa AI-filen för att infoga innehåll. GenStudio for Performance Marketers känner igen vissa fält, till exempel fältet `body`, och följer kanalriktlinjerna som konfigurerats för det valda varumärket.
+Du [anpassar mallen](customize-template.md) för användning i GenStudio for Performance Marketing genom att infoga platshållare för innehåll, eller fält, som den generativa AI-filen använder för att infoga innehåll. GenStudio for Performance Marketing känner igen vissa fält, till exempel fältet `body`, och följer kanalriktlinjerna som konfigurerats för det valda varumärket.
 
 >[!TIP]
 >
@@ -89,7 +89,7 @@ Du [anpassar mallen](customize-template.md) så att den kan användas i GenStudi
 
 ## Överföra en mall
 
-Använd [Anpassa mallar](customize-template.md) som guide när du förbereder en mall för GenStudio för Performance Marketers. Mer information om hur du får en bättre upplevelse för alla målgrupper finns i [Riktlinjer för hjälpmedel för mallar](accessibility-for-templates.md).
+Använd [Anpassa mallar](customize-template.md) som guide när du förbereder en mall för GenStudio for Performance Marketing. Mer information om hur du får en bättre upplevelse för alla målgrupper finns i [Riktlinjer för hjälpmedel för mallar](accessibility-for-templates.md).
 
 **Så här lägger du till en mall**:
 
@@ -122,7 +122,7 @@ Använd [Anpassa mallar](customize-template.md) som guide när du förbereder en
 
 ## Skapa med en mall
 
-Hitta och använd en befintlig mall i GenStudio för Performance Marketers för att skapa fler upplevelser.
+Hitta och använd en befintlig mall i GenStudio for Performance Marketing för att skapa fler upplevelser.
 
 **Så här skapar du en upplevelse med en mall**:
 

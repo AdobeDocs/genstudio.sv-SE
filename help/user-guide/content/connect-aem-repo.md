@@ -1,18 +1,18 @@
 ---
-title: Ansluta till en AEM Assets Content Hub-databas
-description: Lär dig koppla GenStudio för Performance Marketers till en Adobe Experience Manager (AEM) Content Hub-databas och utnyttja befintligt godkänt innehåll.
+title: "Anslut till en [!DNL AEM Assets Content Hub] databas"
+description: Lär dig hur du ansluter Adobe GenStudio for Performance Marketing till en Adobe Experience Manager-databas (AEM) [!DNL Content Hub] och utnyttjar befintligt godkänt innehåll.
 level: Experienced
 feature: Assets, Content
-source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
+source-git-commit: 0d8f04ab26e8d0dd533cfc4e388dd0b0a68adb3b
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
 # Anslut till en [!DNL AEM Assets Content Hub]-databas
 
-Om du har resurser i Adobe Experience Manager (AEM) kan du följa de här stegen för att göra dem tillgängliga i GenStudio för Performance Marketers.
+Om du har resurser i Adobe Experience Manager (AEM) kan du följa de här stegen för att göra dem tillgängliga i GenStudio for Performance Marketing.
 
 >[!BEGINSHADEBOX]
 
@@ -37,7 +37,7 @@ I [!DNL Admin Console] lägger du till GenStudio-användare eller användargrupp
 
 ## Steg 3: Godkänn tillgångar
 
-Godkänn resurser som ska användas i [!DNL AEM Assets Content Hub], vilket gör dem tillgängliga i GenStudio för Performance Marketers. Se [Godkänn resurser i Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) i _AEM as a Cloud Service_ -dokumentationen.
+Godkänn resurser som ska användas i [!DNL AEM Assets Content Hub], vilket gör dem tillgängliga i GenStudio for Performance Marketing. Se [Godkänn resurser i Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) i _AEM as a Cloud Service_ -dokumentationen.
 
 ## Steg 4: Konfigurera synlighet för resurser
 
@@ -45,4 +45,4 @@ Granska varje uppsättning konfigurationsalternativ i konfigurationsalternativen
 
 ## Steg 5: Verifiera anslutningen
 
-I GenStudio för Performance Marketers-innehåll är listan _[!UICONTROL Location]_tillgänglig ovanför galleriet till höger. Listan är inte tillgänglig om du inte har åtkomst eller om din organisation inte har distribuerat och anslutit en [!DNL AEM Assets Content Hub]-databas.
+I GenStudio for Performance Marketing Content är listan _[!UICONTROL Location]_tillgänglig ovanför galleriet till höger. Listan är inte tillgänglig om du inte har åtkomst eller om din organisation inte har distribuerat och anslutit en [!DNL AEM Assets Content Hub]-databas.
