@@ -3,7 +3,7 @@ title: Översikt över aktiveringen
 description: Lär dig hur du aktiverar innehåll med Adobe Experience Cloud och tredjepartsprogram.
 feature: Assets, Approval, Experiences
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
-source-git-commit: b1550c4b1f624287e432bf7b610f9d31892b13c0
+source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 _Aktivering_ är processen att göra Adobe GenStudio for Performance Marketing-genererade resurser och upplevelser tillgängliga för leverans via utvalda kanaler och Adobe Experience Cloud-produkter. Du kan enkelt exportera godkänt innehåll från GenStudio for Performance Marketing i de optimala formaten för de tredjepartsprogram som du inkluderar i [!DNL Products].
 
-Funktionen för aktivering av GenStudio for Performance Marketers är inbyggd i Adobe Experience Delivery Products: Journey Optimizer, Journey Optimizer B2B Edition, Experience Manager, Marketo och Target.
+GenStudio for Performance Marketing aktiveringsfunktion är inbyggd i Adobe Experience Delivery Products: Journey Optimizer, Journey Optimizer B2B Edition, Experience Manager, Marketo och Target.
 
 **Så här aktiverar du en godkänd resurs**:
 

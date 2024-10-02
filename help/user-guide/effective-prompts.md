@@ -1,9 +1,9 @@
 ---
 title: Skriv effektiva uppmaningar
-description: Lär dig hur du skriver effektiva uppmaningar om Adobe GenStudio för Performance Marketers.
+description: Lär dig skriva effektiva uppmaningar för Adobe GenStudio for Performance Marketing.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 016cd2b5415651ed3cf157244f868315234330fa
+source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Skriv effektiva uppmaningar
 
-Att kommunicera med den generativa AI-miljön är nödvändigt för att man ska kunna arbeta effektivt i Adobe GenStudio för Performance Marketers.
+För att kunna arbeta effektivt i Adobe GenStudio for Performance Marketing är det viktigt att kommunicera med den generativa AI-miljön.
 
-GenStudio for Performance Marketers ger en generativ AI-fråga varje gång det finns möjlighet att ändra en resurs. Komponenterna i en effektiv prompt ska innehålla beskrivande språk, exempel och information som inte tillhandahålls via dina konfigurerade riktlinjer.
+GenStudio for Performance Marketing ger en generativ AI-fråga varje gång det finns möjlighet att ändra en resurs. Komponenterna i en effektiv prompt ska innehålla beskrivande språk, exempel och information som inte tillhandahålls via dina konfigurerade riktlinjer.
 
-Som en god praxis är det att förse GenStudio for Performance Marketers med din varumärkesinformation med [riktlinjer](/help/user-guide/guidelines/overview.md), så kan du utnyttja den generativa AI:n fullt ut för att skapa varumärkesanpassade innehållsupplevelser.
+Som en god praxis är det att förse GenStudio for Performance Marketing med din varumärkesinformation med [riktlinjer](/help/user-guide/guidelines/overview.md), så kan du utnyttja den generativa AI:n fullt ut för att skapa varumärkesanpassade innehållsupplevelser.
 
 ## Beskrivning
 
@@ -39,21 +39,21 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 ## Frågevillkor
 
-I GenStudio for Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) kan du använda **[!UICONTROL Prompt criteria]** ([_Parametrar_](/help/user-guide/create/overview.md#parameters) och en uppmaning) i promptområdet för att lägga till information genom markering för att förbättra AI-tolkningen.
+I GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) kan du använda **[!UICONTROL Prompt criteria]** ([_Parametrar_](/help/user-guide/create/overview.md#parameters) och en uppmaning) i promptområdet för att lägga till information genom markeringen för att förbättra AI-tolkningen.
 
 Frågevillkoren för [e-post](/help/tutorials/create-email-experience.md) kan omfatta tillägg av [riktlinjer](/help/user-guide/guidelines/overview.md) i _parametrar_, överföring av en resurs som ska användas i e-postvarianterna samt en beskrivande uppmaning. För en [metaannons](/help/tutorials/create-meta-ad.md) kan frågevillkoren innehålla en varumärkesriktlinje i _Parametrar_, val eller överföring av en befintlig resurs, inställningar för bilder eller resurser som proportioner samt en fråga. Den verkliga kraften börjar med [att konfigurera riktlinjer](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
->Om riktlinjer läggs till i _Parametrar_ i promptområdet behöver du inte inkludera referenser till dem i prompten. GenStudio för Performance Marketers utnyttjar dessa [!DNL Brands], [!DNL Products] och [!DNL Personas] i innehållsgenereringen.
+>Om riktlinjer läggs till i _Parametrar_ i promptområdet behöver du inte inkludera referenser till dem i prompten. GenStudio for Performance Marketing utnyttjar dessa [!DNL Brands], [!DNL Products] och [!DNL Personas] i innehållsgenereringen.
 
 ### Riktlinjer
 
-Riktlinjerna för GenStudio for Performance Marketers hjälper den generativa AI att personalisera din resurskomposition. När du får ett frågevillkor kan du välja en [[!DNL Brand]](/help/user-guide/guidelines/brands.md), en [[!DNL Persona]](/help/user-guide/guidelines/personas.md) och en [[!DNL Product]](/help/user-guide/guidelines/products.md) bland dina konfigurerade riktlinjer.
+GenStudio for Performance Marketing riktlinjer hjälper den generativa AI-funktionen att personalisera materialkompositionen. När du får ett frågevillkor kan du välja en [[!DNL Brand]](/help/user-guide/guidelines/brands.md), en [[!DNL Persona]](/help/user-guide/guidelines/personas.md) och en [[!DNL Product]](/help/user-guide/guidelines/products.md) bland dina konfigurerade riktlinjer.
 
 >[!TIP]
 >
->Du styr hur och när GenStudio for Performance Marketers använder dina [!DNL Brand]-riktlinjer. Se [Riktlinjer](/help/user-guide/guidelines/overview.md) om du vill veta mer om hur du konfigurerar och hanterar riktlinjer för varumärken.
+>Du styr hur och när GenStudio for Performance Marketing ska använda dina [!DNL Brand]-riktlinjer. Se [Riktlinjer](/help/user-guide/guidelines/overview.md) om du vill veta mer om hur du konfigurerar och hanterar riktlinjer för varumärken.
 
 ### Strukturerade uppmaningar
 
@@ -95,7 +95,7 @@ Se [Förbered en e-postmall](/help/user-guide/content/email-template.md#code-an-
 
 ## Försök igen
 
-Att fråga är en iterativ process. Om resultaten inte uppfyller dina förväntningar kan du granska frågan och göra några ändringar eller lägga till mer information. Du kan även klistra in avsnitt från en kampanjrapport. Du kan till och med begära att GenStudio for Performance Marketers undviker vissa ord, element eller teman.
+Att fråga är en iterativ process. Om resultaten inte uppfyller dina förväntningar kan du granska frågan och göra några ändringar eller lägga till mer information. Du kan även klistra in avsnitt från en kampanjrapport. Du kan också begära att GenStudio for Performance Marketing undviker vissa ord, element eller teman.
 
 ## God praxis
 
@@ -103,7 +103,7 @@ Några enkla metodtips för att skapa effektiva uppmaningar:
 
 - Var tydlig och ange vad du ska göra och inte göra.
 - Ange kontext med hjälp av externa referenser.
-- Utnyttja riktlinjerna för GenStudio för Performance Marketers.
+- Utnyttja GenStudio for Performance Marketing riktlinjer.
 - Granska och justera riktlinjerna regelbundet.
 - Iterera och förfina.
 - Lär dig genom experiment.

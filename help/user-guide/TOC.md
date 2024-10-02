@@ -1,20 +1,20 @@
 ---
-user-guide-title: Användarhandbok för Adobe GenStudio för Performance Marketers
+user-guide-title: Adobe GenStudio for Performance Marketing Användarhandbok
 breadcrumb-title: Användarhandbok
-user-guide-description: Lär dig att snabbt hitta och generera varumärkesbaserat material, skapa variationer och optimera upplevelser baserat på insikter om innehållsprestanda i realtid.
+user-guide-description: Utforska Adobe GenStudio for Performance Marketing funktioner. Lär dig hur du snabbt kan skapa varumärkesanpassade resurser, generera variationer och optimera upplevelser.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 81cbd495027e50afae2a178d4465703f3df0c950
+source-git-commit: 428e88b5d5ac125f42d0a27367f456fcd2828df5
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '135'
 ht-degree: 2%
 
 ---
 
 
-# Adobe GenStudio for Performance Marketers Guide {#user-guide}
+# Adobe GenStudio for Performance Marketing Guide {#user-guide}
 
-+ [GenStudio for Performance Marketers Guide](home.md)
++ [GenStudio for Performance Marketing Guide](home.md)
 + Versionsinformation {#release-notes}
    + [Versionsinformation för Beta](beta-release-notes.md)
 + [Kom igång](get-started.md)

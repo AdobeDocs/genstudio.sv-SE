@@ -1,13 +1,13 @@
 ---
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 2bc505acc561e60ee2af928adf53c9193677c3f5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 5%
 
 ---
-# Dokumentation för GenStudio for Performance Marketers
+# GenStudio for Performance Marketing-dokumentation
 
-Den här webbplatsen innehåller den senaste dokumentationen för GenStudio for Performance Marketers-produkten.
+Den här webbplatsen innehåller den senaste dokumentationen för GenStudio for Performance Marketing-produkten.
 
 ## Adobe Öppna Source uppförandekod
 
