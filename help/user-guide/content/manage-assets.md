@@ -3,9 +3,9 @@ title: Hantera resurser och upplevelser
 description: Förenkla och förbättra hanteringen av varumärkesgodkända mediefiler för användning och återanvändning i er digitala marknadsföringsresa.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
+source-git-commit: af20efaa511ed403f5160956ff98b42beb64bb34
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -59,18 +59,22 @@ När du lägger till resurser i [!DNL Content] lagras de som standard i database
    Se [Information om metadata](/help/user-guide/content/asset-details.md#system-metadata).
 
 1. Klicka på **[!UICONTROL Add assets]**.
+
 1. När överföringen av resursen är slutförd klickar du på **Klar**.
+
 1. Om du vill visa dina nya överförda resurser klickar du på **[!UICONTROL Refresh]** i meddelandet _Nya resurser tillgängliga_ längst ned på arbetsytan.
 
 <!-- 
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-### Sök resurser
+### Sök innehåll
 
-Sökgränssnittet i [!DNL Content] är snabbt och responsivt och ger en produktiv sökupplevelse.
+Filtrerings- och sökgränssnittet är snabbt och responsivt och ger en produktiv sökupplevelse. Varje [!DNL Content]-vy innehåller filteralternativ som begränsar sökningen efter den idealiska resursen, upplevelsen eller mallen. För resurser och upplevelser kan du välja en kampanj och specifika riktlinjer, till exempel innehåll som har skapats för en viss produkt.
 
-Använd filter och metadatataggar från resursinformationen för att begränsa sökresultaten. Du kanske vill hitta en resurs av en viss filtyp eller ett visst ämne som hjälper dig att skapa en ny upplevelse av kampanjen.
+Det finns filter som baseras på [nyckelord](asset-details.md#user-defined-metadata) och [attribut](/help/user-guide/insights/attributes.md) för att begränsa sökresultaten. Du kanske vill hitta en resurs av en viss filtyp eller ett visst ämne som hjälper dig att skapa en ny upplevelse av kampanjen.
+
+När du söker efter _upplevelser_ kan du använda filtret **[!UICONTROL Created by]** för att begränsa listan så att endast de upplevelser som du eller en viss person har skapat visas.
 
 **Så här söker du efter innehåll som ska återanvändas**:
 
