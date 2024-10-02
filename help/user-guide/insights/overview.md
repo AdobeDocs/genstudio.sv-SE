@@ -3,16 +3,16 @@ title: Översikt över  [!DNL Insights]
 description: Lär dig hur du optimerar upplevelser baserat på innehållsprestandamätningar i realtid.
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: a531ef2a7869a3f8e19fccd17b7acda54a767f6b
+source-git-commit: 723b1f826fe5ceefcf9c1beff09af9b3d56462c5
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
 
-# Adobe GenStudio för Performance Marketers [!DNL Insights]
+# Adobe GenStudio for Performance Marketing [!DNL Insights]
 
-Adobe GenStudio för Performance Marketers [!DNL Insights] ger avancerade analyser och insikter i innehållsprestanda som kan hjälpa dig att fatta datadrivna beslut.
+Adobe GenStudio for Performance Marketing [!DNL Insights] tillhandahåller avancerade analyser och insikter om innehållsprestanda som kan hjälpa dig att fatta datadrivna beslut.
 
 Från kontrollpanelen [!DNL Insights] kan du:
 
@@ -22,7 +22,7 @@ Från kontrollpanelen [!DNL Insights] kan du:
 
 >[!TIP]
 >
->Gå till [Connect-kanalkontot](connect-channel.md) om du vill se steg som gör det möjligt för GenStudio för Performance Marketers att ta emot data från era marknadsföringskampanjer, resurser och upplevelser.
+>Gå till [Connect-kanalkontot](connect-channel.md) för steg som gör det möjligt för GenStudio for Performance Marketing att ta emot data från era marknadsföringskampanjer, resurser och upplevelser.
 
 ## Kontrollpanel
 
@@ -31,8 +31,6 @@ Kontrollpanelen [!DNL Insights] har en konfigurerbar tabell för varje innehåll
 ![[!DNL Insights] instrumentpanel](/help/assets/insights-dashboard.png)
 
 I varje vy visas en motsvarande tabell, som du kan söka efter nyckelord, filtrering och datumintervall. Du kan klicka på inställningsikonen (cog) ovanför den högra sidan av tabellen för att växla mellan olika kolumntyper. Raden _[!UICONTROL Summary]_kan visa summor eller medelvärden för en kolumn.
-
-I [Datakolumner för  [!DNL Insights]](data-columns.md) finns en beskrivning av varje kolumntyp i tabellen.
 
 [!UICONTROL Experiences], [!UICONTROL Assets] och [!UICONTROL Attributes] innehåller en gallerivy där du kan skanna och sortera resurser med kort med en bild- eller videominiatyr. Det finns ett alternativ för att visa en av tre nyckelmått på varje kort: `Click-through rate`, `Cost per click` och `Spend`.
 
@@ -50,7 +48,7 @@ Vyn [!DNL Insights] _[!UICONTROL Assets]_är utformad för att hjälpa dig att a
 
 Om du klickar på en resurs får du mer information om hur den fungerar i olika upplevelser:
 
-![Resursvy](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
+![Resursinformation](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
 
 I resursvyn visas en miniatyrbild av resursen och en lista med attribut till vänster. Det finns tre markerade mått: `Click-through rate`, `Cost per click` och `Spend`. Prestandamarkeringarna visar hur faktiska värden (heldragen linje) jämförs med det genomsnittliga värdet (streckad linje) under den valda tidsperioden (standardvärdet är `Last 30 days`).
 

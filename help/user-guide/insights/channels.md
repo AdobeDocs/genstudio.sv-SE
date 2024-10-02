@@ -1,11 +1,11 @@
 ---
 title: Översikt över kanaler
-description: Se en översikt över kundengagemang, resultat, budget och utgifter för marknadsföringskampanjer i Adobe GenStudio för Performance Marketers.
+description: Se en översikt över kundengagemang, resultat, budget och utgifter för marknadsföringskampanjer i Adobe GenStudio for Performance Marketing.
 feature: Insights, Channels
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 7b8850f7da22e2257d50a0b4f8535ae02f9a2665
+source-git-commit: 6cdb446786ecc1545237a0fe2fac1c5d16b58bbd
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -16,17 +16,17 @@ Vyn [!DNL Insights] _[!UICONTROL Channels]_visar en lista med kampanjer för det
 
 >[!TIP]
 >
->GenStudio för Performance Marketers kräver att du ansluter till ett kanalkonto för att börja ta emot data. Se [Anslut kanalkonto](connect-channel.md).
+>GenStudio for Performance Marketing kräver att du ansluter till ett kanalkonto för att börja ta emot data. Se [Anslut kanalkonto](connect-channel.md).
 
-Tabellen [!UICONTROL Channels] är organiserad med den kanalbaserade annonskampanjen. Filterikonen (trattikonen) ovanför den vänstra sidan av tabellen öppnar menyn **[!UICONTROL Filter]** där du kan välja i listorna [!UICONTROL Account], [!UICONTROL Status] och [!UICONTROL Objective] för att filtrera kampanjer i tabellen.
+Tabellen _[!UICONTROL Channels]_är organiserad med den kanalbaserade annonskampanjen. Klicka på inställningsikonen ovanför den högra sidan av tabellen för att växla mellan de kolumner som kan visas. Filterikonen (trattikonen) ovanför den vänstra sidan av tabellen öppnar menyn **[!UICONTROL Filter]**där du kan välja i listorna [!UICONTROL Account], [!UICONTROL Status] och [!UICONTROL Objective] för att filtrera kampanjer i tabellen.
 
-![Kanalfilter och tabell](../../assets/insights-channels-filter.png)
+![Kanalfilter och tabell](/help/assets/insights-channels-filter.png){zoomable="yes"}
 
 När du väljer en kampanj öppnas fliken [[!UICONTROL Experiences] ](experiences.md) med en lista över annonsnamn som är associerade med den kampanjen, som gör att du kan identifiera vilka upplevelser som har bidragit till kampanjens övergripande framgång.
 
 ## Mål
 
-När ni skapade en kampanj med Meta Ads kan ni ha valt ett mål som är anpassat till era affärsmål. Det finns sex mål från Meta Ads som är synliga i GenStudio för Performance Marketers:
+När du skapade en kampanj med Meta-annonser kan du ha valt ett mål som är anpassat till era affärsmål. Det finns sex mål från Meta-annonser i GenStudio for Performance Marketing:
 
 1. **Kännedom**: Nå ut till största möjliga publik och nå ut till ert företag.
 1. **Trafik**: Öka trafiken till din webbplats eller ditt program.
@@ -35,7 +35,7 @@ När ni skapade en kampanj med Meta Ads kan ni ha valt ett mål som är anpassat
 1. **Appkampanj**: Befordra ditt program.
 1. **Försäljning**: Fokusera på att nå de personer som mest sannolikt kommer att använda din produkt.
 
-## Mått
+## Kanalmått
 
 Beroende på era prestationsmål kan Insights-mätvärden hjälpa er att utvärdera om ni uppfyller era mål.
 
@@ -47,12 +47,13 @@ Följande tabell innehåller definitioner och insikter för viktiga mätvärden 
 
 | Mått | Definition | Insikt |
 | ----------- | ----------------------------- | -------------------------------- |
+| **[!UICONTROL Meta campaign name]** | En lista med kampanjnamn för det anslutna kanalkontot. Kampanjstatus kan vara `Active`, `Paused`, `Deleted` eller `Archived`. Filtrera kampanjer efter status och mål. | Sortera tabellen genom att klicka på kolumnrubriken för något av nyckelmåtten. |
 | **[!UICONTROL Launch]** | Det datum då kampanjen släpptes eller publicerades på marknaden. | Ett högt antal visningar kan tyda på att annonsen når den avsedda målgruppen. |
-| **[!UICONTROL Impressions]** | Impressions räknas varje gång innehållet läses in på skärmen, oavsett interaktion eller visning. | Ett högt visningsvärde kan visa på bred synlighet, men för verkliga prestandainsikter bör du överväga andra engagemangsmått. |
-| **[!UICONTROL Clicks]** | Antal gånger som användare interagerar med ett klickbart element, till exempel en länk eller en annons. | Ett högt klickningsantal visar starkt intresse och engagemang för innehållet, vilket kan vara effektivt och nå rätt målgrupp. |
-| **[!UICONTROL CTR]** | Procentandel (%) av användarna som klickade på en annons, ett sökresultat eller länkar i ett e-postmeddelande.<br>**Beräkning**: `clicks` delat med `impressions` | En hög klickfrekvens visar att innehållet är mycket relevant och motiverat för målgruppen i budskapen och designen och att det effektivt riktar sig till målgruppens intressen. |
-| **[!UICONTROL CPM]** | Resultatmätning för kostnad ($) per tusen annonsvisningar.<br>**Beräkning**: totalt belopp `spent` dividerat med räckvidd, multiplicerat med 1000 | Ett lågt värde kan indikera kostnadseffektiv synlighet, särskilt om det kombineras med en hög klickfrekvens. |
-| **[!UICONTROL CPC]** | Genomsnittskostnad ($) som associeras med varje klick i en upplevelse.<br>**Beräkning**: totalt belopp `spent` delat med `clicks` | Lägre genomsnittliga kostnader kan tyda på kostnadseffektiva annonskostnader, särskilt om man jämför med en ökning av antalet konverteringar. |
-| **[!UICONTROL Video plays]** | Procentandel av tittarna som tittade på en video till slutet. | Ett stort antal videouppspelningar kan tyda på att videon fångar uppmärksamheten och kan betyda att miniatyren, titeln eller placeringen ritas effektivt i visningsprogrammen. Höga uppspelningshastigheter tyder på att videomaterialet är övertygande och relevant. |
+| **[!UICONTROL Impressions]** | Antal gånger innehållet läses in i kanalen, oavsett interaktion eller visning. | Ett högt visningsvärde kan visa på bred synlighet, men för verkliga prestandainsikter bör du överväga andra engagemangsmått. |
+| **[!UICONTROL Clicks]** | Antal gånger som användare interagerar med ett klickbart element, t.ex. en länk eller en knapp för att ringa upp, i annonskampanjen. | Ett högt klickningsantal visar starkt intresse och engagemang för innehållet, vilket kan vara effektivt och nå rätt målgrupp. |
+| **[!UICONTROL CTR]**<br>_Genomklickningsfrekvens _ | Procentandel (%) av visningar som resulterade i kampanjklickningar i en kanal.<br>**Beräkning**: (`clicks` dividerat med `impressions`) x 100 = % | En hög klickfrekvens visar att innehållet är mycket relevant och motiverat för målgruppen i budskapen och designen och att det effektivt riktar sig till målgruppens intressen. |
+| **[!UICONTROL CPM]**<br>_Kostnad per tusen _ | Kostnad ($) för varje tusen annonsvisningar för annonskampanjen. <br>**Beräkning**: (totalt belopp `spent` dividerat med `impressions`) x 1000 = $ | Ett lågt värde kan indikera kostnadseffektiv synlighet, särskilt om det kombineras med en hög klickfrekvens. |
+| **[!UICONTROL CPC]**<br>_Kostnad per klick _ | Genomsnittskostnad ($) som associeras med varje klick i en annonskampanj.<br>**Beräkning**: totalt belopp `spent` dividerat med `clicks` = $ | Lägre genomsnittliga kostnader kan tyda på kostnadseffektiva annonskostnader, särskilt om man jämför med en ökning av antalet konverteringar. |
+| **[!UICONTROL Video plays]** | Procentandel (%) av tittarna som tittade på en video till slutet. | Ett stort antal videouppspelningar kan tyda på att videon fångar uppmärksamheten och kan betyda att miniatyren, titeln eller placeringen ritas effektivt i visningsprogrammen. Höga uppspelningshastigheter tyder på att videomaterialet är övertygande och relevant. |
 | **[!UICONTROL Budget]** | Totala medel ($) som anslagits för en annonskampanj för att uppnå kampanjmålen. | En hög budget innebär mer resurser för en bredare räckvidd och potentiellt större påverkan. |
-| **[!UICONTROL Spend]** | Det belopp som har använts från budgeten under en viss tidsperiod. | Ett högt utgiftsbelopp under en kort period kan tyda på snabb användning, vilket kan leda till att resurser tar slut i förtid. Spåra utgiftsbeloppet mot nyckeltal för att övervaka den totala avkastningen på investeringen. |
+| **[!UICONTROL Spend]** | Det belopp ($) som använts från budgeten under en viss tidsperiod för att placera annonser på olika plattformar. | Ett högt utgiftsbelopp under en kort period kan tyda på snabb användning, vilket kan leda till att resurser tar slut i förtid. Spåra utgiftsbeloppet mot nyckeltal för att övervaka den totala avkastningen på investeringen. |
