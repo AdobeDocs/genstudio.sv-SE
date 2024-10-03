@@ -7,9 +7,9 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
+source-git-commit: c1cc90b4c80b6b754b34ac609e8e94b799386fad
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '925'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,8 @@ Innan du väljer vad som ska skickas för godkännande eller publicering till [!
 * **Om du vill [redigera namnet på e-postutkastet](/help/user-guide/create/manage-variants.md#change-draft-name)** klickar du på rubriken _Namnlöst utkast_ längst upp på arbetsytan och anger en ny titel.
 * **Om du vill [redigera ett e-postmeddelande manuellt](/help/user-guide/create/manage-variants.md#manually-edit-text)** dubbelklickar du i något av de redigerbara textfälten (till exempel ämnesraden, huvudet eller kopian) och redigerar efter behov
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **Om du vill [ta bort ett e-postmeddelande](/help/user-guide/create/manage-variants.md#delete-variant)** klickar du på alternativikonen (tre punkter) för en variant och sedan på **[!UICONTROL Delete]**.
+* **Om du vill [lägga till eller byta ut bilder i en variant](/help/user-guide/create/manage-variants.md#swap-image)** klickar du på en bildresurs (eller bildresursområdet om det inte finns någon bild) och sedan på **[!UICONTROL Select/swap from content]** eller **[!UICONTROL Upload New Image]** för att lägga till eller byta ut en bild i en enskild variant.
+* **Om du vill [ta bort ett e-postmeddelande](/help/user-guide/create/manage-variants.md#delete-variant)** klickar du för att markera e-posttiteln (till exempel&quot;E-post 1/4&quot;) och klickar på **[!UICONTROL Delete variant]**.
 
 ## Skicka feedback
 

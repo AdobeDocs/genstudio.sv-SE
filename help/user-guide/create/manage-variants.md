@@ -2,9 +2,9 @@
 title: Hantera varianter
 description: Anpassa och förbättra genererade varianter och resurser efter era behov inom digital marknadsföring.
 feature: Content, Assets, Experiences
-source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
+source-git-commit: c1cc90b4c80b6b754b34ac609e8e94b799386fad
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '950'
 ht-degree: 0%
 
 ---
@@ -97,9 +97,28 @@ Tillgängliga storlekar/proportioner är:
 
 1. Klicka på **[!UICONTROL Duplicate and resize]**.
 
-[!DNL Create] skapar en kopia av varje variant baserat på den nya valda proportionen. Alla varianter, inklusive de som har de ursprungliga proportionerna, finns på arbetsytan.
+   [!DNL Create] skapar en kopia av varje variant baserat på den nya valda proportionen. Alla varianter, inklusive de som har de ursprungliga proportionerna, finns på arbetsytan.
 
-Om du till exempel skapar fyra varianter i 1:1-proportionen först och sedan ändrar proportionerna till 4:5, är nu _åtta_ totala varianter tillgängliga på arbetsytan.
+   Om du till exempel skapar fyra varianter i 1:1-proportionen först och sedan ändrar proportionerna till 4:5, är nu _åtta_ totala varianter tillgängliga på arbetsytan.
+
+## Växla bild
+
+Du kan lägga till eller byta ut bilder i genererade varianter direkt från arbetsytan.
+
+**Så här lägger du till eller byter ut bilder i en variant**:
+
+1. När du har genererat en uppsättning varianter klickar du på en bildresurs.
+
+   Om varianten inte har någon placerad bildresurs klickar du på bildresursområdet.
+
+1. Så här väljer du en bildresurs som redan har publicerats till [!DNL Content]:
+   1. Klicka på **[!UICONTROL Select from content]**. Använd filtren för att begränsa sökresultaten ytterligare.
+   1. Klicka på **[!UICONTROL Use]**
+1. Så här överför du en bildresurs:
+   1. Klicka på **[!UICONTROL Upload New Image]** för att bläddra bland dina filer och välja resurser som ska användas. Du kan importera från Microsoft OneDrive eller Dropbox tillsammans med att bläddra på enheten.
+   1. Klicka på **[!UICONTROL Add Assets]**.
+
+   Bilderna läggs till eller byts ut mot lämplig variant.
 
 ## Förhandsgranska för enhet
 
@@ -119,7 +138,7 @@ Ta bort onödiga varianter så att arbetsytan endast visar de varianter som du a
 
    Varianten markeras och en snabbmeny visas.
 
-1. Välj **[!UICONTROL Delete]** bland de tillgängliga menyalternativen.
+1. Välj **[!UICONTROL Delete]** bland de tillgängliga alternativen.
 
    Varianten tas bort.
 
