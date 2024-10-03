@@ -3,7 +3,7 @@ title: Skriv effektiva uppmaningar
 description: Lär dig skriva effektiva uppmaningar för Adobe GenStudio for Performance Marketing.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 I GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) kan du använda **[!UICONTROL Prompt criteria]** ([_Parametrar_](/help/user-guide/create/overview.md#parameters) och en uppmaning) i promptområdet för att lägga till information genom markeringen för att förbättra AI-tolkningen.
 
-Frågevillkoren för [e-post](/help/tutorials/create-email-experience.md) kan omfatta tillägg av [riktlinjer](/help/user-guide/guidelines/overview.md) i _parametrar_, överföring av en resurs som ska användas i e-postvarianterna samt en beskrivande uppmaning. För en [metaannons](/help/tutorials/create-meta-ad.md) kan frågevillkoren innehålla en varumärkesriktlinje i _Parametrar_, val eller överföring av en befintlig resurs, inställningar för bilder eller resurser som proportioner samt en fråga. Den verkliga kraften börjar med [att konfigurera riktlinjer](/help/user-guide/guidelines/add-guidelines.md).
+Frågevillkoren för [e-post](/help/user-guide/create/email-experiences.md) kan omfatta tillägg av [riktlinjer](/help/user-guide/guidelines/overview.md) i _parametrar_, överföring av en resurs som ska användas i e-postvarianterna samt en beskrivande uppmaning. För en [metaannons](/help/tutorials/create-meta-ad.md) kan frågevillkoren innehålla en varumärkesriktlinje i _Parametrar_, val eller överföring av en befintlig resurs, inställningar för bilder eller resurser som proportioner samt en fråga. Den verkliga kraften börjar med [att konfigurera riktlinjer](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ GenStudio for Performance Marketing riktlinjer hjälper den generativa AI-funkti
 
 ### Strukturerade uppmaningar
 
-För e-postmeddelanden med flera avsnitt kan du strukturera uppmaningar om att tillhandahålla avsnittsspecifika instruktioner för att generera varierande innehåll för varje avsnitt i ett e-postmeddelande. Strukturerade uppmaningar ska direkt referera till [avsnittsnamn i e-postmallen](/help/user-guide/content/email-template.md#multi-section-emails) så att det genererade innehållet kan infogas i motsvarande innehållsplatshållare.
+För e-postmeddelanden med flera avsnitt kan du strukturera uppmaningar om att tillhandahålla avsnittsspecifika instruktioner för att generera varierande innehåll för varje avsnitt i ett [e-postmeddelande](/help/user-guide/create/email-experiences.md). Strukturerade uppmaningar ska direkt referera till [avsnittsnamn i e-postmallen](/help/user-guide/content/email-template.md#multi-section-emails) så att det genererade innehållet kan infogas i motsvarande innehållsplatshållare.
 
 Du kan till exempel instruera GenStudio for Performance Marketing att generera innehåll som marknadsför en ny produkt i det första avsnittet i ett e-postmeddelande och generera innehåll som detaljerar de kostnadsbesparande fördelarna med produkten i det andra e-postavsnittet.
 

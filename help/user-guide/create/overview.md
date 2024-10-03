@@ -3,9 +3,9 @@ title: Översikt över GenStudio för Performance Marketing [!DNL Create]
 description: Generera snabbt högpresterande varumärkesanpassat innehåll med generativ AI i Adobe GenStudio för Performance Marketing [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
+source-git-commit: 4b6602e833ed7245bca1abc42ea95b465a61c109
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,8 @@ GenStudio för Performance Marketing [!DNL Create] utnyttjar Adobe GenAI för at
 
 Med [!DNL Create] kan du generera innehåll för följande kanaler:
 
-* E-post
-* Meta ads
+* [E-post](email-experiences.md)
+* [Meta ads](meta-experiences.md)
 <!-- * Social media images and ads
 * Display ads -->
 
@@ -68,31 +68,25 @@ Med GenStudio for Performance Marketing kan marknadsförare **skapa nytt marknad
 
 [!DNL Create] integrerar olika komponenter i GenStudio för Performance Marketing för att hjälpa användare att generera innehåll.
 
-### Utkast
-
-I avsnittet _Senaste arbete_ i [!DNL Create] får du åtkomst till och hantera alla senaste utkast. Visa och slutför ditt tidigare arbete för att förbereda det för publicering på [[!DNL Content]](/help/user-guide/content/overview.md).
-
-Utkast som bearbetas sparas automatiskt. När du går tillbaka till hemmet [!DNL Create] uppdateras avsnittet _Senaste arbete_ med dina senaste utkast. För varje utkast kan du se om det har _godkänts_ eller fortfarande är i formuläret _Utkast_.
-
 ### Mallar
 
-När du har valt vilken innehållskanal du vill skapa i _Vad vill du skapa idag?_-avsnittet kan du komma åt varumärkesgodkända mallar för användning vid innehållsgenerering. Använd mallar för att snabbt komma igång med att skapa innehåll och hålla er uppdaterade med en viss varumärkesidentitet.
+När du har valt vilken kanal du vill skapa i _Vad vill du skapa idag?_-avsnittet kan du komma åt varumärkesgodkända mallar för användning vid innehållsgenerering. Använd mallar för att snabbt komma igång med att skapa innehåll och hålla er uppdaterade med en viss varumärkesidentitet.
 
 Mallar [överförs och lagras i  [!DNL Content]](/help/user-guide/content/overview.md) och är tillgängliga i [!DNL Create].
+
+### Parametrar
+
+I promptområdet kan du lägga till _parametrar_ som [!DNL Brands], [!DNL Products] och [!DNL Personas] (riktlinjer) och [!DNL Content] (resurser) för att forma den genererade upplevelsen.
+
+Dessa tillagda parametrar ger [riktlinjer](/help/user-guide/guidelines/overview.md) och resurser i genereringsprocessen, vilket säkerställer att innehållet är anpassat efter ett varumärkes heltäckande identitet. Vi rekommenderar att du lägger till riktlinjer för prestandamarknadsföring i GenStudio och använder dem under innehållsgenereringsprocessen, eftersom de gör det betydligt enklare att skapa lämpligt varumärkesanpassat innehåll.
+
+Innehåll - överfört eller tillagt bildresurser - i _Parametrar_ används i genererade varianter och informerar om kopieringsinnehållet (text) som genereras för varianter. Du kan överföra resurser eller välja resurser som redan finns i [!DNL Content] eller i anslutna AEM Content Hub-databaser.
 
 ### Fråga
 
 [Att skapa effektiva uppmaningar](/help/user-guide/effective-prompts.md) är en viktig del av genereringsprocessen i [!DNL Create].
 
-Om du vill skapa nytt AI-genererat innehåll anger du en [beskrivande uppmaning](/help/user-guide/effective-prompts.md) som beskriver den kontext eller upplevelse som du tänker generera, tillsammans med [riktlinjer](/help/user-guide/guidelines/overview.md) och [_parametrar_](#parameters), i promptområdet och klickar på **[!UICONTROL Generate]**.
-
-### Parametrar
-
-I promptområdet kan du lägga till _parametrar_ som [!DNL Brands], [!DNL Products] och [!DNL Personas] (riktlinjer) eller resurser för att forma den genererade upplevelsen.
-
-Överförda bilder i _Parametrar_ används i genererade varianter och informerar kopieringsinnehållet (text) som genereras för varianter.
-
-Dessa tillagda parametrar ger [riktlinjer](/help/user-guide/guidelines/overview.md) och resurser i genereringsprocessen, vilket säkerställer att innehållet är anpassat efter ett varumärkes heltäckande identitet. Vi rekommenderar att du lägger till riktlinjer för prestandamarknadsföring i GenStudio och använder dem under innehållsgenereringsprocessen, eftersom de gör det betydligt enklare att skapa lämpligt varumärkesanpassat innehåll.
+Om du vill skapa AI-genererat innehåll anger du en [beskrivande uppmaning](/help/user-guide/effective-prompts.md) som beskriver den kontext eller upplevelse som du tänker generera, tillsammans med [riktlinjer](/help/user-guide/guidelines/overview.md) och [_parametrar_](#parameters), i promptområdet och klickar på **[!UICONTROL Generate]**.
 
 ### Varumärkesvalidering
 
@@ -103,6 +97,12 @@ GenStudio for Performance Marketing utför varumärkesvalidering på olika aspek
 Använd den inbyggda funktionen [Recensioner och godkännanden](/help/user-guide/approvals/overview.md) för att granska, spåra kommentarer och få godkännanden under skapandet.
 
 När du är klar med att generera innehållsvariationer skickar du dina utkast för godkännande av intressenter så att de kan sparas i [!DNL Content] och implementeras i marknadsföringsarbetet.
+
+### Utkast
+
+I avsnittet _Senaste arbete_ i [!DNL Create] får du åtkomst till och hantera alla senaste utkast. Visa och slutför ditt tidigare arbete för att förbereda det för publicering på [[!DNL Content]](/help/user-guide/content/overview.md).
+
+Utkast som bearbetas sparas automatiskt. När du går tillbaka till hemmet [!DNL Create] uppdateras avsnittet _Senaste arbete_ med dina senaste utkast. För varje utkast kan du se om det har _godkänts_ eller fortfarande är i formuläret _Utkast_.
 
 ### Hantera varianter
 
