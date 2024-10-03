@@ -3,9 +3,9 @@ title: Resursinformation
 description: Adobe GenStudio for Performance Marketing lagrar godkänt material med omfattande metadata för sökbarhet och prestandaspårning.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 059b464cb2a7b57557407bbaee6162b770107222
+source-git-commit: 44e4a297077d06047767cc40b7009ac88e7b493c
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '645'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,37 @@ Varje resurs (inklusive upplevelser och mallar) har associerad _information_ (me
    >
    >Om avsnittet _[!UICONTROL Details]_inte visas klickar du på ikonen **[!UICONTROL Information]**(i).
 
-Resursinformationen innehåller metadata som används vid skapande eller överföring. Metadatatyperna för resurser omfattar [systemmetadata](#system-metadata) och [användardefinierade metadata](#user-defined-metadata).
+   Resursinformationen innehåller metadata som används vid skapande eller överföring. Metadatatyperna för resurser omfattar [systemmetadata](#system-metadata) och [användardefinierade metadata](#user-defined-metadata).
 
 >[!NOTE]
 >
 >Assets från AEM visar olika metadata. Mer information om hur du konfigurerar [!DNL AEM Assets Content Hub]-resursinformation finns i [Konfigurera resurssynlighet](connect-aem-repo.md#step-4-configure-asset-visibility).
+
+## Redigera i Express
+
+Du kan redigera bildresurser (JPG eller PNG) direkt i GenStudio for Performance Marketing med hjälp av Adobe Express. Arbetsytan i _[!UICONTROL Powered by Adobe Express]_har praktiska funktioner för att förbättra dina bilder utan att behöva lämna GenStudio-programmet. Du kan enkelt ta bort bakgrunder, använda generativa fyllningar, justera effekter och beskära bilder.
+
+1. Välj en bildresurs i _[!DNL Content]_. När du klickar på en resurs öppnas en fokuserad vy över resursen.
+
+1. I resursvyn klickar du på ikonen **[!UICONTROL Edit in Adobe Express]** i det övre högra hörnet.
+
+1. Använd Express-kontrollerna på den vänstra panelen för att förbättra bilden på arbetsytan i _[!UICONTROL Powered by Adobe Express]_.
+
+1. När du är nöjd med den uppdaterade bilden klickar du på **[!UICONTROL Save a copy]** uppe till höger.
+
+1. Markera filformatet - JPG eller PNG - och klicka på **[!UICONTROL Save a copy]**.
+
+1. Uppdatera **[!UICONTROL Asset name]** på popup-menyn _[!UICONTROL Save a copy of asset]_.
+
+   - Välj **[!UICONTROL Same details as original asset]** om du vill överföra resursinformationen till den nya bilden.
+
+   - Expandera avsnittet **[!UICONTROL More details]** för att uppdatera kampanjen, riktlinjerna och andra metadata.
+
+   >[!TIP]
+   >
+   >Ju mer information du ger, desto mer upplever du GenStudio for Performance Marketing robusta funktioner. Välj en eller flera detaljer i listan eller ange en ny där det är tillämpligt, t.ex. med nyckelord. Varje detalj som du lägger till visas under listan. Klicka på **`x`** om du vill ta bort en detalj.
+
+1. Klicka på **[!UICONTROL Save]**.
 
 ## Systemmetadata
 
