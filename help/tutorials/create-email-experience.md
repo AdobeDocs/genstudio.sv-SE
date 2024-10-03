@@ -7,16 +7,16 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
 
 # Skapa en e-postupplevelse
 
-I den här självstudien visas hur du skapar varumärkesanpassade e-postupplevelser med GenStudio för Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (penselikonen i det vänstra navigeringsområdet).
+I den här självstudiekursen visas hur du skapar [varumärkesprofilerade e-postupplevelser](/help/user-guide/create/email-experiences.md) med GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (penselikonen i det vänstra navigeringsområdet).
 
 Om du vill skapa en effektiv e-postupplevelse rekommenderar vi att du [lägger till riktlinjer i GenStudio för Performance Marketing](/help/user-guide/guidelines/add-guidelines.md) och penselredigerar [grunderna för att skapa en fråga](/help/user-guide/effective-prompts.md) innan du börjar.
 
@@ -44,8 +44,11 @@ Om du lägger till [riktlinjer](/help/user-guide/guidelines/overview.md) och res
    Om det inte finns några varumärken, profiler eller produkter tillgängliga från dessa menyer [lägger du till riktlinjer i din GenStudio för Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Klicka på **[!UICONTROL Select content]** för att lägga till innehåll som ska användas i upplevelsen *och* för att påverka innehållsgenereringen.
-   * Klicka på **[!UICONTROL Select from content]** för att välja resurser (bilder) som redan har publicerats till [!DNL Content]. Använd filtren för att begränsa sökresultaten ytterligare.
-   * Klicka på **[!UICONTROL Upload]** för att bläddra bland dina filer och välja resurser som ska användas. Du kan även importera från Microsoft OneDrive eller Dropbox.
+   * Om du vill välja resurser (bilder) från din [!DNL Content]-databas klickar du på **[!UICONTROL Select from content]**. Filtrera och markera en eller flera bilder.
+
+     Om du vill använda resurser från en ansluten [!DNL AEM Assets Content Hub]-databas väljer du en databas i listrutan _Plats_ . Filtrera och markera en eller flera bilder.
+
+   * Om du vill överföra en eller flera nya resurser klickar du på **[!UICONTROL Upload]**, bläddrar bland dina filer och väljer resurser som ska användas. Du kan importera från Microsoft OneDrive eller Dropbox tillsammans med att bläddra på enheten. Klicka för att markera de önskade bilderna.
    * Dra och släpp resurser i avsnittet _Innehåll_.
 1. Klicka på **[!UICONTROL Use]**.
 
@@ -68,6 +71,8 @@ Läs [Skriv effektiva uppmaningar](/help/user-guide/effective-prompts.md) om du 
 
 Som standard genereras och visas fyra varianter på arbetsytan, som alla föds av uppmaningen, riktlinjer och innehåll som du har lagt till.
 
+Genererat innehåll läses in stegvis - allt eftersom varje avsnitt i e-postupplevelsen genereras visas det på arbetsytan. Se [E-postupplevelser](/help/user-guide/create/meta-experiences.md#progressive-loading) om du vill veta hur ändringarna läses in på arbetsytan.
+
 ## Granska genererade e-postmeddelanden
 
 Innan du väljer vad som ska skickas för godkännande eller publicering till [!DNL Content] kan du redigera e-postavsnitt eller ta bort en variant från uppsättningen genererade e-postmeddelanden.
@@ -75,15 +80,17 @@ Innan du väljer vad som ska skickas för godkännande eller publicering till [!
 **Så här granskar du genererade varianter**:
 
 * **Om du vill [redigera namnet på e-postutkastet](/help/user-guide/create/manage-variants.md#change-draft-name)** klickar du på rubriken _Namnlöst utkast_ längst upp på arbetsytan och anger en ny titel.
-* **Om du vill [redigera ett e-postmeddelande manuellt](/help/user-guide/create/manage-variants.md#manually-edit-text)** dubbelklickar du i något av de redigerbara textfälten (t.ex. ämnesraden, huvudet eller kopian) och redigerar efter behov.
+* **Om du vill [redigera ett e-postmeddelande manuellt](/help/user-guide/create/manage-variants.md#manually-edit-text)** dubbelklickar du i något av de redigerbara textfälten (till exempel ämnesraden, huvudet eller kopian) och redigerar efter behov
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **Om du vill [ta bort ett e-postmeddelande](/help/user-guide/create/manage-variants.md#delete-variant)** klickar du för att markera e-posttiteln (till exempel&quot;E-post 1/4&quot;) och klickar på **[!UICONTROL Delete variant]**.
+* **Om du vill [ta bort ett e-postmeddelande](/help/user-guide/create/manage-variants.md#delete-variant)** klickar du på alternativikonen (tre punkter) för en variant och sedan på **[!UICONTROL Delete]**.
+
+## Skicka feedback
+
+Klicka på alternativikonen (tre punkter) och välj **[!UICONTROL Good output]** eller **[!UICONTROL Poor output]** om du vill [skicka feedback](/help/user-guide/create/manage-variants.md#generation-feedback) om kvaliteten på genereringsutdata.
 
 ## Förhandsgranska för enhet
 
-När du granskar och förbereder e-postupplevelser kan du växla mellan förhandsgranskningar för datorer och mobila vyer för att säkerställa att utkastvarianterna är enhetliga och ser bra ut.
-
-**Om du vill förhandsgranska varianter för datorer och mobila enheter** växlar du till alternativet för enhetsförhandsgranskning - mellan **skrivbordet** och **mobilen** - på den högra menyraden (dator- och telefonikoner) för att förhandsvisa hur varianter visas.
+När du granskar och förbereder e-postupplevelser kan du [växla mellan förhandsgranskningar för datorer och mobiler](/help/user-guide/create/manage-variants.md#preview-for-device) för att säkerställa att utkastvarianterna är konsekventa och visuella.
 
 ## Verifiera varumärkesjustering
 

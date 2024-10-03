@@ -2,9 +2,9 @@
 title: Hantera varianter
 description: Anpassa och förbättra genererade varianter och resurser efter era behov inom digital marknadsföring.
 feature: Content, Assets, Experiences
-source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '844'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Hantera varianter
 
-Med Adobe GenStudio för Performance Marketing [!DNL Create] kan du anpassa och förbättra genererade varianter - e-post, Meta-annonser med mera - för användning i digitala marknadsföringssatsningar.
+Med Adobe GenStudio for Performance Marketing [!DNL Create] kan du anpassa och förbättra genererade varianter -[e-post](/help/user-guide/create/email-experiences.md), [Metaannonser](/help/user-guide/create/meta-experiences.md) med flera - och använda i digitala marknadsföringssatsningar.
 
 När du [skapar upplevelser](/help/tutorials/tutorials.md) kan du ändra innehåll och resurser för genererade varianter individuellt eller i en grupp. Möjligheten att hantera varianter på individuell mikronivå gör att ni kan hantera varje del av det genererade innehållet explicit.
 
@@ -53,20 +53,20 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 1. If you want to regenerate results, click the regenerate icon adjacent to _Results_.
 1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   The variant is updated with the revised text.
+   The variant is updated with the revised text. -->
 
-## Crop assets
+## Beskära resurser
 
-You can manually crop and reposition image assets in individual generated variants.
+Du kan beskära och flytta bildresurser manuellt i enskilda genererade varianter.
 
-**To crop and reposition images in variants**:
+**Så här beskär och flyttar du bilder i varianter**:
 
-1. After generating a set of variants, hover over an image within a variant.
-1. Click **[!UICONTROL Apply Crop]**.
-1. Zoom in and out and drag the image into the desired position.
-1. Click **[!UICONTROL Apply]**.
+1. När du har genererat en uppsättning varianter håller du pekaren över en bild i en variant.
+1. Klicka på beskärningsikonen som visas i bildens vänstra hörn.
+1. Justera bildens begränsningsram och dra bilden till önskad plats.
+1. Klicka på **[!UICONTROL Apply]** om du vill tillämpa beskärningen på en enskild bild eller på **[!UICONTROL Apply to all images]** om du vill använda den på alla bilder i varianterna.
 
-   The cropped image is automatically saved and visible for the variant. -->
+   Den beskurna bilden sparas och visas för varianterna.
 
 ## Ändra proportioner
 
@@ -101,6 +101,12 @@ Tillgängliga storlekar/proportioner är:
 
 Om du till exempel skapar fyra varianter i 1:1-proportionen först och sedan ändrar proportionerna till 4:5, är nu _åtta_ totala varianter tillgängliga på arbetsytan.
 
+## Förhandsgranska för enhet
+
+När du granskar och förbereder e-postupplevelser kan du växla mellan förhandsgranskningar för datorer och mobila vyer för att säkerställa att utkastvarianterna är enhetliga och ser bra ut.
+
+**Om du vill förhandsgranska varianter för datorer och mobila enheter** växlar du till alternativet för enhetsförhandsgranskning - mellan **skrivbordet** och **mobilen** - på den högra menyraden (dator- och telefonikoner) för att förhandsvisa hur varianter visas.
+
 ## Ta bort variant
 
 Du kan ta bort alla genererade varianter som du inte tänker spara eller återanvända.
@@ -109,7 +115,7 @@ Ta bort onödiga varianter så att arbetsytan endast visar de varianter som du a
 
 **Ta bort en genererad variant**:
 
-1. När du har genererat en uppsättning varianter klickar du på namnet ovanför en variant.
+1. När du har genererat en uppsättning varianter klickar du på alternativikonen (tre punkter) ovanför en variant.
 
    Varianten markeras och en snabbmeny visas.
 
@@ -122,3 +128,27 @@ Ta bort onödiga varianter så att arbetsytan endast visar de varianter som du a
 Använd _[!UICONTROL Brand guidelines check]_och_[!UICONTROL Brand validation panel]_ för att upprätthålla en konsekvent varumärkesidentitet och justering av varianter.
 
 Se [Varumärkesvalidering](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
+
+## Återkoppling om generering
+
+Feedback om kvaliteten på genererade varumärkesanpassade resurser kan lämnas in för att förbättra innehållsgenereringsprocessen. Att ange om resultaten är av hög eller dålig kvalitet bidrar till att förbättra innehållskvaliteten och användarsäkerheten i GenStudio for Performance Marketing.
+
+Återkoppling om generering gäller för en enskild variant, inte för den insamlade uppsättningen varianter.
+
+**Så här skickar du feedback för generering**:
+
+1. När du har genererat en uppsättning varianter klickar du på alternativikonen (tre punkter) ovanför en variant.
+
+   Varianten markeras och en snabbmeny visas.
+
+1. Välj **[!UICONTROL Good output]** eller **[!UICONTROL Poor output]**.
+
+   Det visas ett popup-fönster där du kan samla in mer information. Den genererade informationen och uppmaningsinformationen ingår i din feedback.
+
+1. Lägg till följande information i feedback-popup:
+   1. Välj alternativet _[!UICONTROL Also include your reference content and layer data]_om du vill ta med den extra referensinformationen i den insamlade feedback-informationen.
+   1. I avsnittet _[!UICONTROL What worked well?]_eller_[!UICONTROL What went wrong?]_ väljer du de alternativ som beskriver vad som gör att innehållsgenereringen får hög eller dålig kvalitet.
+   1. Lägg till annan användbar eller relaterad information i fältet _[!UICONTROL Notes]_.
+1. Klicka på **[!UICONTROL Submit]**.
+
+   En banderoll visas som bekräftar att du har skickat feedback.

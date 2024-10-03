@@ -7,16 +7,16 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '1048'
 ht-degree: 0%
 
 ---
 
 # Skapa en Meta-annonsupplevelse
 
-I den här självstudien visas hur du skapar varumärkesanpassade annonsupplevelser i Meta med GenStudio för Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (penselikonen i det vänstra navigeringsområdet).
+I den här självstudiekursen visas hur du skapar [varumärkesanpassade annonsupplevelser](/help/user-guide/create/meta-experiences.md) med GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (penselikonen i det vänstra navigeringsområdet).
 
 Innan du börjar generera en annonsupplevelse av typen Meta är det viktigt att [införliva riktlinjer](/help/user-guide/guidelines/add-guidelines.md) i GenStudio för Performance Marketing och bekanta dig med grunderna i [att skapa en uppmaning](/help/user-guide/effective-prompts.md).
 
@@ -44,8 +44,11 @@ Om du lägger till [riktlinjer](/help/user-guide/guidelines/overview.md) och res
    Om det inte finns några varumärken, profiler eller produkter tillgängliga från dessa menyer [lägger du till riktlinjer i din GenStudio för Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Klicka på **[!UICONTROL Select content]** för att lägga till innehåll som ska användas i upplevelsen *och* för att påverka innehållsgenereringen.
-   * Klicka på **[!UICONTROL Select from content]** för att välja resurser (bilder) som redan har publicerats till [!DNL Content]. Använd filtren för att begränsa sökresultaten ytterligare.
-   * Klicka på **[!UICONTROL Upload]** för att bläddra bland dina filer och välja resurser som ska användas. Du kan även importera från Microsoft OneDrive eller Dropbox.
+   * Om du vill välja resurser (bilder) som redan har publicerats till [!DNL Content] klickar du på **[!UICONTROL Select from content]** och väljer önskade bilder genom att klicka på dem. Använd filtren för att begränsa sökresultaten ytterligare.
+
+     Om du vill använda resurser som redan finns i en ansluten AEM Content Hub-databas väljer du lämplig plats i listrutan _Plats_ och klickar för att välja önskade bilder.
+
+   * Klicka på **[!UICONTROL Upload]** för att bläddra bland dina filer och välja resurser som ska användas. Du kan även importera från Microsoft OneDrive eller Dropbox. Klicka för att markera de önskade bilderna.
    * Dra och släpp resurser i avsnittet _Innehåll_.
 1. Klicka på **[!UICONTROL Use]**.
 
@@ -63,6 +66,8 @@ Läs [Skriv effektiva uppmaningar](/help/user-guide/effective-prompts.md) om du 
 1. Klicka på **[!UICONTROL Generate]**.
 
 Som standard genereras och visas fyra varianter på arbetsytan, som alla föds av uppmaningen, riktlinjer och innehåll som du har lagt till.
+
+Genererat innehåll läses in stegvis - allt eftersom varje avsnitt i metaupplevelsen genereras visas det på arbetsytan. Se [Metaupplevelser](/help/user-guide/create/meta-experiences.md#progressive-loading) om du vill veta hur ändringarna läses in på arbetsytan.
 
 ## Välj kanal för Meta-annonser
 
@@ -82,9 +87,13 @@ Innan du väljer vad som ska skickas för godkännande eller publicering till [!
 * **Om du vill [redigera en Meta-annons manuellt](/help/user-guide/create/manage-variants.md#manually-edit-text)** dubbelklickar du i något av annonsavsnitten (t.ex. ämnesraden, huvudet eller brödtexten) och redigerar efter behov.
 * **Om du vill ändra eller markera anropet till åtgärden** klickar du på knappen för att ringa till åtgärd och väljer bland de tillgängliga textalternativen för knappen. I _[!UICONTROL Link]_anger du en URL för texten som anropar till åtgärd.
 * **Om du vill [ändra storlek och proportioner för annonsen](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** klickar du på knappen _[!UICONTROL Resize]_(ruta med en knappikon till vänster om arbetsytan) och väljer en ny storlek och proportioner som ska användas för alla varianter. Varianterna dupliceras och storleksändras.
-<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
-* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
+* **Om du vill [beskära eller flytta bilder](/help/user-guide/create/manage-variants.md#crop-assets)** håller du pekaren över en bild, klickar på beskärningsikonen som visas och justerar bildens storlek och placering.
 * **Om du vill [ta bort en Meta-annons](/help/user-guide/create/manage-variants.md#delete-variant)** klickar du på annonsrubriken (till exempel &quot;Meta 4&quot;) och sedan på **[!UICONTROL Delete variant]**.
+
+## Skicka feedback
+
+Klicka på alternativikonen (tre punkter) och välj **[!UICONTROL Good output]** eller **[!UICONTROL Poor output]** om du vill [skicka feedback](/help/user-guide/create/manage-variants.md#generation-feedback) om kvaliteten på genereringsutdata.
 
 ## Verifiera varumärkesjustering
 
