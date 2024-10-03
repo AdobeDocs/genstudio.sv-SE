@@ -3,9 +3,9 @@ title: Varumärkesvalidering i Adobe GenStudio för prestandamarknadsföring
 description: Läs om hur det inbyggda varumärkesvalideringssystemet fungerar i GenStudio för Performance Marketing.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
+source-git-commit: 48224f6eaf3395a18869a7f702a49629d39186af
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ En sammanfattning av varumärkesverifieringsinformation för varje genererad inn
 
 Kontrollen _Varumärkesriktlinjer_ visar procentandelen kompatibilitet med ditt [varumärke](brands.md). Procentandelen beräknas som antalet [riktlinjer](overview.md) som godkändes vid validering jämfört med antalet testade riktlinjer.
 
-Klicka på ikonen för att se vilka riktlinjer som är kompatibla med ert varumärke och vilka som behöver granskas.
+Klicka på ikonen för att se hur många riktlinjer som är kompatibla med ert varumärke och hur många riktlinjer som behöver granskas.
 
 Se [Förbättra varumärkesjusteringen](#improve-brand-alignment).
 
 ## Panelen för varumärkesvalidering
 
-_Panelen för varumärkesvalidering_ innehåller detaljerad varumärkesverifieringsinformation och visar upp möjligheter till förbättring för varje variantavsnitt.
+Panelen _Varumärkesvalidering_ öppnas på den högra sidan av arbetsytan när du klickar på den övre menyraden _eller_ på ikonen _Varumärkesstödlinjer_ för en variant. Panelen innehåller detaljerad information om varumärkesvalidering och visar upp möjligheter till förbättring för varje avsnitt.
 
-På _varumärkesvalideringspanelen_ visas information om:
+På panelen _Varumärkesvalidering_ visas information om:
 
 * **E-post**:
    * Ämnesradsavsnitt
@@ -53,30 +53,25 @@ Se [Förbättra varumärkesjusteringen](#improve-brand-alignment).
 
 ### Filter
 
-På _varumärkesvalideringspanelen_ kan du filtrera de riktlinjer som visas. Klicka på filterikonen längst upp på panelen för att visa:
+På panelen _Varumärkesvalidering_ kan du filtrera vilka riktlinjer som visas. Klicka på filterikonen längst upp på panelen för att visa:
 
-* **Misslyckade riktlinjer**—_Visa felaktiga riktlinjer_ visar endast riktlinjer som inte godkänts i varumärkesverifieringen.
-* **Alla riktlinjer**—_Visa felaktiga och godkända riktlinjer_ visar alla riktlinjer som varianterna mäts mot.
-* **Godkända riktlinjer**—_Visa godkända riktlinjer_ visar endast riktlinjer som godkänts vid varumärkesvalidering.
-
-<!-- The _Brand validation panel_ has different areas of focus for each content channel:
-
-* Email - brand voice and channel compliance
-* Images - application photography restrictions and other considerations -->
+* **Riktlinjer som uppfylls** - Visar endast riktlinjer som godkänts vid varumärkesverifiering.
+* **Riktlinjer som behöver åtgärdas** - Visar bara de riktlinjer som inte klarade varumärkesvalideringen och som behöver redigeras ytterligare för att vara mer varumärkeskompatibla.
+* **Båda** - Visar alla riktlinjer som varianterna mäts mot.
 
 ## Förbättra varumärkesanpassningen
 
-Använd kontrollen _Varumärkesriktlinjer_ och panelen _Varumärkesvalidering_ om du vill maximera effekten av genererat innehåll och behålla en konsekvent varumärkesidentitet. Du kan ändra specifika avsnitt manuellt för att anpassa dem efter [varumärkesriktlinjerna](brands.md).
+Om du vill maximera effekten av genererat innehåll och behålla en konsekvent varumärkesidentitet använder du _kontrollen av varumärkesriktlinjerna_ och panelen _Varumärkesvalidering_. Du kan ändra specifika avsnitt manuellt för att anpassa dem efter [varumärkesriktlinjerna](brands.md).
 
 **Så här förbättrar du varumärkesjusteringen för genererade innehållsvarianter**:
 
 1. Klicka på ikonen **[!UICONTROL [!DNL Brand] guidelines check]** för en enskild variant.
 
-   Se en sammanfattning av hur den specifika varianten fungerar - riktlinjer som godkänns vid varumärkesvalidering och riktlinjer som behöver granskas - när de kontrolleras mot ert varumärke.
+   Se en sammanfattning av hur många varumärkesriktlinjer som har uppfyllt varumärkesvalideringen eller behöver mer uppmärksamhet.
 
-1. Om du vill ha information om de avsnitt och riktlinjer som behöver förbättras klickar du på **[!UICONTROL Review]** _eller_ Valideringsikonen för varumärket i den övre menyraden för att öppna _Varumärkesvalideringspanelen_.
+1. Om du vill visa information om de avsnitt och riktlinjer som behöver förbättras klickar du på **[!UICONTROL Review]** _eller_ och klickar på ikonen _Varumärkesvalidering_ i den övre menyraden för att öppna panelen _Varumärkesvalidering_ .
 
-   Se alla avsnitt och riktlinjer för varumärken som du behöver vara uppmärksam på. Det markerade avsnittet på panelen motsvarar det avsnitt som är markerat i den genererade varianten på arbetsytan.
+   Se alla avsnitt och riktlinjer för varumärken som du behöver vara uppmärksam på. <!-- The section highlighted in the panel corresponds to the section highlighted in the generated variant in the Canvas. -->
 
    >[!NOTE]
    >
@@ -84,14 +79,15 @@ Använd kontrollen _Varumärkesriktlinjer_ och panelen _Varumärkesvalidering_ o
 
 1. Manuellt revidera olika avsnitt för att få en så stark anpassning som möjligt till ert varumärke.
 
-1. När du har gjort nödvändiga ändringar klickar du på **[!UICONTROL Re-check]** för att validera dina ändringar och se till att de är bättre anpassade till din varumärkesidentitet.
+1. När du har gjort nödvändiga ändringar klickar du på **[!UICONTROL Check again]** för att kontrollera och validera dina ändringar för att vara säker på att de är bättre anpassade till din varumärkesidentitet.
 
-   Varumärkesvalideringsprocessen kommer att köras igen. Om avsnittet/stödlinjen godkänns i valideringen visas en grön bockmarkering för det avsnittet på _varumärkesvalideringspanelen_. Procentandelen i ikonen _Varumärkesstödlinje_ för den reviderade varianten visar också förloppet.
+   Varumärkesvalideringsprocessen körs igen. Om avsnittet/stödlinjen godkänns vid valideringen visas en grön banderoll längst ned på arbetsytan som bekräftar att&quot;Riktlinjerna för varumärken uppdaterades&quot;. Om det inte sker någon förändring efter en ny kontroll bekräftar banderollen&quot;Ingen ändring av varumärkesriktlinjerna&quot;. Procentandelen i ikonen _Varumärkesstödlinje_ för den reviderade varianten visar också förloppet.
 
 1. Fortsätt att granska sektioner för att säkerställa att hela varianten godkänns i varumärkesvalideringen.
 
    Navigera mellan riktlinjer på _varumärkesvalideringspanelen_ med knapparna **[!UICONTROL Next]** och **[!UICONTROL Previous]** .
 
-1. Överst på _varumärkesvalideringspanelen_ navigerar du genom varje variant med hjälp av pilarna (använd till exempel pilen för att gå från `Email 1` till `Email 2`) och fortsätter att ändra avsnitt så att de passar ditt varumärke bättre.
+1. Navigera genom varje variant med pilarna bredvid en enskild variant på arbetsytan. Använd till exempel pilen för att gå från `Email 1/4` till `Email 2/4`.
+1. Fortsätt att ändra avsnitt så att ni bättre följer ert varumärke.
 
    Mer information om aktuella riktlinjer finns i [Riktlinjer för varumärkesröst](/help/user-guide/guidelines/brands.md#brand-voice-guidelines).
