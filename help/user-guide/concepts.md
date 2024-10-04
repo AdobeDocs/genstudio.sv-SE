@@ -3,7 +3,7 @@ title: Adobe GenStudio for Performance Marketing concepts
 description: Lär dig Adobe GenStudio for Performance Marketing koncept och termer.
 feature: Workflow, Generative AI
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
-source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
+source-git-commit: 9016841b6a788fe5ca50f3e9c0d774a248a6c793
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -25,7 +25,9 @@ Med GenStudio for Performance Marketing kan du
 
 GenStudio for Performance Marketing utnyttjar den kraftfulla AI-funktionen för att snabba upp framtagningen av innehåll och säkerställa högklassig generering av innehåll. Den iterativa livscykeln för ert kreativa material resulterar i allt exaktare och varumärkesanpassat innehåll som når er målgrupp.
 
-Börja med att effektivt utbilda GenStudio for Performance Marketing om företagets varumärke, kundprofiler och produktbeskrivningar med hjälp av den kraftfulla funktionen för varumärkesriktlinjer. Se [Riktlinjerna - översikt](../user-guide/guidelines/overview.md) om du vill veta mer om hur du förbereder och överför dessa riktlinjer.
+Börja med att effektivt utbilda GenStudio for Performance Marketing om företagets varumärke, kundprofiler och produktbeskrivningar med hjälp av den kraftfulla funktionen för varumärkesriktlinjer.
+
+Se [Riktlinjerna - översikt](../user-guide/guidelines/overview.md) om du vill veta mer om hur du förbereder och överför dessa riktlinjer.
 
 ## Innehållets livscykel
 
@@ -34,7 +36,7 @@ Efterfrågan är hög för upplevelser av hög kvalitet i flera kanaler i snabba
 <table style="table-layout:fixed">
 <tr style="border: 0;">
     <td style="width: 120px;">
-       <img alt="kalender" src="../assets/csc-workflow-planning.svg" width="100">
+       <img alt="kalender" src="../assets/csc-workflow-planning.png" width="100">
     </td>
     <td>
         <p>Brainstorm-idéer, definiera riktlinjer och bygg en strategi runt innehållet för att engagera er målgrupp.</p>
@@ -42,7 +44,7 @@ Efterfrågan är hög för upplevelser av hög kvalitet i flera kanaler i snabba
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="pensel och arbetsyta" src="../assets/csc-creation-production.svg" width="100">
+        <img alt="pensel och arbetsyta" src="../assets/csc-creation-production.png" width="100">
     </td>
     <td>
         <p>Producera innehållet baserat på planen. Samarbeta i realtid, få feedback, redigera och godkänn material.</p>
@@ -50,7 +52,7 @@ Efterfrågan är hög för upplevelser av hög kvalitet i flera kanaler i snabba
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="bilder med mera" src="../assets/csc-content-mgmt.svg" width="100">
+        <img alt="bilder med mera" src="../assets/csc-content-mgmt.png" width="100">
     </td>
     <td>
         <p>Lagra, dela och hitta kreativa resurser i det centraliserade arkivet. Återanvänd och återuppliva innehåll baserat på prestanda.</p>
@@ -58,7 +60,7 @@ Efterfrågan är hög för upplevelser av hög kvalitet i flera kanaler i snabba
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="pappersflygplan" src="../assets/csc-delivery-activation.svg" width="100">
+        <img alt="pappersflygplan" src="../assets/csc-delivery-activation.png" width="100">
     </td>
     <td>
         <p>Aktivera innehåll och publicera i flera marknadsföringskanaler.</P>
@@ -66,7 +68,7 @@ Efterfrågan är hög för upplevelser av hög kvalitet i flera kanaler i snabba
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="diagram" src="../assets/csc-reporting-insights.svg" width="100">
+        <img alt="diagram" src="../assets/csc-reporting-insights.png" width="100">
     </td>
     <td>
         <p>Samla in data och ta fram insikter för optimering av tillgångsprestanda.</p>
