@@ -17,4 +17,4 @@ ht-degree: 12%
 + [GenStudio for Performance Marketing Tutorials](tutorials.md)
 + [Skapa en e-postupplevelse](create-email-experience.md)
 + [Skapa en Meta-annonsupplevelse](create-meta-ad.md)
-+ [GenStudio for Performance Marketing Användarhandbok](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html)
++ [GenStudio for Performance Marketing Användarhandbok](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html?lang=sv-SE)

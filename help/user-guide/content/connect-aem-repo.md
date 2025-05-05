@@ -24,7 +24,7 @@ Följande steg kräver administratörsbehörighet för Admin Console och AEM Ass
 
 ## Steg 1: Aktivera [!DNL AEM Assets Content Hub]
 
-Följ självbetjäningsprocessen **Distribuera Content Hub** för att aktivera [!DNL Content Hub] för din befintliga AEM Assets i Cloud Manager. Se [Distribuera [!DNL Content Hub]](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub) i _AEM as a Cloud Service_ -dokumentationen.
+Följ självbetjäningsprocessen **Distribuera Content Hub** för att aktivera [!DNL Content Hub] för din befintliga AEM Assets i Cloud Manager. Se [Distribuera [!DNL Content Hub]](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub) i _AEM as a Cloud Service_ -dokumentationen.
 
 När du har aktiverat [!DNL AEM Assets Content Hub] har du en ny instans med suffixet `contenthub` i [!DNL AEM Assets as a Cloud Service] på Admin Console.
 
@@ -32,16 +32,16 @@ När du har aktiverat [!DNL AEM Assets Content Hub] har du en ny instans med suf
 
 I [!DNL Admin Console] lägger du till GenStudio-användare eller användargrupper i produktprofilerna för [!DNL AEM Assets Content Hub]. [!DNL AEM Assets Content Hub] användare kan visa resurser, men inte lägga till resurser eller ändra befintliga resurser.
 
-- [Inbyggt [!DNL Content Hub] administratör](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
-- [Anlita [!DNL Content Hub] användare](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
+- [Inbyggt [!DNL Content Hub] administratör](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
+- [Anlita [!DNL Content Hub] användare](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
 
 ## Steg 3: Godkänn tillgångar
 
-Godkänn resurser som ska användas i [!DNL AEM Assets Content Hub], vilket gör dem tillgängliga i GenStudio for Performance Marketing. Se [Godkänn resurser i Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) i _AEM as a Cloud Service_ -dokumentationen.
+Godkänn resurser som ska användas i [!DNL AEM Assets Content Hub], vilket gör dem tillgängliga i GenStudio for Performance Marketing. Se [Godkänn resurser i Experience Manager](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) i _AEM as a Cloud Service_ -dokumentationen.
 
 ## Steg 4: Konfigurera synlighet för resurser
 
-Granska varje uppsättning konfigurationsalternativ i konfigurationsalternativen för filter, resursinformation, sökning och branding i _[!DNL AEM Assets Content Hub]_. Se [Konfigurera Content Hub-användargränssnitt](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) i dokumentationen för_ AEM as a Cloud Service _.
+Granska varje uppsättning konfigurationsalternativ i konfigurationsalternativen för filter, resursinformation, sökning och branding i _[!DNL AEM Assets Content Hub]_. Se [Konfigurera Content Hub-användargränssnitt](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) i dokumentationen för_ AEM as a Cloud Service _.
 
 ## Steg 5: Verifiera anslutningen
 
