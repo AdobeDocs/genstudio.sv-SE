@@ -38,7 +38,7 @@ I [!UICONTROL Content] kan Performance Marketers enkelt lagra, hämta och hanter
 
 ### Lägga till resurser
 
-När du lägger till resurser i [!DNL Content] lagras de som standard i databasen `GenStudio assets`. Knappen _[!UICONTROL Add assets]_är bara tillgänglig när_[!UICONTROL Location]_ är `GenStudio assets`-databasen.
+När du lägger till resurser i [!DNL Content] lagras de som standard i databasen `GenStudio assets`. Knappen _[!UICONTROL Add assets]_&#x200B;är bara tillgänglig när&#x200B;_[!UICONTROL Location]_ är `GenStudio assets`-databasen.
 
 ![Platsfält](../../assets/content-location.png){width="350" align="center"}
 
@@ -78,7 +78,7 @@ När du söker efter _upplevelser_ kan du använda filtret **[!UICONTROL Created
 
 **Så här söker du efter innehåll som ska återanvändas**:
 
-1. I _[!DNL Content]_väljer du avsnittet **[!UICONTROL Assets]**.
+1. I _[!DNL Content]_&#x200B;väljer du avsnittet **[!UICONTROL Assets]**.
 
 1. Välj en resurskatalog i listan **[!UICONTROL Location]** eller verifiera att du tittar på rätt resurskatalog. `GenStudio assets` är standarddatabas.
 
@@ -88,7 +88,7 @@ När du söker efter _upplevelser_ kan du använda filtret **[!UICONTROL Created
 
 1. Klicka på **[!UICONTROL Search]** (förstoringsglas) för att ange ett nyckelord eller en beskrivning.
 
-1. Begränsa sökningen genom att välja en kategori i listan _[!UICONTROL Filter]_. Om du till exempel söker efter en PNG-fil klickar du på&#x200B;**[!UICONTROL File format]**och väljer **PNG**.
+1. Begränsa sökningen genom att välja en kategori i listan _[!UICONTROL Filter]_. Om du till exempel söker efter en PNG-fil klickar du på&#x200B;**[!UICONTROL File format]**&#x200B;och väljer **PNG**.
 
    Ju mer du begränsar sökningen, desto färre filteralternativ är tillgängliga. Klicka på **[!UICONTROL Clear all]** om du vill ta bort alla filter.
 

@@ -85,11 +85,11 @@ Innan du publicerar ditt varumärke kan du klicka dig igenom avsnitten _Riktlinj
 
 När varumärket publiceras visas en banderoll som bekräftar att ditt varumärke är klart att användas: *Varumärke publicerat och tillgängligt att använda*.
 
-Det publicerade varumärket kan nu användas i _[!DNL Create]_eller_[!DNL Content]_.
+Det publicerade varumärket kan nu användas i _[!DNL Create]_&#x200B;eller&#x200B;_[!DNL Content]_.
 
 ### Hantera [!DNL Brands]
 
-I hemmet _[!DNL Brands]_kan du klicka för att **öppna ett redan skapat varumärke**och redigera eller granska det, eller **byta namn**eller **ta bort ett varumärke**från listan från åtgärdsmenyn [!DNL Brands]:
+I hemmet _[!DNL Brands]_&#x200B;kan du klicka för att **öppna ett redan skapat varumärke**&#x200B;och redigera eller granska det, eller **byta namn**&#x200B;eller **ta bort ett varumärke**&#x200B;från listan från åtgärdsmenyn [!DNL Brands]:
 
 * Klicka på en varumärkespanel för att öppna ett varumärke.
 * Välj **[!UICONTROL Rename]** på åtgärdsmenyn [!DNL Brands] om du vill byta namn på en befintlig profil.
@@ -159,11 +159,11 @@ Klicka på _Meddelandeinställningar_ och ange meddelandeinformation för [!DNL 
 
 ### Hantera [!DNL Products]
 
-I startsidan för _[!DNL Products]_kan du **öppna en redan skapad[!DNL Product]**för att redigera eller granska den, eller **ta bort en produkt**från listan:
+I startsidan för _[!DNL Products]_&#x200B;kan du **öppna en redan skapad[!DNL Product]**&#x200B;för att redigera eller granska den, eller **ta bort en produkt**&#x200B;från listan:
 
 * Välj **[!UICONTROL Open]** på åtgärdsmenyn [!DNL Products] om du vill granska och granska en befintlig produkt.
 * Välj **[!UICONTROL Delete]** på åtgärdsmenyn [!DNL Products] om du vill **ta bort** en produkt.
-* 
+* &#x200B;
    * Välj **[!UICONTROL Rename]** på åtgärdsmenyn [!DNL Products] om du vill **byta namn på en produkt**.
 
 ## Lägg till [!DNL Personas]
@@ -230,7 +230,7 @@ Du kan lägga till personlig information manuellt i stället för att överföra
 
 ### Hantera [!DNL Personas]
 
-I startsidan för _[!DNL Personas]_kan du **öppna en redan skapad[!DNL Persona]**för att redigera eller granska den, eller **ta bort en person**från listan:
+I startsidan för _[!DNL Personas]_&#x200B;kan du **öppna en redan skapad[!DNL Persona]**&#x200B;för att redigera eller granska den, eller **ta bort en person**&#x200B;från listan:
 
 * Välj **[!UICONTROL Open]** på åtgärdsmenyn [!DNL Personas] om du vill granska en befintlig profil.
 * Välj **[!UICONTROL Delete]** på åtgärdsmenyn [!DNL Personas] om du vill **ta bort** en profil.

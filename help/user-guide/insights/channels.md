@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Översikt över kanaler
 
-Vyn [!DNL Insights] _[!UICONTROL Channels]_visar en lista med kampanjer för det anslutna kanalannonskontot.
+Vyn [!DNL Insights] _[!UICONTROL Channels]_&#x200B;visar en lista med kampanjer för det anslutna kanalannonskontot.
 
 >[!TIP]
 >
 >GenStudio for Performance Marketing kräver att du ansluter till ett kanalkonto för att börja ta emot data. Se [Anslut kanalkonto](connect-channel.md).
 
-Tabellen _[!UICONTROL Channels]_är organiserad med den kanalbaserade annonskampanjen. Klicka på inställningsikonen ovanför den högra sidan av tabellen för att växla mellan de kolumner som kan visas. Filterikonen (trattikonen) ovanför den vänstra sidan av tabellen öppnar menyn **[!UICONTROL Filter]**där du kan välja i listorna [!UICONTROL Account], [!UICONTROL Status] och [!UICONTROL Objective] för att filtrera kampanjer i tabellen.
+Tabellen _[!UICONTROL Channels]_&#x200B;är organiserad med den kanalbaserade annonskampanjen. Klicka på inställningsikonen ovanför den högra sidan av tabellen för att växla mellan de kolumner som kan visas. Filterikonen (trattikonen) ovanför den vänstra sidan av tabellen öppnar menyn **[!UICONTROL Filter]**&#x200B;där du kan välja i listorna [!UICONTROL Account], [!UICONTROL Status] och [!UICONTROL Objective] för att filtrera kampanjer i tabellen.
 
 ![Kanalfilter och tabell](/help/assets/insights-channels-filter.png){zoomable="yes"}
 

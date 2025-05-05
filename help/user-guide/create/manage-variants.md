@@ -144,7 +144,7 @@ Ta bort onödiga varianter så att arbetsytan endast visar de varianter som du a
 
 ## Varumärkesvalidering per variant
 
-Använd _[!UICONTROL Brand guidelines check]_och_[!UICONTROL Brand validation panel]_ för att upprätthålla en konsekvent varumärkesidentitet och justering av varianter.
+Använd _[!UICONTROL Brand guidelines check]_&#x200B;och&#x200B;_[!UICONTROL Brand validation panel]_ för att upprätthålla en konsekvent varumärkesidentitet och justering av varianter.
 
 Se [Varumärkesvalidering](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
 
@@ -165,8 +165,8 @@ Feedback om kvaliteten på genererade varumärkesanpassade resurser kan lämnas 
    Det visas ett popup-fönster där du kan samla in mer information. Den genererade informationen och uppmaningsinformationen ingår i din feedback.
 
 1. Lägg till följande information i feedback-popup:
-   1. Välj alternativet _[!UICONTROL Also include your reference content and layer data]_om du vill ta med den extra referensinformationen i den insamlade feedback-informationen.
-   1. I avsnittet _[!UICONTROL What worked well?]_eller_[!UICONTROL What went wrong?]_ väljer du de alternativ som beskriver vad som gör att innehållsgenereringen får hög eller dålig kvalitet.
+   1. Välj alternativet _[!UICONTROL Also include your reference content and layer data]_&#x200B;om du vill ta med den extra referensinformationen i den insamlade feedback-informationen.
+   1. I avsnittet _[!UICONTROL What worked well?]_&#x200B;eller&#x200B;_[!UICONTROL What went wrong?]_ väljer du de alternativ som beskriver vad som gör att innehållsgenereringen får hög eller dålig kvalitet.
    1. Lägg till annan användbar eller relaterad information i fältet _[!UICONTROL Notes]_.
 1. Klicka på **[!UICONTROL Submit]**.
 

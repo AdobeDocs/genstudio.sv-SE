@@ -18,13 +18,13 @@ Varje resurs (inklusive upplevelser och mallar) har associerad _information_ (me
 
 **Så här visar du resursinformation**:
 
-1. I _[!DNL Content]_väljer du en resurs, upplevelse eller mall. När du klickar på en resurs öppnas en fokuserad vy över resursen.
+1. I _[!DNL Content]_&#x200B;väljer du en resurs, upplevelse eller mall. När du klickar på en resurs öppnas en fokuserad vy över resursen.
 
-1. Granska avsnittet _[!UICONTROL Details]_till höger i resursvyn.
+1. Granska avsnittet _[!UICONTROL Details]_&#x200B;till höger i resursvyn.
 
    >[!TIP]
    >
-   >Om avsnittet _[!UICONTROL Details]_inte visas klickar du på ikonen **[!UICONTROL Information]**(i).
+   >Om avsnittet _[!UICONTROL Details]_&#x200B;inte visas klickar du på ikonen **[!UICONTROL Information]**(i).
 
    Resursinformationen innehåller metadata som används vid skapande eller överföring. Metadatatyperna för resurser omfattar [systemmetadata](#system-metadata) och [användardefinierade metadata](#user-defined-metadata).
 
@@ -34,7 +34,7 @@ Varje resurs (inklusive upplevelser och mallar) har associerad _information_ (me
 
 ## Redigera i Express
 
-Du kan redigera bildresurser (JPG eller PNG) direkt i GenStudio for Performance Marketing med hjälp av Adobe Express. Arbetsytan i _[!UICONTROL Powered by Adobe Express]_har praktiska funktioner för att förbättra dina bilder utan att behöva lämna GenStudio-programmet. Du kan enkelt ta bort bakgrunder, använda generativa fyllningar, justera effekter och beskära bilder.
+Du kan redigera bildresurser (JPG eller PNG) direkt i GenStudio for Performance Marketing med hjälp av Adobe Express. Arbetsytan i _[!UICONTROL Powered by Adobe Express]_&#x200B;har praktiska funktioner för att förbättra dina bilder utan att behöva lämna GenStudio-programmet. Du kan enkelt ta bort bakgrunder, använda generativa fyllningar, justera effekter och beskära bilder.
 
 1. Välj en bildresurs i _[!DNL Content]_. När du klickar på en resurs öppnas en fokuserad vy över resursen.
 

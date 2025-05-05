@@ -11,9 +11,9 @@ ht-degree: 0%
 
 # Översikt över upplevelser
 
-I vyn [!DNL Insights] _[!UICONTROL Experiences]_visas en lista med upplevelser för det anslutna kanalannonskontot. För Facebook är upplevelserna Meta-annonsnamn.
+I vyn [!DNL Insights] _[!UICONTROL Experiences]_&#x200B;visas en lista med upplevelser för det anslutna kanalannonskontot. För Facebook är upplevelserna Meta-annonsnamn.
 
-Tabellen _[!UICONTROL Experiences]_är ordnad med [!UICONTROL Ad names]. Klicka på inställningsikonen ovanför den högra sidan av tabellen för att växla mellan de kolumner som kan visas. Filterikonen (trattikonen) ovanför tabellens vänstra sida öppnar menyn **[!UICONTROL Filter]**där du kan välja i listorna [!UICONTROL Account] och [!UICONTROL Campaign] för att filtrera annonsnamnen i tabellen.
+Tabellen _[!UICONTROL Experiences]_&#x200B;är ordnad med [!UICONTROL Ad names]. Klicka på inställningsikonen ovanför den högra sidan av tabellen för att växla mellan de kolumner som kan visas. Filterikonen (trattikonen) ovanför tabellens vänstra sida öppnar menyn **[!UICONTROL Filter]**&#x200B;där du kan välja i listorna [!UICONTROL Account] och [!UICONTROL Campaign] för att filtrera annonsnamnen i tabellen.
 
 ![Upplevelsfilter och tabell](/help/assets/insights-experiences-filter.png){zoomable="yes"}
 

@@ -26,7 +26,7 @@ Om du vill skapa en ny e-postupplevelse kan du använda en tillgänglig mall fö
 
 **Så här väljer du en e-postmall**:
 
-1. I _[!DNL Create]_klickar du på&#x200B;**[!UICONTROL Email]**i_&quot;Vad vill du skapa idag?&quot;avsnittet _.
+1. I _[!DNL Create]_&#x200B;klickar du på&#x200B;**[!UICONTROL Email]**&#x200B;i_&quot;Vad vill du skapa idag?&quot;avsnittet _.
 1. Använd sökalternativet bredvid _Filter_ för att hitta en viss e-postmall.
 1. Klicka för att välja en e-postmall och klicka på **[!UICONTROL Use]**.
 

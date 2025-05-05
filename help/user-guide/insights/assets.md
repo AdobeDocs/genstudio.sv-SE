@@ -11,15 +11,15 @@ ht-degree: 0%
 
 # Assets - översikt
 
-Vyn [!DNL Insights] _[!UICONTROL Assets]_visar en lista över resurser som används i upplevelser och annonskampanjer för det valda kanalkontot.
+Vyn [!DNL Insights] _[!UICONTROL Assets]_&#x200B;visar en lista över resurser som används i upplevelser och annonskampanjer för det valda kanalkontot.
 
-Galleriet _[!UICONTROL Assets]_är standardvyn som visar ett kollage med förhandsvisningar av resurser och ett mått, till exempel klickfrekvens. Klicka på inställningsikonen ovanför den högra sidan av galleriet för att växla mellan tre mätvärden som kan visas:
+Galleriet _[!UICONTROL Assets]_&#x200B;är standardvyn som visar ett kollage med förhandsvisningar av resurser och ett mått, till exempel klickfrekvens. Klicka på inställningsikonen ovanför den högra sidan av galleriet för att växla mellan tre mätvärden som kan visas:
 
 - `click-through rate` (CTR)
 - `cost per click` (CPC)
 - `spend`
 
-Tabellen _[!UICONTROL Assets]_är ordnad med [!UICONTROL Asset ID]. Filterikonen (trattikonen) ovanför den vänstra sidan av tabellen öppnar menyn **[!UICONTROL Filter]**där du kan välja från flera listor.
+Tabellen _[!UICONTROL Assets]_&#x200B;är ordnad med [!UICONTROL Asset ID]. Filterikonen (trattikonen) ovanför den vänstra sidan av tabellen öppnar menyn **[!UICONTROL Filter]**&#x200B;där du kan välja från flera listor.
 
 ![Assets-filter och tabell](/help/assets/insights-assets-filter.png){zoomable="yes"}
 

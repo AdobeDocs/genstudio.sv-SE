@@ -50,7 +50,7 @@ GenStudio for Performance Marketing sparar kanaldata under en period av 13 måna
 
    Med Reconnect visas GenStudio for Performance Marketing igen.
 
-1. I vyn _[!UICONTROL Connect a Meta ads account]_väljer du ett eller flera av dina annonskonton och klickar på&#x200B;**[!UICONTROL Connect account]**.
+1. I vyn _[!UICONTROL Connect a Meta ads account]_&#x200B;väljer du ett eller flera av dina annonskonton och klickar på&#x200B;**[!UICONTROL Connect account]**.
 <!--
 >[!INFO]
 >

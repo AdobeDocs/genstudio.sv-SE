@@ -93,11 +93,11 @@ Använd [Anpassa mallar](customize-template.md) som guide när du förbereder en
 
 **Så här lägger du till en mall**:
 
-1. I _[!DNL Content]_väljer du avsnittet **[!UICONTROL Templates]**.
+1. I _[!DNL Content]_&#x200B;väljer du avsnittet **[!UICONTROL Templates]**.
 
 1. Klicka på **[!UICONTROL Add template]**.
 
-1. I rutan _[!UICONTROL Add your approved template]_bläddrar du efter mallfilen HTML eller drar HTML-mallfilen till släppområdet. Klicka på&#x200B;**[!UICONTROL Next]**.
+1. I rutan _[!UICONTROL Add your approved template]_&#x200B;bläddrar du efter mallfilen HTML eller drar HTML-mallfilen till släppområdet. Klicka på&#x200B;**[!UICONTROL Next]**.
 
 1. Granska de identifierade fälten i rutan _[!UICONTROL Review discovered fields]_. Kontrollera att du använder rätt mall och att all information är som förväntat. Klicka på&#x200B;**[!UICONTROL Next]**.
 
@@ -109,7 +109,7 @@ Använd [Anpassa mallar](customize-template.md) som guide när du förbereder en
    >
    >Om mallen inte är korrekt klickar du på **[!UICONTROL Back]** och går tillbaka till föregående steg. Överför den korrigerade mallfilen.
 
-1. I rutan _[!UICONTROL Provide template details and upload]_ger du mallen ett namn och väljer en **[!UICONTROL Channel]**-typ.
+1. I rutan _[!UICONTROL Provide template details and upload]_&#x200B;ger du mallen ett namn och väljer en **[!UICONTROL Channel]**-typ.
 
    Mallnamn och kanaltyp krävs. Ytterligare krav kan vara:
 
@@ -126,7 +126,7 @@ Hitta och använd en befintlig mall i GenStudio for Performance Marketing för a
 
 **Så här skapar du en upplevelse med en mall**:
 
-1. I _[!DNL Content]_väljer du avsnittet **[!UICONTROL Templates]**.
+1. I _[!DNL Content]_&#x200B;väljer du avsnittet **[!UICONTROL Templates]**.
 
    ![Listan Innehållsmall](../../assets/content-templates.png){width="650" zoomable="yes"}
 

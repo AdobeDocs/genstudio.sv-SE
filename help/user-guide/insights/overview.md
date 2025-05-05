@@ -30,21 +30,21 @@ Kontrollpanelen [!DNL Insights] har en konfigurerbar tabell för varje innehåll
 
 ![[!DNL Insights] instrumentpanel](/help/assets/insights-dashboard.png)
 
-I varje vy visas en motsvarande tabell, som du kan söka efter nyckelord, filtrering och datumintervall. Du kan klicka på inställningsikonen (cog) ovanför den högra sidan av tabellen för att växla mellan olika kolumntyper. Raden _[!UICONTROL Summary]_kan visa summor eller medelvärden för en kolumn.
+I varje vy visas en motsvarande tabell, som du kan söka efter nyckelord, filtrering och datumintervall. Du kan klicka på inställningsikonen (cog) ovanför den högra sidan av tabellen för att växla mellan olika kolumntyper. Raden _[!UICONTROL Summary]_&#x200B;kan visa summor eller medelvärden för en kolumn.
 
 [!UICONTROL Experiences], [!UICONTROL Assets] och [!UICONTROL Attributes] innehåller en gallerivy där du kan skanna och sortera resurser med kort med en bild- eller videominiatyr. Det finns ett alternativ för att visa en av tre nyckelmått på varje kort: `Click-through rate`, `Cost per click` och `Spend`.
 
 ### Kanaler
 
-Vyn [!DNL Insights] _[!UICONTROL Channels]_är standardvy och visar en lista med aktiv kampanjinformation, till exempel mål, budget, startdatum och aktivitet. Se [Översikt över kanaler](channels.md).
+Vyn [!DNL Insights] _[!UICONTROL Channels]_&#x200B;är standardvy och visar en lista med aktiv kampanjinformation, till exempel mål, budget, startdatum och aktivitet. Se [Översikt över kanaler](channels.md).
 
 ### Erfarenheter
 
-Vyn [!DNL Insights] _[!UICONTROL Experiences]_fokuserar på att utvärdera en upplevelses effektivitet. I vyn [!UICONTROL Experiences] kan du analysera en upplevelses mått baserat på dess annonsplacering inom ett angivet datumintervall. Genom att klicka på en_[!UICONTROL Ad name]_ kan du visa annonsens prestandamått, prestanda per annonsplacering och attribut.
+Vyn [!DNL Insights] _[!UICONTROL Experiences]_&#x200B;fokuserar på att utvärdera en upplevelses effektivitet. I vyn [!UICONTROL Experiences] kan du analysera en upplevelses mått baserat på dess annonsplacering inom ett angivet datumintervall. Genom att klicka på en&#x200B;_[!UICONTROL Ad name]_ kan du visa annonsens prestandamått, prestanda per annonsplacering och attribut.
 
 ### Assets
 
-Vyn [!DNL Insights] _[!UICONTROL Assets]_är utformad för att hjälpa dig att analysera prestandan för resurser. Du kan identifiera attribut för en resurs som bidrar till att förbättra ett markerat mätvärde, till exempel klick eller visningar.
+Vyn [!DNL Insights] _[!UICONTROL Assets]_&#x200B;är utformad för att hjälpa dig att analysera prestandan för resurser. Du kan identifiera attribut för en resurs som bidrar till att förbättra ett markerat mätvärde, till exempel klick eller visningar.
 
 Om du klickar på en resurs får du mer information om hur den fungerar i olika upplevelser:
 
@@ -56,4 +56,4 @@ I resursvyn visas en miniatyrbild av resursen och en lista med attribut till vä
 
 Innehåll _attribut_ hjälper till att identifiera resurser med hjälp av inbyggda detaljer, som färg, ton, disposition (t.ex. ämne, teckensnitt, visuella element) och andra nyckelkomponenter. Attribut är ofta den minst uppmätta och analyserade uppsättningen med innehållsinformation.
 
-Vyn [!DNL Insights] _[!UICONTROL Attributes]_kan hjälpa dig att utforska och identifiera vilka attribut som fungerar bättre med vissa målgrupper, kanaler, regioner och kan hjälpa dig att lyfta fram säsongstrender. Med dessa insikter kan ni använda resultatattribut för att skapa varianter, inrikta er på en viss målgrupp eller experimentera med olika kampanjstrategier.
+Vyn [!DNL Insights] _[!UICONTROL Attributes]_&#x200B;kan hjälpa dig att utforska och identifiera vilka attribut som fungerar bättre med vissa målgrupper, kanaler, regioner och kan hjälpa dig att lyfta fram säsongstrender. Med dessa insikter kan ni använda resultatattribut för att skapa varianter, inrikta er på en viss målgrupp eller experimentera med olika kampanjstrategier.

@@ -26,7 +26,7 @@ Om du vill börja generera en ny annonsupplevelse med Meta använder du en tillg
 
 **Så här väljer du en mall för Meta-annons**:
 
-1. I _[!DNL Create]_klickar du på&#x200B;**[!UICONTROL Meta ads]**i_&quot;Vad vill du skapa idag?&quot;avsnittet _.
+1. I _[!DNL Create]_&#x200B;klickar du på&#x200B;**[!UICONTROL Meta ads]**&#x200B;i_&quot;Vad vill du skapa idag?&quot;avsnittet _.
 1. Använd sökalternativet bredvid _Filter_ för att hitta en specifik mall för metaannonser.
 1. Klicka för att välja en mall och klicka på **[!UICONTROL Use]**.
 
@@ -85,7 +85,7 @@ Innan du väljer vad som ska skickas för godkännande eller publicering till [!
 
 * **Om du vill [redigera namnet på metadatautkastet](/help/user-guide/create/manage-variants.md#change-draft-name)** klickar du i titeln _Namnlöst utkast_ längst upp på arbetsytan och anger en ny titel.
 * **Om du vill [redigera en Meta-annons manuellt](/help/user-guide/create/manage-variants.md#manually-edit-text)** dubbelklickar du i något av annonsavsnitten (t.ex. ämnesraden, huvudet eller brödtexten) och redigerar efter behov.
-* **Om du vill ändra eller markera anropet till åtgärden** klickar du på knappen för att ringa till åtgärd och väljer bland de tillgängliga textalternativen för knappen. I _[!UICONTROL Link]_anger du en URL för texten som anropar till åtgärd.
+* **Om du vill ändra eller markera anropet till åtgärden** klickar du på knappen för att ringa till åtgärd och väljer bland de tillgängliga textalternativen för knappen. I _[!UICONTROL Link]_&#x200B;anger du en URL för texten som anropar till åtgärd.
 * **Om du vill [ändra storlek och proportioner för annonsen](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** klickar du på knappen _[!UICONTROL Resize]_(ruta med en knappikon till vänster om arbetsytan) och väljer en ny storlek och proportioner som ska användas för alla varianter. Varianterna dupliceras och storleksändras.
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
 * **Om du vill [beskära eller flytta bilder](/help/user-guide/create/manage-variants.md#crop-assets)** håller du pekaren över en bild, klickar på beskärningsikonen som visas och justerar bildens storlek och placering.
