@@ -95,7 +95,7 @@ När du granskar och förbereder e-postupplevelser kan du [växla mellan förhan
 
 ## Verifiera varumärkesjustering
 
-Om du vill optimera de genererade e-postmeddelandena och säkerställa strikt efterlevnad av varumärkesidentiteten kan du utnyttja kraften i kontrollen [_Varumärkesriktlinjer_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - som ger en sammanfattning av varumärkeskontraktionen för en variant - och [_Varumärkesvalidering_ ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - som visar omfattande information om varumärkesvalidering och belysande förbättringsområden.
+Om du vill optimera de genererade e-postmeddelandena och säkerställa strikt efterlevnad av varumärkesidentiteten kan du utnyttja kraften i kontrollen [_Varumärkesriktlinjer_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - som ger en sammanfattning av varumärkeskontraktionen för en variant - och [_Varumärkesvalidering_ &#x200B;](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - som visar omfattande information om varumärkesvalidering och belysande förbättringsområden.
 
 **Så här verifierar du varumärkesjustering**:
 

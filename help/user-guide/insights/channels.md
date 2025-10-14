@@ -22,7 +22,7 @@ Tabellen _[!UICONTROL Channels]_&#x200B;är organiserad med den kanalbaserade an
 
 ![Kanalfilter och tabell](/help/assets/insights-channels-filter.png){zoomable="yes"}
 
-När du väljer en kampanj öppnas fliken [[!UICONTROL Experiences] ](experiences.md) med en lista över annonsnamn som är associerade med den kampanjen, som gör att du kan identifiera vilka upplevelser som har bidragit till kampanjens övergripande framgång.
+När du väljer en kampanj öppnas fliken [[!UICONTROL Experiences] &#x200B;](experiences.md) med en lista över annonsnamn som är associerade med den kampanjen, som gör att du kan identifiera vilka upplevelser som har bidragit till kampanjens övergripande framgång.
 
 ## Mål
 

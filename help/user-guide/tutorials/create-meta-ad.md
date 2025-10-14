@@ -97,7 +97,7 @@ Klicka på alternativikonen (tre punkter) och välj **[!UICONTROL Good output]**
 
 ## Verifiera varumärkesjustering
 
-Om du vill optimera de annonser som skapas och säkerställa strikt överensstämmelse med varumärkesidentiteten kan du utnyttja kraften i kontrollen [_Varumärkesriktlinjer_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - som ger en sammanfattning av varumärkesjusteringen för en variant - och [_Varumärkesvalidering_ ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - och visa omfattande information om varumärkesvalidering och belysande förbättringsområden.
+Om du vill optimera de annonser som skapas och säkerställa strikt överensstämmelse med varumärkesidentiteten kan du utnyttja kraften i kontrollen [_Varumärkesriktlinjer_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - som ger en sammanfattning av varumärkesjusteringen för en variant - och [_Varumärkesvalidering_ &#x200B;](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - och visa omfattande information om varumärkesvalidering och belysande förbättringsområden.
 
 **Så här verifierar du varumärkesjustering**:
 
